@@ -88,7 +88,7 @@
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2>Everything about Vehicle Storage, </br>That’s what we do.</h2>
+              <h2> Comprehensive Van Racking Solution </h2>
             </div>
             <img class="hiden" src="images/banner1.jpg" alt="Van Conversion in UAE">
             <img class="show" src="images/banner1.jpg" alt="Van Conversion">
@@ -96,24 +96,15 @@
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2> Trouble Free Loading Ramps </h2>
+              <h2> Hassle-free Loading Ramps </h2>
             </div>
             <img class="hiden" src="images/banner10.jpg" alt="Loading Ramps in UAE">
             <img class="show" src="images/banner10.jpg" alt="Loading Ramps">
-          </div>
-
-          <!-- <div class="slide">
-      	<div class="slide__text fadeInDown animated">
-      	<h2>It’s not a Product, </br>It’s a Solution.</h2>
-      </div>
-		  <img class="hiden" src="images/banner2.jpg" alt="Mobile Service Van in UAE">
-		  <img class="show" src="images/banner2.jpg" alt="Mobile Service Van" > 
-
-      </div> -->
+          </div> 
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2>Work on the go.</h2>
+              <h2> Work on the move </h2>
             </div>
             <img class="hiden" src="images/banner3.jpg" alt="Mobile Service Van">
             <img class="show" src="images/banner3.jpg" alt="Mobile Service Van in UAE">
@@ -121,7 +112,7 @@
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2>Solutions to meet, </br>Varying needs.</h2>
+              <h2> Versatile Solutions </h2>
             </div>
             <img class="hiden" src="images/banner4.jpg" alt="Mobile Service Van">
             <img class="show" src="images/banner4.jpg" alt="Mobile Service Van in UAE">
@@ -129,7 +120,7 @@
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2>Top Quality manufactured, </br>in Germany.</h2>
+              <h2> High-quality German Manufacturing </h2>
             </div>
             <img class="hiden" src="images/banner5.jpg" alt="Van Conversion">
             <img class="show" src="images/banner5.jpg" alt="Van Conversion in UAE">
@@ -137,7 +128,7 @@
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2>Product Experts to guide you, </br>to the Right Solution.</h2>
+              <h2> Expert Guidance To Help You Find The Right Solution </h2>
             </div>
             <img class="hiden" src="images/banner6.jpg" alt="Van Conversion">
             <img class="show" src="images/banner6.jpg" alt="Mobile Service Van">
@@ -145,7 +136,7 @@
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2>More & Secured, </br>Storage space.</h2>
+              <h2> More Space, More Security </h2>
             </div>
             <img class="hiden" src="images/banner7.jpg" alt="Mobile Service Van">
             <img class="show" src="images/banner7.jpg" alt="Mobile Service Van in UAE">
@@ -153,19 +144,11 @@
 
           <div class="slide">
             <div class="slide__text fadeInDown animated">
-              <h2>Perfect organizer in the workshop and site.</h2>
+              <h2> Ideal Storage Solution </h2>
             </div>
             <img class="hiden" src="images/banner8.jpg" alt="Store To Go">
             <img class="show" src="images/banner8.jpg" alt="Van Racking">
-          </div>
-
-          <div class="slide">
-            <div class="slide__text fadeInDown animated">
-              <h2> Van Folding Ramps </h2>
-            </div>
-            <img class="hiden" src="images/banner9.jpg" alt="Store To Go">
-            <img class="show" src="images/banner9.jpg" alt="Van Racking">
-          </div>
+          </div> 
 
 
 
