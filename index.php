@@ -302,16 +302,19 @@
     <div class="container">
       <div class="row">
 
-        <h3> Think Smart, Save Time, Save Effort and Make Money!! </h3>
+        <h3> Upgrade To Our Van Racking Solutions </h3>
       </div>
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <p> A versatile and reliable <strong>van racking</strong> as you need to be. A professional <strong>van conversion</strong> system for people who are working on go. Make sure that your work is done perfectly with the easily accessible van storage system. Keep your tools safe, organized, and accessible for any job at your comfort with the help of the best vehicle raking solution available in GCC. Whether your working tools are small components or bulky power tools and you can organize anything into your van with a perfect <a href="https://www.storetogo.ae/sr5.php" target="_blank"> van racking </a> system installed.
+          <p> We offer professional van conversion solutions for the on-site technicians, ensuring that you get
+             the most efficient, organized and reliable mobile workspace.  You can keep your tools safe and secure,
+              always ready when the job calls.  Our customized van racking system provides the ultimate update 
+              for your vehicle, with perfect utilization of space and enhances workflow, thereby showcasing true professionalism. 
+             </p>
 
-          </p>
-
-          <p> To create the ideal mobile storage solution you can combine and customize a wide range of accessories. A lightweight and efficient vehicle racking system that can save your time, cargo space, and fuel costs. We are one of the best van conversion solutions you can avail of in the UAE. Meet the specialist in <a href="https://www.storetogo.ae/sr5.php" target="_blank">  Van Racking  </a>System and Make the best use of your vehicle. Partner with the best Van conversion solution provider who is always constant in product improvement and innovation.
-          </p>
+          <p>  Our team will tailor the van racking system in accordance to the needs of our clients. Our lightweight,
+             efficient racking systems will help you save space and cut fuel costs. Partner with Store To Go and experience professional solutions.
+             </p>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 strip-pic">
           <img src="./images/van-conversion.jpg" alt="Store To Go Van conversion and Racking Solutions">
@@ -492,8 +495,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <p>We guarantee that you will be our primary focus throughout the entire process, from individual planning
-            and advice to vehicle handover and beyond.</p>
+          <p> From planning to van racking , vehicle handover and beyond- we  stand by you at every step.  </p>
         </div>
       </div>
 
