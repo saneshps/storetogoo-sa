@@ -188,12 +188,16 @@ if (isset($_POST['subc'])) {
      <div class="container-fluid">
        <div class="row">
          <div class="col-md-12">
-           <h3>Our Locations</h3>
-           <p>If you would like to find out more about how STORETOGO can help your business, we will be more than happy to speak with you and set up a meeting to identify your requirement and provide you our proposal</p>
+           <h3> Contact Us  </h3>
+           <p> Ready to create a custom smart storage solution for your business needs? Then get in touch with StoreToGo
+             today and upgrade your van to the next level. Our team of experts will design a storage solution that suits your van model,
+              that too at competitive pricing. Whether it's a single installation or even a full van set up,
+               we help you to make the most of your vehicle space.
+              </p>
 
          </div>
 
-<div class="col-md-4 col-sm-6 up">
+<div class="col-md-12 up">
            <h4>StoreToGo Saudi Arabia</h4> 
            <p>Building No: 7446 - King Abdulaziz Rd <br>
               Madinat Al Ummal Dist. <br>

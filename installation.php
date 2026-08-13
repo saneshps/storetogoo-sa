@@ -95,14 +95,15 @@
        <div class="row">
          <div class="col-md-12">
            <!--  <h3>Our Locations</h3> -->
-           <p> Explore our showcase of meticulously executed installations by StoreToGo,
-             highlighting our expertise in fulfilling diverse van racking requirements.
-             Each photo encapsulates a unique solution tailored to our clients' specific needs,
-             showcasing our commitment to functionality, durability, and aesthetic appeal.
-             From optimizing storage space to ensuring seamless organization, these installations exemplify
-             the versatility and craftsmanship that define StoreToGo's approach. Discover firsthand how
-             our solutions elevate the efficiency and aesthetics of van interiors, meeting the demands
-             of various industries with precision and innovation.
+           <p>  Discover how StoreToGo helped businesses to get more from their vans with our custom van racking solutions.
+             Our storage concept and designs address the real world needs of companies and industries that rely on organized
+              mobile storage, safe transportation and easier access to necessary tools and equipment. 
+
+           </p>
+           <p> Are you curious on how your van can turn out to be? Step inside our installation
+             showcase and see how we offered customized van racking solutions, transforming vans
+              into super efficient and organized workspace. 
+
            </p>
 
 
