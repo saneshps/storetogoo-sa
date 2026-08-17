@@ -134,48 +134,16 @@
 
 
 
-  <section id="serico" style="padding-bottom: 20px;">
-    <div class="container-fluid">
-
-
-
-      <div class="row" style="background-color: #eeeff1;">
-        <div class="yCmsComponent sortimo-component-slot clearfix">
-          <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_00002F8FR">
-            <div class="row" style="background-color: #eeeff1;">
-              <div class="image-container" style="width: 1050px; height: 510px;
-        background-image: url('images/product/ramp-1.jpg');  float: left;">
-                <img src="images/product/fr5-header-1050x510.gif" style="visibility: hidden;">
-              </div>
-              <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 480px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
-                <div class="arrow-container" style="background-color: #eeeff1;"></div>
-
-                <h1 class="component-headline mm">
-
-                Heavy-Duty Loading Ramp
-                </h1>
-
-
-
-
-                <div class="text">
-                  <p>  The WM Light Plus Swivel model that we supply is reinforced by aluminum and features a spring-assisted system that makes it strong,
-                     lightweight and easy to use. With a built-in external swivel, the workers can access the rear of the vehicle if required.
-                      Our heavy-duty loading ramps can perfectly handle loading and unloading weights ranging from 400 to 1800 kg. 
-                     </p>
-                  <p>  Our loading ramps are lightweight, highly durable, built to withstand heavy usage and require low maintenance.
-                     The superior built quality makes it resistant to scratch and discolouration. They can be used in commercial vehicles as well.
-                     </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+  <section id="serico" class="ramps-hero-section">
+    <div class="ramps-hero">
+      <div class="ramps-hero-media">
+        <img src="images/product/ramp-1.jpg" alt="Heavy-duty van loading ramps">
       </div>
-
-
-
+      <div class="ramps-hero-copy">
+        <h1>Heavy-Duty Loading Ramp</h1>
+        <p>The WM Light Plus Swivel model that we supply is reinforced by aluminum and features a spring-assisted system that makes it strong, lightweight and easy to use. With a built-in external swivel, the workers can access the rear of the vehicle if required. Our heavy-duty loading ramps can perfectly handle loading and unloading weights ranging from 400 to 1800 kg.</p>
+        <p>Our loading ramps are lightweight, highly durable, built to withstand heavy usage and require low maintenance. The superior built quality makes it resistant to scratch and discolouration. They can be used in commercial vehicles as well.</p>
+      </div>
     </div>
   </section>
 

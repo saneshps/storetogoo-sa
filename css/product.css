@@ -4007,7 +4007,7 @@ justify-content: center;
   flex-direction: column;
   justify-content: center;
   padding: 48px 56px;
-  max-width: 520px;
+  max-width: 560px;
   color: #546373;
 }
 
@@ -4032,7 +4032,6 @@ justify-content: center;
   color: #546373 !important;
   text-align: left !important;
   margin: 18px 0 0 !important;
-  max-width: 420px;
   width: auto !important;
 }
 
