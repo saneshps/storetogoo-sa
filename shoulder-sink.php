@@ -131,57 +131,18 @@
 
 
 
-  <section id="serico">
-    <div class="container-fluid">
-
-
-
-      <div class="row" style="background-color: #eeeff1;">
-        <div class="yCmsComponent sortimo-component-slot clearfix">
-          <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_00002F8FR">
-            <div class="row" style="background-color: #eeeff1;">
-              <div class="image-container" style="width: 1050px; height: 510px;
-        background-image: url('images/shoulder-sink/shoulder-sink-banner.jpg');  float: left;">
-                <img src="images/product/fr5-header-1050x510.gif" style="visibility: hidden;">
-              </div>
-              <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 480px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
-                <div class="arrow-container" style="background-color: #eeeff1;"></div>
-
-                <h1 class="component-headline mm">
-
-                  SHOULDER SINK
-                </h1>
-
-
-
-
-                <div class="text">
-                  <p> Explore our showcase of meticulously executed installations by StoreToGo,
-                    highlighting our expertise in fulfilling diverse 
-                    <a href="https://www.storetogo.ae/van-racking.php" target="_blank"> van racking </a> requirements.
-                    Each photo encapsulates a unique solution tailored to our clients' specific needs,
-                    showcasing our commitment to functionality, durability, and aesthetic appeal.
-                    From optimizing storage space to ensuring seamless organization, these installations exemplify
-                    the versatility and craftsmanship that define StoreToGo's approach. Discover
-                    firsthand how our solutions elevate the efficiency and aesthetics of van interiors,
-                    meeting the demands of various industries with precision and innovation.
-
-
-                  </p>
-
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+  <section id="serico" class="ramps-hero-section">
+    <div class="ramps-hero">
+      <div class="ramps-hero-media">
+        <img src="images/shoulder-sink/shoulder-sink-banner.jpg" alt="StoreToGo shoulder sink for vans">
       </div>
-
-
-
+      <div class="ramps-hero-copy">
+        <h1>SHOULDER SINK</h1>
+        <p>Shoulder sink is a compact wash unit placed at a comfortable working height inside vans and mobile workspaces. It is installed at a shoulder height and allows quick and hygienic handwashing. It is ideal for tradespeople and industries with strict hygiene protocol. At StoreToGo we offer quality ergonomic shoulder sink tanks that are durable, easy to clean and well integrated into your vehicle unit.</p>
+      </div>
     </div>
   </section>
+
 
   <!-- Ramp details -->
   <section class="shoulder-sink-area">
@@ -192,7 +153,7 @@
         </div> -->
         <div class="col-md-12 shoulder-two">
           <img src="images/shoulder-sink/shoulder-sink.jpg" alt="">
-          <h2> Clean hands are needed by everyone </h2>
+          <h2> Those Who Benefit From Shoulder Sink:  </h2>
 
           <ul>
             <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Plumbers </li>
@@ -201,39 +162,24 @@
             <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Firemen </li>
             <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Homecare workers </li>
             <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Installers </li>
-            <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Electricians </li>
-            <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Basically, any professional on the move… </li>
+            <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> Electricians </li> 
           </ul>
-          <p> Essential elements - water, soap, a bin, and paper - right
-            at your fingertips! This is precisely what ShoulderSink delivers.
-          </p>
-          <p> Practicing handwashing is a simple, cost-effective,
-            and efficient method to maintain employee health and prevent the transmission of germs.
-            ShoulderSink empowers individuals to actively contribute to their well-being by placing all
-            essential components conveniently within reach.
-          </p>
-          <p> Indeed, that isn't the remedy. Taking precautions proves more effective than seeking cures.
-            While it's understood that everyone is implementing preventive measures to curb the spread
-            of contagious diseases, the question is: Are we doing it efficiently? Introducing the Shoulder Sink,
-            a German technology that offers a time-saving hand-hygiene solution designed for professionals
-            in motion. Ensure your employees' hands remain consistently safe, promoting health, cleanliness,
-            and time efficiency.
-          </p>
-          <p> Handwashing plays a crucial role in maintaining the health of employees and preventing the spread of germs,
-            providing an easy, affordable, and effective means of personal hygiene. ShoulderSink empowers employees
-            to actively engage in their well-being, offering a comprehensive solution right at their fingertips.
-          </p>
-          <p> ShoulderSink stands out as the sole hygiene solution where all essential components are consolidated
-            in one accessible unit. Hand Wash, Hand Sanitizer, Tissue papers, and a Waste Bin are seamlessly integrated,
-            making it an indispensable technology for your work van, particularly in Van Hand Wash Stations
-            and Van Hand Wash Sinks.
-          </p>
-          <p> Effortlessly installable and occupying minimal space in your van, ShoulderSink takes only a few minutes to mount.
-            It can be placed wherever there is available space, ensuring ease of use at a height that is both accessible
-            and convenient, thanks to its robust, powder-coated steel bracket.
-          </p>
-          <p> Whether elevated at the side door of a van, mounted at the end of a rack, or stored in a compartment in a truck or bus, ShoulderSink provides a genuine handwashing solution tailored to your needs and convenience. </p>
+         <p> The essential elements of sanitization, everything right at your finger tips.  </p>
+         <p> Germ and pathogen spread can be prevented with the right hygiene routine. The interesting part ?
+           Something as simple as washing hands can prevent germ transmission to a great extent. That being said,
+            it is often hard for field professionals to find a practical and convenient method for hand sanitization.
+             This is where ShoulderSink becomes relevant. A German technology production, our ShoulderSinkoffers
+              time-saving hand-hygiene solutions for on-the-go workers. This helps them to actively engage in
+               their well-being, thereby promoting hygiene culture. 
 
+         </p>
+         <p> Our ShoulderSink consists of all essential components such as hand wash, hand sanitizer,
+           tissue papers and a waste bin.  It can be installed easily and only occupies a minimal space of the van.
+            The strong, powder coated steel bracket prevents rust, enhances durability and maintains the professional appearance. 
+
+         </p>
+         <p> The ShoulderSink can be installed near the door side or attached to the end of a storage rack.
+           It can be kept inside a storage box when not in use.  </p>
         </div>
 
         <div class="col-md-12 shoulder-faq">
@@ -243,22 +189,29 @@
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" checked />
     <h3 class="accordian-header active">
-   <span class="nmbr"> 1. </span>	What is a van hand wash station?
+   <span class="nmbr"> 1. </span>	What is a Van Hand Wash Station? 
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content" tabindex="2">
-      <p>  A van hand wash station is a portable hygiene solution designed for on-the-go professionals. It typically includes components like a hand wash basin, hand sanitizer dispenser, tissue paper holder, and waste bin. These stations are tailored to fit within the confined spaces of vans, providing a convenient and accessible means for personal hygiene. </p>
+      <p>  It is a portable hygiene solution designed for the field professionals. It includes all the major components
+         such as a hand wash basin, hand sanitizer dispenser, tissue paper holder and a waste bin. These hand wash basins
+          can be fitted in confined spaces, providing a convenient and accessible means for personal hygiene.
+
+         </p>
     </div>
   </div>
   
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" />
     <h3 class="accordian-header">
-    <span class="nmbr"> 2. </span> How does a van hand wash sink work?
+    <span class="nmbr"> 2. </span> What is the working of a van hand wash station?
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> A van hand wash sink operates by providing essential elements for hand hygiene, such as water, soap, and sanitizing solutions. These sinks are equipped with an integrated system that allows users to access these components easily. Some may include a foot pump for water supply, making them practical for use in various locations. </p>
+      <p> The van hand wash station works by providing all the essentials to maintain hand hygiene such as water,
+         soap, sanitizer and more. With the integrated components you can access all the components easily.
+          Some models may include a foot pump for water supply. 
+         </p>
     </div>
   </div>
   
@@ -269,73 +222,94 @@
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> Key features of a van hand wash station include a compact design for space efficiency, integration of hand wash and sanitizing components, a waste bin for disposal, and easy accessibility. These stations are often built with durable materials to withstand the rigors of a mobile environment. </p>
+      <p> The key features include the different hand sanitizing components, waste bin for disposal, compact design 
+        that ensures space efficiency and durability to withstand mobile environments.  
+         </p>
     </div>
   </div>
 
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" />
     <h3 class="accordian-header">
-    <span class="nmbr"> 4. </span>	Why is a shoulder sink beneficial for van racking? 
+    <span class="nmbr"> 4. </span>	How does a shoulder sink become for van racking?
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> A ShoulderSink is advantageous for van racking as it consolidates all hygiene essentials into one compact unit. It optimizes space in a van, promoting efficiency and convenience. Its design allows it to be easily mounted on van racking systems, ensuring accessibility without compromising valuable workspace. </p>
+      <p>  The ShoulderSink is a comprehensive van racking solution packed into a single washing unit. It can be easily installed,
+         utilizes space efficiently and ensures hygiene.
+
+         </p>
     </div>
   </div>
 
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" />
     <h3 class="accordian-header">
-    <span class="nmbr"> 5. </span>	Are van hand wash stations suitable for all types of vans? 
+    <span class="nmbr"> 5. </span>	Are the Van Hand Wash Stations suitable for all types of vans?
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> Yes, van hand wash stations are designed to be versatile and adaptable to various van types. Their compact and customizable nature makes them suitable for different van models, allowing professionals across various industries to integrate this essential hygiene solution into their vehicles. </p>
+      <p>  Yes, the van hand wash stations are designed to adapt to the various interior layouts of different van types.
+         Their compact and customizable designs play a key role in this. Thus, diverse industries are able to incorporate
+          this hygiene solution into their vehicles. 
+         </p>
     </div>
   </div>
 
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" />
     <h3 class="accordian-header">
-    <span class="nmbr"> 6. </span>	How is water supplied to a van hand wash station? 
+    <span class="nmbr"> 6. </span>	How is the water supplied to the van hand wash station?
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> The water supply to a van hand wash station varies. Some models may feature an integrated water tank with a foot pump for hands-free operation. Others may connect directly to the van's water supply or utilize portable water containers. The specific design depends on the model and user preferences. </p>
+      <p> 
+      It varies across different models. Some models may have an integrated water tank with a foot pump for hand-free operation.
+       Others may use portable water containers, while some connect directly to the van’s water supply.
+     </p>
     </div>
   </div>
 
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" />
     <h3 class="accordian-header">
-    <span class="nmbr"> 7. </span>	Can a van hand wash station be used for more than just handwashing? 
+    <span class="nmbr"> 7. </span>	Is the van hand wash station fit for multiple purposes, apart from just washing?
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> Yes, van hand wash stations can serve multiple purposes. Apart from handwashing, they are equipped with features like a waste bin and tissue paper holder, making them suitable for general cleanliness and waste disposal. Their versatility makes them valuable for a range of hygiene needs on the go. </p>
+      <p> Yes, the van hand wash station can be used for multiple purposes. Since it is equipped with additional components such as
+         a waste bin and tissue paper holder, it can be used for waste disposal and general cleaning. 
+
+        </p>
     </div>
   </div>
 
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" />
     <h3 class="accordian-header">
-    <span class="nmbr"> 8. </span>	Are van hand wash stations easy to install in a van? 
+    <span class="nmbr"> 8. </span>	How easy is the installation process?
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> Yes, van hand wash stations are designed for easy installation. Most models come with user-friendly mounting options, and installation typically involves securing the station to the van's interior using brackets or other secure attachment methods. The process is straightforward and can be completed in a short time. </p>
+      <p> Yes, they can be installed easily. Most of the models feature user-friendly mounting options.
+         It is installed by securing the station to the intended space in the van’s interior using brackets
+          or other attachment methods. The process is easy and can be completed in a short time.
+         </p>
     </div>
   </div>
 
   <div class="accordion">
     <input type="radio" name="radacc" class="accordian-chk" />
     <h3 class="accordian-header">
-    <span class="nmbr"> 9. </span>	What maintenance is required for a van hand wash station? 
+    <span class="nmbr"> 9. </span>	What are the maintenance requirements of the Van Hand Wash Stations?
       <span class="acc-icon"></span>
     </h3>
     <div class="accordian-content">
-      <p> Maintenance for a van hand wash station is generally minimal. Regular checks on water levels, soap, and sanitizing solutions, as well as waste disposal, are recommended. Cleaning the basin and surfaces regularly helps maintain hygiene. Additionally, ensuring secure mounting and addressing any wear and tear promptly will contribute to the station's longevity. </p>
+      <p>  Hand wash stations generally require minimal maintenance. Regular check on the water levels,
+         soap and other sanitizing solutions are advised. In addition to that cleaning the basin and the
+          surfaces will also help to maintain the overall hygiene. Inspecting for signs of wear and tear will also be helpful. 
+
+      </p>
     </div>
   </div>
 
