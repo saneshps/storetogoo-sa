@@ -161,12 +161,8 @@
 
 
                 <div class="text">
-                  <p> Crafted from durable materials like aluminum, Loading Ramps have a lightweight design with a sturdy construction.
-                    This makes them a popular choice for those looking to upgrade their van's accessibility and cargo-handling capabilities.
-                    The range of light and heavy-duty ramps offers perfect solutions for household and commercial usages.
-
-
-                  </p>
+                  <p>  Built from durable materials like aluminum, our loading ramps are lightweight and strong.
+                     We offer a vast range of light and heavy-duty ramps that are well suited for both residential and commercial use.   </p>
                 </div>
               </div>
             </div>
@@ -195,58 +191,6 @@
             </div>
 
             <div class="ramp-content">
-              <h3> WM PC </h3>
-
-              <h4> Loading Capacity </h4>
-              <p> from 600 kg to 1800 kg </p>
-
-              <h4> Customized dimensions </h4>
-              <p> Width from 60 to 137.5 cm </p>
-              <p> Length from 195 to 325 cm </p>
-
-              <h4> Handling </h4>
-              <p> External and internal swivelling </p>
-
-            </div>
-          </div>
-        </div>
-
-        <!-- 1 -->
-
-        <!-- 1 -->
-        <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-          <div class="ramp-box">
-            <div class="ramp-img">
-              <img src="images/product/wm-me.jpg" alt="">
-            </div>
-
-            <div class="ramp-content">
-              <h3> WM ME </h3>
-
-              <h4> Loading Capacity </h4>
-              <p> from 600 kg to 1800 kg </p>
-
-              <h4> Customized dimensions </h4>
-              <p> Width from 60 to 137.5 cm </p>
-              <p> Length from 195 to 325 cm </p>
-
-              <h4> Handling </h4>
-              <p> Horizontal deployment </p>
-
-            </div>
-          </div>
-        </div>
-
-        <!-- 1 -->
-
-        <!-- 1 -->
-        <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-          <div class="ramp-box">
-            <div class="ramp-img">
-              <img src="images/product/wm-pc-r.jpg" alt="">
-            </div>
-
-            <div class="ramp-content">
               <h3> WM PC-R </h3>
 
               <h4> Loading Capacity </h4>
@@ -269,7 +213,7 @@
         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
           <div class="ramp-box">
             <div class="ramp-img">
-              <img src="images/product/wm-me-r.jpg" alt="">
+              <img src="images/product/wm-me.jpg" alt="">
             </div>
 
             <div class="ramp-content">
@@ -291,12 +235,11 @@
 
         <!-- 1 -->
 
-
         <!-- 1 -->
         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
           <div class="ramp-box">
             <div class="ramp-img">
-              <img src="images/product/wm-light.jpg" alt="">
+              <img src="images/product/wm-pc-r.jpg" alt="">
             </div>
 
             <div class="ramp-content">
@@ -322,7 +265,7 @@
         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
           <div class="ramp-box">
             <div class="ramp-img">
-              <img src="images/product/wm-light-r.jpg" alt="">
+              <img src="images/product/wm-me-r.jpg" alt="">
             </div>
 
             <div class="ramp-content">
@@ -344,11 +287,12 @@
 
         <!-- 1 -->
 
+
         <!-- 1 -->
         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
           <div class="ramp-box">
             <div class="ramp-img">
-              <img src="images/product/wm-easy.jpg" alt="">
+              <img src="images/product/wm-light.jpg" alt="">
             </div>
 
             <div class="ramp-content">
@@ -358,7 +302,7 @@
               <p> 300 kg </p>
 
               <h4> Customized dimensions </h4>
-              <p> Width from 80 to 200,225,250,275 and 300 cm </p>
+              <p> Width from 80 to 200,225,250,275 and 300 cm </p> 
 
               <h4> Handling </h4>
               <p> Lateral positioning </p>
@@ -373,7 +317,7 @@
         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
           <div class="ramp-box">
             <div class="ramp-img">
-              <img src="images/product/wm-superlight.jpg" alt="">
+              <img src="images/product/wm-light-r.jpg" alt="">
             </div>
 
             <div class="ramp-content">
@@ -383,7 +327,7 @@
               <p> 250 kg </p>
 
               <h4> Customized dimensions </h4>
-              <p> Width 85 cm Length 200,225 and 250 cm </p>
+              <p> Width 85 cm Length 200,225 and 250 cm </p> 
 
               <h4> Handling </h4>
               <p> Removable </p>
@@ -393,10 +337,7 @@
         </div>
 
         <!-- 1 -->
-
-        <!-- 1 -->
-
-
+ 
 
 
       </div>
@@ -410,27 +351,17 @@
 
             <div class="text">
 
-              <p class="loading-ramps-p"> Loading ramps, specially designed for vans, are one of the essential
-                equipment for carrying out the loading and unloading processes efficiently. These ramps,
-                commonly known as "Van Ramps," are carefully engineered to provide a perfect transformation
-                for various cargo types between ground level and the van's interior. Constructed from durable
-                materials such as aluminum, Van Ramps are <a href="https://www.storetogo.ae/light-loading-ramps.php" target="_blank"> lightweight</a> yet robust, ensuring long-lasting
-                performance and easy maneuverability.
-              </p>
-              <p class="loading-ramps-p"> For businesses or individuals looking for the use of Van Ramps,
-                professional installation services are often available. These services includes the setup
-                and configuration of the entire Loading Van Ramp System, guaranteeing optimal functionality and safety.
-                Aluminum Van Ramps, in particular, offer a perfect combination of strength and weight efficiency,
-                making them a popular choice for those looking to upgrade their van's accessibility and cargo-handling
-                capabilities. Whether for commercial purposes or personal use, investing in a well-installed
-                Van Ramp can considerably improve the efficiency of loading and unloading activities.
-              </p>
-              <p class="loading-ramps-p"> WM produces top-quality loading ramps made from lightweight yet robust aluminum materials,
-                crafted in Italy. The range includes both light and <a href="https://www.storetogo.ae/heavy-loading-ramps.php" target="_blank"> heavy-duty van ramps</a>, accomplishing the requirements for a
-                broad spectrum of uses, from household applications to commercial scenarios. Whether for light or heavy-duty
-                requirements, WM's loading ramps stand out for their durability and lightweight design, ensuring the best
-                performance in various situations.
-              </p>
+              <p class="loading-ramps-p"> Loading ramps are essential additions for the vans to render the smooth loading and unloading of goods.
+                 These van ramps are designed to provide safe and efficient transit of goods to and from the van’s interior.
+                  Built from durable metals like aluminum, these ramps are lightweight, strong, and easily manoeuvrable. 
+                 </p>
+              <p class="loading-ramps-p">  At StoreToGo we supply a top-range of light and heavy-duty loading ramps. Purchase isn’t the end point,
+                 we also provide professional installation services, which includes the setup and configuration of the entire Loading Van Ramp system,
+                  ensuring safe loading and unloading. Aluminum van ramps are the best in terms of strength and weight efficiency.
+                   Our van ramps are well suited for both residential and commercial use.
+                    Their lightweight design and durability ensures best performance during each transit. 
+                 </p>
+ 
 
 
 
