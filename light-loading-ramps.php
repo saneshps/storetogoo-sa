@@ -134,43 +134,19 @@
 
 
 
-  <section id="serico">
-    <div class="container-fluid">
-      
+  <section id="serico" class="ramps-hero-section">
+    <div class="ramps-hero">
+      <div class="ramps-hero-media">
+        <img src="images/product/light-ramb-banner.jpg" alt="Light aluminum van loading ramps">
+      </div>
+      <div class="ramps-hero-copy">
+        <h1>LIGHT LOADING RAMP</h1>
+         <p> At StoreToGo we offer an aluminum light loading ramp assisted with a spring that has a quick
+           connection and release system. Our light loading ramp is suitable for passenger transport with
+            a weight bearing capacity of up to 400kg.
 
-
-      <div class="row" style="background-color: #eeeff1;" >
-  <div class="yCmsComponent sortimo-component-slot clearfix">
-<div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_00002F8FR">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container" style="width: 1050px; height: 510px;
-        background-image: url('images/product/light-ramb-banner.jpg');  float: left;">
-        <img src="images/product/fr5-header-1050x510.gif" style="visibility: hidden;">
-      </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 480px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
-      <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
- <h1 class="component-headline mm">
-        
- LIGHT LOADING RAMP
-      </h1>
-    
-    
-    
-  
-<div class="text">
-        <p> The aluminum light loading ramp is an extremely versatile and lightweight spring-assisted ramp equipped with a quick connection and release system.
-        At <a href="index.php"> Store To Go, </a> loading ramp is suitable for passenger transport with capacity of up to 400 kg.
          </p>
-        </div>
-    </div>
-    </div>
-</div></div>
-    </div>
-
- 
-
+      </div>
     </div>
   </section>
  
@@ -350,7 +326,7 @@ Length 150, 200, 225, 250, and 300 cm </p>
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h2> Application sectors </h2>
+            <h2> Application  </h2>
           </div>
         </div>
         <div class="row">
@@ -367,7 +343,7 @@ Length 150, 200, 225, 250, and 300 cm </p>
                 
                    <li>  <img src="images/couriers-equipment-hire-firms.png" alt="Couriers - Equipment Hire Firms "> Couriers - Equipment Hire Firms </li> 
              
-              <li>  <img src="images/disabled-users-passenger-transport.png" alt=" Disabled Users - Passenger Transport"> Disabled Users - Passenger Transport </li>
+              <li>  <img src="images/disabled-users-passenger-transport.png" alt="Passenger Transport">  Passenger Transport </li>
               <li>  <img src="images/electricians.png" alt="Electricians - Plumbing and Heating Engineers "> Electricians - Plumbing and Heating Engineers </li>
               <li>  <img src="images/events.png" alt="Events - Concerts"> Events - Concerts </li>
             </ul>
@@ -378,7 +354,7 @@ Length 150, 200, 225, 250, and 300 cm </p>
          <li>  <img src="images/industrial-laundries.png" alt="Industrial Laundries"> Industrial Laundries </li>
               <li>  <img src="images/medical-ambulance.png" alt="Medical - Ambulance "> Medical - Ambulance </li>
               <li>  <img src="images/motorcycles-bicycles.png" alt="Motorcycles - Bicycles"> Motorcycles - Bicycles </li>
-              <li>  <img src="images/multi-utility-routine-cleaning.png" alt="Multi-Utility - Routine cleaning"> Multi-Utility - Routine cleaning </li>
+              <li>  <img src="images/multi-utility-routine-cleaning.png" alt="Routine cleaning">  Routine cleaning </li>
               <li>  <img src="images/vending-machines-video-slot-machines.png" alt="Vending Machines - Video Slot Machines"> 
                 Vending Machines - Video Slot Machines </li>
              
@@ -405,15 +381,14 @@ Length 150, 200, 225, 250, and 300 cm </p>
       <div class="col-xl-8 col-lg-8 col-md-8">
       <div class="description-2">
       <h2> ABOUT WM SYSTEM </h2>
-      <p> WM systems are loading, and access ramps designed and fabricated from Italy guided by the principles of simplicity,
-         safety, quality for the requirements of the users.
+      <p> Designed and fabricated from Italy, the WM loading systems meet the industrial safety standards, ensuring safe and efficient loading. 
       </p>
 
        <h4>  TROUBLE FREE LOADING RAMPS  </h4>
-       <p> WM system loading ramps are designed for affordable and efficient for loading needs to fit into most commercial vehicles.  </p>
+       <p> Affordable and high-performing, these hoses fit well with most of the commercial vehicles and ensure trouble free loading.  </p>
 
        <h4>  VAN FOLDING RAMPS   </h4>
-       <p>  Hazardous free, loading light, quick and easy ways to vans with WM system ramps  </p>
+       <p> The WM system loading ramps are equipped with loading lights and other features. They are hazardous free and fits well with most vans.  </p>
       </div>
       </div>
     </div>

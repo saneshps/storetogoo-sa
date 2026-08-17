@@ -4035,6 +4035,16 @@ justify-content: center;
   width: auto !important;
 }
 
+#serico.ramps-hero-section .ramps-hero-copy a {
+  color: #006cb3;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#serico.ramps-hero-section .ramps-hero-copy a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 1199px) {
   .ramps-hero-copy {
     padding: 40px 36px;
