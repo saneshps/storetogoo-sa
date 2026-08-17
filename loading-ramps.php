@@ -135,46 +135,18 @@
 
 
 
-  <section id="serico">
-    <div class="container-fluid">
-
-
-
-      <div class="row" style="background-color: #eeeff1;">
-        <div class="yCmsComponent sortimo-component-slot clearfix">
-          <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_00002F8FR">
-            <div class="row" style="background-color: #eeeff1;">
-              <div class="image-container" style="width: 1050px; height: 510px;
-        background-image: url('images/product/loading-ramp.jpg');  float: left;">
-                <img src="images/product/fr5-header-1050x510.gif" style="visibility: hidden;">
-              </div>
-              <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 480px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
-                <div class="arrow-container" style="background-color: #eeeff1;"></div>
-
-                <h1 class="component-headline mm">
-
-                  LOADING RAMPS
-                </h1>
-
-
-
-
-                <div class="text">
-                  <p>  Built from durable materials like aluminum, our loading ramps are lightweight and strong.
-                     We offer a vast range of light and heavy-duty ramps that are well suited for both residential and commercial use.   </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+  <section id="serico" class="ramps-hero-section">
+    <div class="ramps-hero">
+      <div class="ramps-hero-media">
+        <img src="images/product/loading-ramp.jpg" alt="Aluminum van loading ramps">
       </div>
-
-
-
-
+      <div class="ramps-hero-copy">
+        <h1>LOADING RAMPS</h1>
+        <p>Built from durable materials like aluminum, our loading ramps are lightweight and strong. We offer a vast range of light and heavy-duty ramps that are well suited for both residential and commercial use.</p>
+      </div>
     </div>
   </section>
+
 
   <!-- Ramp details -->
   <section class="ramp-details">
