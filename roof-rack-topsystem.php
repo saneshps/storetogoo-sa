@@ -85,11 +85,16 @@
 ">
 <h1 class="component-headline ">
         
-        TopSystem  <br> The flexible roof rack system.
+        TopSystem  <br> The flexible roof rack system
       </h1>
     
 <div class="text">
-      <p style="text-align: center;">The StoreToGo TopSystem provides <b>additional storage space</b> on the roof of your vehicle, <b>safely and securely transports large and lengthy objects,</b> and saves more time also its easy to handle.  The lightweight roof rack with less net weight, permits a <b>maximal payload</b> to be carried and, due to its high-quality craftsmanship and corrosion-free materials, it also has a very long <b>service life.</b> Our solutions are available at <b>UAE & Oman.</b> </p></div>
+      <p style="text-align: center;"> The StoreToGo Top System is designed to create additional space on the roof of the vehicle to enable
+         the safe transport of large and lengthy objects. This saves time and the hassle of handling large goods. The roof rack itself
+          is lightweight, hence more load can be carried. It is made from high-quality, corrosion-free materials that ensures
+           durability and long-service life. 
+
+        </p></div>
   </div></div>
 </div>
 
@@ -190,10 +195,10 @@
 ">
       <div class="component-headline ">
         
-        Flexible. Intuitive. Efficient.
+      Intuitive. Flexible. Efficient
       </div>
     <h3 class="component-headline subheadline">
-        The StoreToGo TopSystem roof rack, with many benefits for every requirement. 
+    The StoreToGo Top System roof rack offers numerous benefits. 
       </h3>
     
   
@@ -213,37 +218,37 @@
           <h3 class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Reduced journeys</span>
+                  Increased Load Capacity </span>
                 </h3>
               <div class="text">
-            <p>The roof of your vehicle is used as additional loading space, enabling you to carry an even higher loading volume – ideal for long and bulky loads.</p></div>
+            <p> Since the roof of the building is utilized, the overall load capacity is increased. This way long and bulky loads can be carried easily.  </p></div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Time savings </span>
+                  Saves Time </span>
                 </div>
               <div class="text">
-            Ease of handling and the integrated ProSafe load securing system save valuable time.</div>
+              The ProSafe load securing system handles loading and unloading ease, thereby saving time.  </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Professional load securing</span>
+                  Professional Load Securing </span>
                 </div>
               <div class="text">
-            Thanks to the optionally integrated ProSafe lashing system for simple and fast load securing.</div>
+              You can secure your load even better with the optional integrated Prosafe lashing system. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    High payload </span>
+                  High Payload </span>
                 </div>
               <div class="text">
-            You carry more of the load on the roof of your vehicle, thanks to its lightweight construction.</div>
+              The roof rack itself is lightweight, hence you can carry more load on the roof of your vehicle. </div>
         </div>
       </div>
     <div class="image" style="background-image: url('images/product/topsystem-produkthighlights.png');">
@@ -254,28 +259,28 @@
           <h3 class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Reduced journeys</span>
+                  Increased Load Capacity  </span>
                 </h3>
               <div class="text">
-            <p>The roof of your vehicle is used as additional loading space, enabling you to carry an even higher loading volume – ideal for long and bulky loads.</p></div>
+            <p> Since the roof of the building is utilized, the overall load capacity is increased. This way long and bulky loads can be carried easily.  </p></div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Time savings </span>
+                  Saves Time </span>
                 </div>
               <div class="text">
-            Ease of handling and the integrated ProSafe load securing system save valuable time.</div>
+              The ProSafe load securing system handles loading and unloading ease, thereby saving time. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Professional load securing</span>
+                  Professional Load Securing </span>
                 </div>
               <div class="text">
-            Thanks to the optionally integrated ProSafe lashing system for simple and fast load securing.</div>
+              You can secure your load even better with the optional integrated Prosafe lashing system.</div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
@@ -284,7 +289,7 @@
                     High payload </span>
                 </div>
               <div class="text">
-            You carry more of the load on the roof of your vehicle, thanks to its lightweight construction.</div>
+              The roof rack itself is lightweight, hence you can carry more load on the roof of your vehicle. </div>
         </div>
       </div>
     <div class="right-text">
@@ -295,13 +300,13 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Forward-looking investment
+          Strategic Investment
       </div>
     
     
   
 <div class="text">
-            The TopSystem can also be used on your next vehicle – its corrosion-resistant material and excellent quality make this possible.</div>
+This roof racking system can be removed and reinstalled when you change your van. It is built with corrosion resistant materials that can last through multiple vehicle changes. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           
@@ -314,7 +319,7 @@
       </div>
   
 <div class="text">
-            The modular design of the TopSystem means that you can add practical accessories to it at any time.</div>
+The design is modular, therefore you can add accessories and make it even more purposeful. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline ">
@@ -325,7 +330,7 @@
       </div>
     
 <div class="text">
-            The innovative design prevents irritating wind noise, at the same time optimising fuel consumption.</div>
+The roof racking system is built aerodynamically. It prevents the irritating wind noise and at the same time consumes only less fuel. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           
@@ -340,7 +345,7 @@
     
   
 <div class="text">
-            The TopSystem is TÜV-certified and crash-tested.</div>
+   The TopSystem is TUV-certified and crash tested.  </div>
         </div>
       </div>
   </div>
@@ -358,8 +363,7 @@
 <div id="comp_000017ZJ" class="sortimo-component text-component big-header
 ">
 <h2 class="component-headline ">
-        
-        TopSystem ProSafe
+TopSystem ProSafe
       </h2>
     
 </div></div>
@@ -376,9 +380,14 @@
       ">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
      
-<div class="text">
-        <p>The TopSystem&nbsp;<strong>ProSafe </strong>has <strong>ProSafe fastening options</strong> in the cross members. <strong>ProSafe lashing </strong>straps can be used to quite simply transport bulky goods safety and securely to the workplace <strong>fixed on the roof of the vehicle</strong>. ProSafe represents StoreToGo integrated load securing system, which can be used in and also on the vehicle. <strong>Tip</strong>: The lashing straps from the load area can equally be used on the roof of the vehicle.</p>
-        </div>
+     <div class="text">
+        <p> The TopSystem ProSafe has ProSafe fastening points at the cross bars.  The ProSafe lashing points are clipped or locked in these points.
+           You needn’t add extra anchor points to the cross bars. This way you can safely secure bulky goods on the roof of the vehicle.
+            The ProSafe is an integrated load securing system that can be used in and on the vehicle. The lashing straps
+             from the load area can be used on the roof of the vehicle as well.  
+
+        </p>
+      </div>
     </div>
     <div class="image-container" style="width: 695px; height: 510px;
         background-image: url('images/product/topsystem-topsystem-prosafe-695x510.jpg');  float: right;">
@@ -402,7 +411,7 @@
       </h3>
     
 <div class="text">
-     The TopSystem can be flexibly suited to every individual applications, providing the precise roof rack solution for every requirement.</div>
+The TopSystem can be modified according to specific applications, providing the best roof rack solution.   </div>
   </div></div>
 </div>
 <!-- END -->
@@ -854,13 +863,13 @@
 
       <div class="component-headline ">
         
-        Side support cross member
+      Side support cross member
       </div>
     
     
   
 <div class="text">
-        <p>The side supports act as the ends of the cross members and also as a stop for loads so that they do not protrude beyond the side of the vehicle.</p>
+        <p> The side support acts as the end points of the cross members. They also ensure that the load stays within the width of the vehicle.  </p>
         </div>
     </div>
     </div>
@@ -882,18 +891,23 @@
     
       <div class="component-headline ">
         
-        Side ladder lift
+      Side ladder lift
       </div>
     
     
   
 <div class="text">
-        <p>The side ladder lift enables the time-saving <strong>ergonomic loading and unloading of ladders</strong> onto the roof of the vehicle. No additional loading and unloading space is needed behind the vehicle, thanks to the space-saving side access to the ladder. The side ladder lift can be <strong>adapted to other sizes of ladders</strong> in a matter of minutes. And, thanks to its intuitive handling, you can avoid load securing mistakes.</p></div>
+        <p> The side ladder lifts help to load and unload the ladders onto the roof of the vehicle.
+           This way the ladder can be accessed through the side, doing away the need for additional space behind the vehicle.
+            Moreover, this side ladder lift can handle ladders of different sizes. 
+
+        </p>
+      </div>
     </div>
     <div class="image-container" style="width: 695px; height: 340px;
         background-image: url('images/product/topsystem-leiterseitenlift-695x340.jpg');  float: right;">
         <img src="images/product/topsystem-leiterseitenlift-695x340.jpg" style="visibility: hidden;" alt="van roof rack developers uae">
-      </div>  
+      </div>
     </div>
 </div></div>
 </div>
@@ -1026,16 +1040,25 @@
     
     
 <div class="text">
-      <p>StoreToGo roof racks provide more loading space and flexibility when you need to transport lengthy materials. StoreToGo van roof racks let you <b>transport your materials very easily on the roof of your vehicle.</b> Professionals and DIY experts use the roof racking systems for their vans, ensuring that all materials are more secured. The solution for all <b>professional equipment with TopSystem</b> when you need additional transport space.</p> 
-      <p>To reduce your trips, extend your loading space with StoreTo Go. Our extensive product range offers solutions for individual transport system depending on your company’s requirement. Apart from the many modules that are made to organize and secure your materials, tools and loads in your van, we also provide suited solutions for securely transporting lengthy and large goods.</p></div>
-  </div></div>
+    <p> At StoreToGo we provide roof racks that are flexible and can handle lengthy materials. With our van roof racks you 
+      can load materials from the roof of your van easily. Field-work professionals and DIY experts use the roof racking systems
+       for their vans to ensure that all materials are secured. Our TopSystem ensures that you get additional transport space.
+
+    </p>
+    <p> StoreToGo offers diverse van racking solutions that can transform your van according to your specific requirements.
+       Apart from the many modules that we offer to secure and organize your tools and goods,
+        we also provide solutions to transport large and lengthy goods. 
+
+    </p>
+ 
+    </div></div>
 
 
 </div>
 <!-- END -->
 
 <!-- STRT -->
-<div class="row sty-wid">
+<div class="row">
 <div class="yCmsComponent sortimo-component-slot clearfix">
 <div id="comp_00001Z1T" class="sortimo-component text-component big-header
     align-left
@@ -1043,15 +1066,23 @@
 ">
       <h3 class="component-headline subheadline">
         
-        Safely transport large & lengthy materials
+      Safe Transport of large and lengthy materials
       </h3>
     
     
     
   
 <div class="text">
-      <p>If you need to transport metal pipes, a ladder, or any bulky materials for your work, you can now do so very safely and simply with our roof racking system. So, when you order <b>StoreToGo van roof racks, you are investing in the future, as you can also use the TopSystem on your next vehicle,</b> since it is made of corrosion-free material with high quality.</p> 
-      <p>The lightweight built allows you to transport more, decreases the number of trips and efficiently reduces the fuel consumption. The <b>aerodynamic design, wind noise is also less while driving.</b> Thus, the solution from the StoreToGo has professional quality and offers safety, security, and versatility. </p>
+    <p> With our roof racking system bulk material transport is hardly an issue. Whether it’s metal pipes, ladders
+       or any other high-volume load, you securely transit them. So that makes StoreToGo van roof racks a long-term investment.
+        They are built modular and hence can be easily adapted to different vehicle models. Made from corrosion free material,
+         they are durable and lasting. 
+
+    </p>
+    <p> The roof rack itself is lightweight, hence you can add any bulk material without a second thought. They feature an aerodynamic design,
+       thereby reducing the noise of wind while driving. Thus StoreToGo offers professional, versatile and safe van racking solutions.
+
+    </p>
     </div>
   </div></div>
 </div>
@@ -1059,20 +1090,29 @@
 
 
 <!-- STRT -->
-<div class="row sty-wid">
+<div class="row">
  <div class="yCmsComponent sortimo-component-slot clearfix">
 <div id="comp_00001Z1U" class="sortimo-component text-component big-header
     align-left
   
 ">
       <h3 class="component-headline subheadline">
-        Roof rack system for maximum flexibility
+      Roof rack system for maximum flexibility
       </h3>
     
 <div class="text">
-      <p>You are choosing the smart mobility, an expert and safer transport with the StoreToGo product range. <b>TopSystem roof racks give you maximum load space, best for large and lengthy materials,</b> offering you efficiency and greater flexibility in your working day. You save more time, since it is easy to handle with optional built-in ProSafe lashing system for simple and quick securing. The provided accessories easily adapt to your roof racking system to every specific dimensions of your material.</p>
-      <p>Get in touch with us, if you need advice on selection and adaptation to your specific vehicle. Once you have decided on a particular model, we can provide you with a roof racking system solution. Don’t delay – order your new roof rack to-day.</p></div>
-  </div></div>
+     <p> By choosing StoreToGo, you are switching to smart and safe transport. With the TopSystem roof racks, 
+      you can effectively utilize the van roof to safely transport lengthy materials. With the built-in pro safe
+       lash system you can quickly and easily secure the loads, helping you save more time. The accessories can
+        be easily adapted to the roof racking systems. 
+
+     </p>
+     <p> To know more about roof racking systems and the van racking solutions we provide,
+       do contact our service team. Once you have decided on the model of your vehicle, 
+       we will provide the suitable roof racking system. Order now!
+
+     </p>
+    </div></div>
 </div>
 <!-- END -->
 
