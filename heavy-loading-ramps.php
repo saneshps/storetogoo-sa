@@ -153,21 +153,20 @@
 
                 <h1 class="component-headline mm">
 
-                  HEAVY DUTY LOADING RAMP
+                Heavy-Duty Loading Ramp
                 </h1>
 
 
 
 
                 <div class="text">
-                  <p> The WM Light Plus swivel loading ramp is constructed from reinforced aluminium making it strong,
-                    lightweight and very easy to use thanks to its spring-assisted system.
-                    The built-in external swivel allows full access to the rear of the vehicle if required.
-
-
-                  </p>
-                  <p> Made from reinforced aluminum, Our loading ramps are agile, lighter,
-                    and reliable for loading and unloading weights from 400 to a whopping 1800 kg. </p>
+                  <p>  The WM Light Plus Swivel model that we supply is reinforced by aluminum and features a spring-assisted system that makes it strong,
+                     lightweight and easy to use. With a built-in external swivel, the workers can access the rear of the vehicle if required.
+                      Our heavy-duty loading ramps can perfectly handle loading and unloading weights ranging from 400 to 1800 kg. 
+                     </p>
+                  <p>  Our loading ramps are lightweight, highly durable, built to withstand heavy usage and require low maintenance.
+                     The superior built quality makes it resistant to scratch and discolouration. They can be used in commercial vehicles as well.
+                     </p>
                 </div>
               </div>
             </div>
@@ -185,18 +184,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <div class="flagship-text-1">
+          <div class="flagship-text-1"> 
 
-            <p> As the premiere Heavy ramp manufacturers in the UAE, our products are known for their seamless
-              usability and reliability, which help you go the extra mile with ease. They aren't just lightweight;
-              due to their precision construction, durability is never compromised. </p>
-            <p>Built to withstand heavy usage and the environment, they are low maintenance.
-              Fit and forget—it's as easy as that. Suitable for light commercial vehicles,
-              they are scratch—and discoloration-resistant due to high-quality manufacturing practices.
-
-            </p>
-
-            <h4> Check out our flagship, which has heavy loading ramps below. </h4>
+            <h4> Check out the range of heavy loading ramps that we offer:  </h4>
             <ul>
               <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> WM PC </li>
               <li> <i class="fa fa-long-arrow-right" aria-hidden="true"></i> WM ME </li>
@@ -211,24 +201,19 @@
 
         <div class="col-md-6">
           <div class="flagship-text-2">
-            <h4 class="sec-of-application"> There are numerous sectors for which you can use Store To Go Heavy-duty ramps, for instance. </h4>
-            <p class="sec-of-application"> <strong> Courier firms - </strong> A ramp is a necessity for frequent loading and unloading of cargo
-              to make work easier and effortless. Improve productivity and safe handling of shipments.
-            </p>
-            <p class="sec-of-application"> <strong> Construction— </strong> Frequent unloading of building materials is an integral part of building construction;
-              a seamless unloading experience is always a serious productivity elevator.
-            </p>
-            <p class="sec-of-application"> <strong> Motorcycles/Bicycles - </strong> Loading and unloading motorcycles without a ramp could be dangerous;
-              our loading ramps provide stable scaffolding for your beloved motorcycles.
-              Preventing scratches and dents is immensely important.
+            <h4 class="sec-of-application"> The application of StoreToGo Heavy-duty ramps spans across different sectors such as:  </h4>
+            <p class="sec-of-application"> <strong> Courier firms: </strong> Heavy duty ramps ensure the safe and effortless handling of shipments by ensuring proper loading and unloading.  </p>
+            <p class="sec-of-application">
+           <strong> Construction: </strong> Construction sites often demand the frequent loading and unloading of building materials. Heavy duty loading ramps ensure uninterrupted unloading experience. 
+           </p>
+           <p class="sec-of-application"> <strong> Motorcycles/Bicycles:</strong> Our heavy duty loading ramps ensure the safe loading and unloading of motorbikes, preventing scratches and dents.
 
-            </p>
-            <p class="sec-of-application"> STORE TO GO loading ramps have been proven to be customer favorites due to their
-              risk-free and affordability, as we provide exceptional solutions to our clients.
-              Come to our store in Sharjah/UAE for an in-depth idea to choose what is best for you.
-              Contact us via phone: <a href="tel:+971502118507"> +971502118507</a> or mail: <a href="mailto:sales@yesutomation.ae">
-                sales@yesutomation.ae. </a>
-            </p>
+           </p>
+           <p class="sec-of-application"> At StoreToGo, we provide comprehensive van racking solutions. Our loading ramps are customer favorites 
+            due to their durability and reliable performance. Visit our showroom in Saudi Arabia and
+             choose the loading ramp that fits your purpose. 
+
+           </p>
           </div>
         </div>
 
@@ -455,25 +440,23 @@
           <div class="row">
             <div class="col-md-6">
               <ul>
-                <li> <img src="images/building-construction.png" alt="Building Construction"> Building Construction </li>
-                <li> <img src="images/catering.png" alt="Catering"> Catering </li>
-                <li> <img src="images/couriers-equipment-hire-firms.png" alt="Couriers - Equipment Hire Firms "> Couriers - Equipment Hire Firms </li>
+              <li> <img src="images/catering.png" alt="Catering"> Catering </li>
+              <li> <img src="images/couriers-equipment-hire-firms.png" alt="Couriers"> Couriers </li>
+                <li> <img src="images/building-construction.png" alt="Construction">  Construction </li>
                 <li> <img src="images/deep-cleaning.png" alt="Deep Cleaning"> Deep Cleaning </li>
-                <li> <img src="images/disabled-users-passenger-transport.png" alt=" Disabled Users - Passenger Transport"> Disabled Users - Passenger Transport </li>
-                <li> <img src="images/electricians.png" alt="Electricians - Plumbing and Heating Engineers "> Electricians - Plumbing and Heating Engineers </li>
-                <li> <img src="images/events.png" alt="Events - Concerts"> Events - Concerts </li>
+                <li> <img src="images/disabled-users-passenger-transport.png" alt="Passenger Transport">  Passenger Transport </li>
+                <li> <img src="images/electricians.png" alt="Electricians applications"> Electricians applications </li>
+                
               </ul>
             </div>
             <div class="col-md-6">
               <ul>
-
-                <li> <img src="images/gardening-lawn-tractors-quad-bikes.png" alt="Gardening - Lawn tractors - Quad bikes"> Gardening - Lawn tractors - Quad bikes </li>
+              <li> <img src="images/events.png" alt="Events like concerts"> Events like concerts </li>
+                <li> <img src="images/gardening-lawn-tractors-quad-bikes.png" alt="Gardening - Lawn tractors - Quad bikes"> Gardening - Lawn tractors-Quad bikes </li>
                 <li> <img src="images/industrial-laundries.png" alt="Industrial Laundries"> Industrial Laundries </li>
-                <li> <img src="images/medical-ambulance.png" alt="Medical - Ambulance "> Medical - Ambulance </li>
-                <li> <img src="images/motorcycles-bicycles.png" alt="Motorcycles - Bicycles"> Motorcycles - Bicycles </li>
-                <li> <img src="images/multi-utility-routine-cleaning.png" alt="Multi-Utility - Routine cleaning"> Multi-Utility - Routine cleaning </li>
-                <li> <img src="images/vending-machines-video-slot-machines.png" alt="Vending Machines - Video Slot Machines">
-                  Vending Machines - Video Slot Machines </li>
+                <li> <img src="images/motorcycles-bicycles.png" alt="Motorcycle/ Bicycle transport"> Motorcycle/ Bicycle transport  </li>
+                <li> <img src="images/multi-utility-routine-cleaning.png" alt="Routine cleaning"> Routine cleaning </li>
+                <li> <img src="images/vending-machines-video-slot-machines.png" alt="Vending machines and video slot machines">  Vending machines and video slot machines </li>
 
               </ul>
             </div>
