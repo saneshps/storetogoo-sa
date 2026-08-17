@@ -40,23 +40,14 @@
             </div>
         </div>
     </section>
-    <section id="serico">
-        <div class="container-fluid">
-            <div class="row" style="background-color: #eeeff1;">
-                <div class="yCmsComponent sortimo-component-slot clearfix">
-                    <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_0000184U">
-                        <div class="row" style="background-color: #eeeff1;">
-                            <div class="image-container" style="width: 1050px; height: 510px;        background-image: url('images/product/mysortimo-graphics-header-1050x510.jpg');  float: left;"> <img src="images/product/mysortimo-graphics-header-1050x510.jpg" style="visibility: hidden;"> </div>
-                            <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 340px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;      ">
-                                <div class="arrow-container" style="background-color: #eeeff1;"></div>
-                                <h1 class="component-headline "> Graphics for StoreToGo </h1>
-                                <div class="text">
-                                    <p><b>StoreToGo graphics</b> is the quickest and most straightforward way to create <b>based on vehicle decals</b></strong>.&nbsp;</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+    <section id="serico" class="ramps-hero-section">
+        <div class="ramps-hero">
+            <div class="ramps-hero-media">
+                <img src="images/product/mysortimo-graphics-header-1050x510.jpg" alt="StoreToGo vehicle graphics and lettering">
+            </div>
+            <div class="ramps-hero-copy">
+                <h1>Graphics for StoreToGo</h1>
+                <p>Want to create the vehicle decal that suits your theme? StoreToGo graphics is your go to way to create the best one.</p>
             </div>
         </div>
     </section>
@@ -65,16 +56,19 @@
             <div class="row styd">
                 <div class="yCmsComponent sortimo-component-slot clearfix">
                     <div id="comp_0000184W" class="sortimo-component text-component big-header">
-                        <h2 class="component-headline "> Making Your Own Vehicle Decals - Quickly and Easily! </h2>
+                        <h2 class="component-headline "> Make Your Own Vehicle Decals- Quick and Easy </h2>
                     </div>
                 </div>
             </div>
             <div class="row sty-wid1">
                 <div class="yCmsComponent sortimo-component-slot snclxAVNlmdvbjk clearfix">
-                    <div id="comp_000019LZ" class="sortimo-component text-component small-header">
-                        <h3 class="component-headline "> Quick & easy or unique & creative?. </h3>
+                    <div id="comp_000019LZ" class="sortimo-component text-component small-header"> 
                         <div class="text">
-                            <p>Regardless of which path you take, you will always be on the safe side. To make this possible, we have saved editable areas for all available vehicles. This means we can prevent areas that aren't suitable for decals from being edited at all. We can guarantee that your design will be completely effective.</p>
+                            <p> Get the best decal that well suits your vehicle. To make it accurate and flawless, StoreToGo graphics 
+                                ensures that you get a flawless digital design that clearly places the logo or text in the exact spot
+                                 leaving away the non-editable zones. Therefore we guarantee that you get the best design. 
+
+                                </p>
                         </div>
                     </div>
                 </div>
@@ -85,9 +79,10 @@
                         <div class="row" style="background-color: #eeeff1;">
                             <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 340px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;      ">
                                 <div class="arrow-container" style="background-color: #eeeff1;"></div>
-                                <div class="component-headline "> Quick & Easy </div>
+                                <div class="component-headline "> Quick and Easy </div>
                                 <div class="text">
-                                    <p>Simply enter your <b>contact and advertisement information</b>, and your <b>vehicle decals</b> will be completely automated - at an <b>amazing price</b>!</p>
+                                    <p> Creating a vehicle decal isn’t complicated at all. All you need to do is enter your contact and advertisement
+                                         information and you get your vehicle decal exactly the way you wanted- that too at an amazing price. </p>
                                 </div>
                             </div>
                             <div class="image-container" style="width: 340px; height: 340px;        background-image: url('images/product/en-uk-mysortimo-graphics-schnell-340x340.jpg');  float: right;"> <img src="images/product/en-uk-mysortimo-graphics-schnell-340x340.jpg" style="visibility: hidden;"> </div>
@@ -100,9 +95,9 @@
                             <div class="image-container" style="width: 340px; height: 340px;        background-image: url('images/product/mysortimo-graphics-individuell-340x340.jpg');  float: left;"> <img src="images/product/mysortimo-graphics-individuell-340x340.jpg" style="visibility: hidden;"> </div>
                             <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 340px; min-height: 340px; float: right;background-color: #eeeff1;color: #546373;      ">
                                 <div class="arrow-container" style="background-color: #eeeff1;"></div>
-                                <div class="component-headline "> Individualistic & Inventive </div>
+                                <div class="component-headline ">  Individualistic and Creative </div>
                                 <div class="text">
-                                    <p>You can use professional design templates to create your <b>own unique vehicle decals<b> and </b>incorporate your own graphics</b>.</p>
+                                    <p> You can use professional design templates and incorporate your own graphics to create a vehicle decal that is completely unique. </p>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +111,7 @@
             <div class="row sty-wid1">
                 <div class="yCmsComponent sortimo-component-slot clearfix">
                     <div id="comp_000019KH" class="sortimo-component text-component big-header">
-                        <h3 class="component-headline "> Just a few steps to produce perfect vehicle decals. </h3>
+                        <h3 class="component-headline "> The steps to create the perfect vehicle decal   </h3>
                     </div>
                 </div>
             </div>
@@ -127,25 +122,25 @@
                             <div class="slot-item sortimo-dark-hover sortimo-blue-link small-slot small-margin SfGBFa">
                                 <div class="image-container"> <img src="images/product/mysortimo-graphics-slot-1-gestalten.jpg" class=""> </div>
                                 <div class="text-container" style="background-color: rgb(222, 231, 240); color: rgb(84, 99, 115); height: 134.8px;">
-                                    <div class="text dxfs"> Making your own personalized decals</div>
+                                    <div class="text dxfs">  Create your own personalized decals </div>
                                 </div>
                             </div>
                             <div class="slot-item sortimo-dark-hover sortimo-blue-link small-slot small-margin SfGBFa">
                                 <div class="image-container"> <img src="images/product/mysortimo-graphics-slot-2-abschicken.jpg" class=""> </div>
                                 <div class="text-container" style="background-color: rgb(222, 231, 240); color: rgb(84, 99, 115); height: 134.8px;">
-                                    <div class="text dxfs"> Make your purchase online</div>
+                                    <div class="text dxfs"> Purchase them online </div>
                                 </div>
                             </div>
                             <div class="slot-item sortimo-dark-hover sortimo-blue-link small-slot small-margin SfGBFa">
                                 <div class="image-container"> <img src="images/product/mysortimo-graphics-slot-3-bekleben.jpg" class=""> </div>
                                 <div class="text-container" style="background-color: rgb(222, 231, 240); color: rgb(84, 99, 115); height: 134.8px;">
-                                    <div class="text dxfs"> Configure the decals.</div>
+                                    <div class="text dxfs"> Affix the decals </div>
                                 </div>
                             </div>
                             <div class="slot-item sortimo-dark-hover sortimo-blue-link small-slot small-margin SfGBFa">
                                 <div class="image-container"> <img src="images/product/mysortimo-graphics-slot-4-auffallen.jpg" class=""> </div>
                                 <div class="text-container" style="background-color: rgb(222, 231, 240); color: rgb(84, 99, 115); height: 134.8px;">
-                                    <div class="text dxfs"> Get noticed and gain new customers</div>
+                                    <div class="text dxfs"> Stand out and gain new customers </div>
                                 </div>
                             </div>
                         </div>
@@ -156,7 +151,7 @@
                 <div class="yCmsComponent sortimo-component-slot clearfix">
                     <div id="comp_00001CM1" class="sortimo-component text-component ">
                         <div class="text">
-                            <p>StoreToGo graphics is the <b>quickest</b> and <b>most straightforward</b> way to <b>create individual vehicle decals</b>.</p>
+                            <p> With StoreToGraphics you create unique individual vehicle decals, all according to your idea.  </p>
                         </div>
                     </div>
                 </div>
@@ -164,8 +159,8 @@
             <div class="row ne-ttop">
                 <div class="yCmsComponent sortimo-component-slot clearfix">
                     <div id="comp_00001851" class="sortimo-component text-component big-header">
-                        <h3 class="component-headline "> Quick. Affordable. Safe </h3>
-                        <h4 class="component-headline subheadline"> StoreToGo graphics impresses! </h4>
+                        <h3 class="component-headline "> Quick. Affordable. Safe.</h3>
+                        <h4 class="component-headline subheadline"> StoreToGo graphics impresses:  </h4>
                     </div>
                 </div>
             </div>
@@ -190,8 +185,9 @@
                                                 <title>icon-produkthighlights-check</title>
                                                 <circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle>
                                                 <path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path>
-                                            </svg></span> <span class="text-span"> Templates for professional design</span> </div>
-                                    <div class="text"> Various templates make it simple to get started. You can create appealing designs even if you don't have any graphic design experience.</div>
+                                            </svg></span> <span class="text-span"> Cost-Control </span> </div>
+                                    <div class="text">  You can choose or adjust the design to fit your specific budget requirements. You have complete control over the overall
+                                         design and since it is a real-time price update, you can know the price ranges almost instantly and make decisions accordingly.  </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                                     <div class="component-headline"> <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
@@ -271,8 +267,9 @@
                                             <title>icon-produkthighlights-check</title>
                                             <circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle>
                                             <path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path>
-                                        </svg>&nbsp; Full cost control </div>
-                                    <div class="text"> You always have the price in view during generation and you decide yourself the extent of the decals you want.</div>
+                                        </svg> StoreToGo; The source of multiplicity </div>
+                                    <div class="text"> By choosing StoreToGo, you can avail all the services related to your vehicle revamp.
+                                         From van racking to installation and organization, we are beside you, ensuring that your van attains maximum operational efficiency. </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                                     <div class="component-headline "> <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
@@ -484,33 +481,60 @@
             <div class="row ne-ttop">
                 <div class="yCmsComponent sortimo-component-slot clearfix">
                     <div id="comp_00002JVJ" class="sortimo-component text-component big-header    align-left  ">
-                        <h2 class="component-headline "> You may personalize your vehicle's decal online with StoreToGo graphics. </h2>
+                        <h2 class="component-headline "> Simple and Quick Personalize your vehicle’s decal online with StoreToGo graphics. </h2>
                         <div class="text">
-                            <p>When a company's whole fleet of vehicles is outfitted with the same stickers, it represents uniformity, connection, and team spirit. Vehicles with custom covers can even serve as a company's logo and distinguishing characteristic. It's especially crucial to emphasize here that automobiles with decals stand out from the throng. At the same time, they are frequently found just where potential clients are.</p>
+                          <p> A company’s entire fleet of vehicles outfitted with the same stickers will create a sense of uniformity and reliability.
+                             Vehicles with decals tend to stand out from the crowd and also act as powerful branding tools. 
+
+                          </p>
                         </div>
-                        <p>When it comes to automobile decals, there are a few things to keep in mind. Decal placement in areas that get filthy quickly, for example, makes less sense. Furthermore, there are certain areas on the car where decals (covering a significant area) must not be applied, such as the windscreen and rear window. An excessively large decal would have a negative impact on their breakage behavior in an emergency. For these reasons, we designed our vehicle decal configurator so that certain essential places can't be covered with decals or configured in the first place - ensuring product safety and durability.</p>
+                        <p> That being said, placing the decals anywhere around the vehicle would not suffice. There are certain areas on a car such as
+                             the windscreen and rear window, which must not be covered by large decals. Excessively large decals can interfere with the way
+                              a glass is designed to break in an emergency situation. Therefore we have designed our vehicle decal configurator in a
+                               way that it restricts the decal placement in certain areas, ensuring product safety and durability.
+
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="row ne-ttop">
                 <div class="yCmsComponent sortimo-component-slot clearfix">
                     <div id="comp_00002JVK" class="sortimo-component text-component big-header    align-left  ">
-                        <h2 class="component-headline subheadline"> Tips for creating the best decal design for your vehicle </h2>
+                        <h2 class="component-headline subheadline"> How to create the best decal design for your vehicle </h2>
                         <div class="text">
-                            <p>Aside from the spots on the car where a decal isn't appropriate, there are other places where they are great. The bonnet, side components, and doors, as well as the tailgate, are examples. It must be assured that the design does not appear overloaded in general. As a result, it makes little sense to paint the entire car in bright colors and a slew of slogans and logos – after all, the vehicle is frequently in motion, and passers-by only have a split second to comprehend and absorb the message of the vehicle decal. The rule holds true here as well: less is more.</p>
+                            <p> Placement is a crucial factor when it comes to decals. For instance, you can place decals on different sides of the car such as the bonnet,
+                                 side components, door and tailgate. Make sure that the whole design doesn’t appear crowded. A well designed and organized decal is way
+                                  better than painting the entire car and adding slogans and logos. As the vehicle moves, the pedestrians will only get a few seconds
+                                   to look and comprehend what’s on it. Clear and minimal decals will communicate the message faster in an effective way.  
+
+                            </p>
                         </div>
-                        <p>At least across the vehicle, a distinct structure with a neat appearance should be discernible. Key information, such as the phone number or web address, should be legible even from a distance. It is very wise to attach the company's logo to the vehicle in order to achieve a branding effect. You have the option of uploading it and adjusting its size and position in our configurator. If you want to put your logo on the bonnet, it's best to put it as centrally as possible. As a result, our configurator includes horizontal and vertical centring capabilities. As a result, you can be certain that your car's decal is properly applied in the center.</p>
-                        <p>Use our sophisticated design templates to achieve the quickest and simplest creation possible in the configurator – all while maintaining complete cost control. You are free to modify and customize our templates as you see fit. On a 3D model, you can track and compare all changes in real time. Your vehicle, which you must first select, serves as the foundation for the decal configurator. Finally, there are frequently significant differences in construction between transporters from different manufacturers, such as the B-pillar or windows.</p>
+                       <p> The key information such as the phone number or web address should be visible, even from a distance.
+                         You can adjust the logo size and its position in our configurator. In addition to that our configurators feature
+                          horizontal and vertical centering capabilities, which makes it easier to align the logo as centrally as possible.</p>
+                          <p> We offer unique design templates with which you can achieve the intended decal design quick and easy. The price updates transparently
+                             as you customize the design, this way you can plan the whole thing, totally in control of the total cost at every step. 
+                              On a 3D model you can see and compare the changes in real time. Your vehicle is the foundation for our decal configurator.
+                               Vehicles from different manufacturers are built differently- the pillar position and the window layout may be different.
+                                Our configurator takes into account these differences and ensures that each decal fits just right. 
+
+                          </p>
+
                     </div>
                 </div>
             </div>
             <div class="row ne-ttop">
                 <div class="yCmsComponent sortimo-component-slot clearfix">
                     <div id="comp_00002JVL" class="sortimo-component text-component big-header    align-left  ">
-                        <h2 class="component-headline subheadline"> In comparison to other types of outside advertising </h2>
+                        <h2 class="component-headline subheadline"> Vehicle decals vs Other outside advertising </h2>
                         <div class="text">
-                            <p>When compared to other forms of exterior advertising, vehicle decals have the distinct advantage of incurring only one-time costs. Poster advertising, like other types of advertising, must be rented, whereas vehicle advertising is a one-time purchase. In theory, vehicle advertising serves the same purpose as poster advertising; however, your vehicle is visible both on the road and when parked, allowing you to reach a larger number of potential customers – all while incurring no operating costs.</p>
-                            <p>At the same time, because of its adhesion to the vehicle, the advertising is very long-lasting. Because of the high quality of our films, even strong weather influences do not leave a scratch on your vehicle decals – whether parked or on the highway.</p>
+                           
+                        <p> Compared to other modes of outside advertising, vehicle decals have the advantage of having only one time cost. Poster advertising
+                             usually requires ongoing rental fees, either monthly or yearly. In essence both vehicle and poster advertising have the same
+                              purpose to advertise your business. Since vehicles are seen while driving and parking, it reaches more people in more places.
+                               These decals don’t come off so easily- they can withstand harsh conditions like sunlight, rain, and dust. 
+
+                        </p>
                         </div>
                     </div>
                 </div>
