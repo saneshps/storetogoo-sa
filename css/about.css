@@ -262,6 +262,144 @@ input[type=submit]:hover {
 
 
 
+/* ===============================  About Intro Start =================================== */
+
+.about-intro-area {
+    padding-top: 80px;
+    padding-bottom: 60px;
+    border-bottom: 1px solid #dedede;
+}
+
+.about-intro-area .container-fluid {
+    width: 80%;
+}
+
+.about-intro-area .first-content,
+.about-intro-area .second-content {
+    margin-bottom: 0;
+}
+
+.about-intro-area p {
+    line-height: 1.7;
+    font-size: 1.6rem;
+    color: #494b42;
+    margin: 0 0 2rem;
+}
+
+.about-intro-area .first-content p:last-of-type {
+    margin-bottom: 1.8rem;
+}
+
+.about-solutions-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.about-solutions-list li {
+    flex: 0 0 calc(32% - 6px);
+    max-width: calc(32% - 6px);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+    padding: 12px 14px;
+    border: 1px solid #006cb4;
+    border-radius: 8px;
+    background: #fff;
+    color: #484849;
+    font-size: 1.45rem;
+    font-weight: 600;
+    line-height: 1.35;
+    letter-spacing: -0.01rem;
+    transition: background-color 0.25s ease, color 0.25s ease, box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.about-solutions-list li i {
+    flex-shrink: 0;
+    width: 26px;
+    height: 26px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: #006cb4;
+    color: #fff;
+    font-size: 12px;
+    transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.about-solutions-list li:hover {
+    background: #006cb4;
+    color: #fff;
+    box-shadow: 0 6px 16px rgba(0, 108, 180, 0.18);
+    transform: translateY(-2px);
+}
+
+.about-solutions-list li:hover i {
+    background: #fff;
+    color: #006cb4;
+}
+
+.about-intro-area .second-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+
+.about-highlight-card {
+    display: flex;
+    align-items: flex-start;
+    flex: 1;
+    gap: 16px;
+    padding: 28px 24px;
+    margin-bottom: 20px;
+    border: 1px solid #006cb4;
+    border-radius: 8px;
+    background: #f7fbfe;
+    position: relative;
+}
+
+.about-highlight-card:last-child {
+    margin-bottom: 0;
+}
+
+.about-highlight-icon {
+    flex-shrink: 0;
+    width: 48px;
+    height: 48px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    background: #006cb4;
+    color: #fff;
+    font-size: 20px;
+}
+
+.about-highlight-card p {
+    margin: 0;
+    font-size: 1.5rem;
+    line-height: 1.7;
+    color: #494b42;
+}
+
+@media only screen and (min-width: 992px) {
+    .about-intro-area .first-content {
+        padding-right: 20px;
+    }
+
+    .about-intro-area .second-content {
+        padding-left: 10px;
+    }
+}
+
+/* ===============================  About Intro End =================================== */
+
+
 /* ===============================  Why Choose Us Start =================================== */
 
 .why-choose-us-area {
@@ -316,6 +454,19 @@ input[type=submit]:hover {
 
 
 @media only screen and (min-width : 1920px) and (max-width : 2560px) {}
+
+@media only screen and (max-width : 1199px) {
+    .about-solutions-list li {
+        font-size: 1.35rem;
+        padding: 11px 12px;
+        flex: 0 0 calc(50% - 6px);
+        max-width: calc(50% - 6px);
+    }
+
+    .about-highlight-card {
+        padding: 24px 20px;
+    }
+}
 
 @media only screen and (min-width : 1600px) and (max-width : 1919px) {
 
@@ -486,7 +637,28 @@ input[type=submit]:hover {
 
 }
 
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+    .about-intro-area .second-content {
+        margin-top: 28px;
+    }
+
+    .about-highlight-card {
+        flex: none;
+    }
+}
+
 @media only screen and (min-width : 768px) and (max-width :1023px) {
+
+    .about-intro-area {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .about-solutions-list li {
+        font-size: 1.35rem;
+        flex: 0 0 calc(32% - 6px);
+        max-width: calc(32% - 6px);
+    }
 
     .why-choose-us-area .why-choose-us-box {
         padding: 50px 0px;
@@ -540,6 +712,55 @@ input[type=submit]:hover {
 }
 
 @media only screen and (min-width : 150px) and (max-width : 767px) {
+
+    .about-intro-area {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .about-intro-area .container-fluid {
+        width: 90%;
+    }
+
+    .about-intro-area p {
+        font-size: 1.5rem;
+        margin-bottom: 1.6rem;
+    }
+
+    .about-intro-area .second-content {
+        margin-top: 24px;
+    }
+
+    .about-highlight-card {
+        flex: none;
+    }
+
+    .about-solutions-list {
+        gap: 10px;
+    }
+
+    .about-solutions-list li {
+        flex: 0 0 48%;
+        max-width: 48%;
+        font-size: 1.4rem;
+        padding: 12px 14px;
+    }
+
+    .about-highlight-card {
+        padding: 20px 16px;
+        gap: 12px;
+        margin-bottom: 16px;
+    }
+
+    .about-highlight-icon {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .about-highlight-card p {
+        font-size: 1.4rem;
+    }
 
     .why-choose-us-area h2 {
         margin: 0 0 10px 0;

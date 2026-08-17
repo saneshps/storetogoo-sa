@@ -57,10 +57,12 @@
 <body>
 
 
-<?php $page ='product';  include'header.php';?>
+<?php $page = 'product';
+include 'header.php'; ?>
 
 <!-- EMAIL -->
-<?php $page ='product';  include'express.php';?>
+<?php $page = 'product';
+include 'express.php'; ?>
 <!-- EMAIL -->
 
 <section class="page-pro">
@@ -96,7 +98,12 @@
     
   
 <div class="text">
-        <p><b>StoreToGo Van Racking</b> is much more than just a shelving system in the transporter's load area. <b>StoreToGo</b> provides a comprehensive solution for increased productivity, increased profitability, satisfied employees, happy business owners, and, most importantly, customer satisfaction. Our <b>van racking</b> solutions are available in the <b>United Arab Emirates</b> and <b>Oman</b>.</p>
+        <p> Our Van Racking systems are more than just shelves- they are the complete workspace solutions crafted to enhance productivity,
+           profitability and improve routine workflow. Since customer satisfaction is our first priority,
+            we ensure that the racking systems are tailored to meet the specific requirements of our clients.
+             Our van racking solutions are available in the UAE and Oman. 
+
+        </p>
 </div>
     </div>
     </div>
@@ -117,16 +124,16 @@
 <div id="comp_0000180X" class="sortimo-component text-component big-header
 ">
    <h2 class="component-headline ">
-       Increased productivity. Profitability has increased.
-      </h2>
-    
-       <h3 class="component-headline subheadline">
-       With StoreToGo, anything is possible, from a vehicle rack to an ambitious employee leading to a satisfied customer.
-      </h3>
+   Increased Productivity and Profitability
+      </h2> 
     
   
 <div class="text">
-      <p style="text-align: center;"><b>StoreToGo van racking</b> organizes and structures <b>vehicle racking</b> in your transporter and provides an overview of the work material being transported. It is intended to make tasks during your mobile working day <b>more professional</b>, <b>safer</b>, and <b>profitable</b>. The improved <b>van racking</b> systems allow for perfect intuitive handling, save time looking for the perfect tool, and make load securing a piece of cake.</p></div>
+      <p style="text-align: center;"> The van racking system features meticulous compartmentalization that minimizes clutter.
+         It will make it easier for the workers to reach out to the tools without having to check through the compartments. 
+
+      </p>
+      </div>
   </div></div>
 
 </div>
@@ -191,11 +198,11 @@
 <div id="comp_000019OL" class="sortimo-component text-component big-header
 ">
     <div class="component-headline ">
-       StoreToGo is customized!
+    StoreToGo- Convenient, Complete, Customized
       </div>
     
      <h3 class="component-headline subheadline">
-       As a result, the majority of van racking system users put their trust in StoreToGo.
+     Trusted by users across the UAE. 
       </h3>
        
   
@@ -213,38 +220,42 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Individualisation</span>
+                  Customization</span>
                 </div>
               <div class="text">
-            <ul>     <li>Can be set up online with complete cost transparency</li>     <li>Can be designed to meet individual needs for all vehicle brands</li>     <li>The best option for all trades</li>  </ul></div>
+            <ul>   
+              <li>  Can design and customize the van racking set up online directly on our website. </li>
+              <li>  Provides customization solutions for all vehicle brands.  </li>
+              <li>  Customized precisely to meet the individual requirements  </li>
+              <li>  This set up is suitable for all trades  </li>
+                 </ul></div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    EcoSystem</span>
+                  StoreToGo quality </span>
                 </div>
               <div class="text">
             <ul>
-    <li>Introducing the system to partners from the skilled trades and industry</li>
-    <li>Compatibility with third-party products</li>
-    <li>Enhanced productivity</li>
-    <li>Increased effectiveness</li>
+    <li>  High-quality German made </li>
+    <li>  Tested and approved by leading institutes </li>
+    <li>  Comes in a lightweight yet sturdy construction.  </li>
+    <li>  Increase in the vehicle’s resale value </li>
 </ul></div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Extras without end</span>
+                  Eco System  </span>
                 </div>
               <div class="text">
             <ul>
-    <li>Online services are available 24 hours</li>
-    <li>Online planning, structuring, and organization</li>
-    <li>Personal consultation that is comprehensive</li>
-    <li>All applications require specialized equipment</li>
-    <li>Fleet service for vehicles that are ready for deployment</li>
+    <li>  Collaboration with  manufacturers and integrating their products. </li>
+    <li>  Foster communication with the partner products through digital integration. </li>
+    <li>  This enhances the overall productivity. </li>
+    <li>  The collaboration ensures smooth operation, thus enhancing the overall efficiency.  </li>
 </ul></div>
         </div>
       </div>
@@ -299,13 +310,20 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        StoreToGo quality
+          Enhanced Safety
       </div>
     
     
   
 <div class="text">
-            <ul>     <li>Material combination that is unique</li>     <li>Maximum sturdiness</li>     <li>Produced in Germany</li>     <li>Independent institutes have confirmed this</li>     <li>Increased vehicle resale value</li>     <li>Boosting residual value</li> </ul></div>
+            <ul>     
+              <li> We have conducted crash tests in real life conditions, ensuring safety.  </li>
+              <li> Built-in mechanisms to secure tools and materials.  </li>
+              <li> Ensure fast and efficient workflow </li>
+              <li> Protection of the drivers and passengers </li>
+              <li> Safeguarding the tools. </li>
+                        
+                        </ul></div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           
@@ -313,18 +331,18 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Safety
+          Additional Services
       </div>
     
     
   
 <div class="text">
             <ul>
-    <li>Crash tests in practical systems</li>
-    <li>Load Securing Integrated</li>
-    <li>Processing in a jiffy</li>
-    <li>Personal security</li>
-    <li>Tool safeguarding</li>
+   <li>  Access to online services 24/7 </li>
+   <li>  Plan and organize your system online.  </li>
+   <li>  Personalized consultation for effective product designing </li>
+   <li>  Supply custom accessories and components for diverse industrial applications.  </li>
+   <li>  Render complete vehicle set-up, from start to finish. </li>
 </ul></div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -333,20 +351,19 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Full Service
+          Complete Service
       </div>
     
     
   
 <div class="text">
-           All commercial vehicle services – one order, everything on its way:
+We provide comprehensive vehicle services throughout:
 <ul> 
 
-
-    <li>Van storage racks</li>
-    <li>Vehicle lettering</li>
-    <li>Organization in the workplace</li>
-    <li>Financing and leasing are both available</li>
+<li> Van storage racks </li>
+<li> Vehicle lettering </li>
+<li> Workplace organization </li>
+<li> Financing and leasing options available for all vehicle solutions. </li>
 
 </ul></div>
         </div>
@@ -372,7 +389,7 @@
 ">
   <h3 class="component-headline ">
         
-        StoreToGo Van Racking at a Glance
+  StoreToGo Van Racking at a Glance
       </h3>
       
 </div></div>
@@ -394,7 +411,7 @@
       <div class="icon">
         <svg id="icon-anchor-globelyst4-logo" xmlns="http://www.w3.org/2000/svg" width="46" height="4" viewBox="0 0 46 4"><defs><style>.icon-anchor-globelyst4-logo-cls-1{fill:#fff;}</style></defs><title>icon-anchor-globelyst4-logo</title><path class="icon-anchor-globelyst4-logo-cls-1" d="M128.93,14.82c-.73,0-1.05-.14-1.05-.66a1.8,1.8,0,0,1,0-.37l.37-1.92c.15-.83.43-1,1.31-1h3.53l-.18.94h-3.22c-.08,0-.12,0-.13.1l-.35,1.85v0c0,.05,0,.07.1.07h2c.08,0,.11,0,.12-.1l.1-.47h-.83l.16-.88H133l-.27,1.4c-.15.83-.41,1-1.27,1Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M133.21,14.79l.74-3.95h1.32l-.55,2.93h2.64l-.19,1Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M138.72,14.82c-.72,0-1-.13-1-.64a2.08,2.08,0,0,1,.05-.39l.37-1.95c.15-.83.43-1,1.3-1h2.71c.71,0,1,.13,1,.63a3.22,3.22,0,0,1,0,.39l-.37,1.95c-.16.83-.43,1-1.3,1Zm3-2.9a.17.17,0,0,0,0-.07s0-.06-.09-.06h-2.12c-.09,0-.12,0-.13.1l-.34,1.79a.18.18,0,0,0,0,.06s0,.06.1.06h2.12a.11.11,0,0,0,.12-.1Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M143.18,14.79l.75-3.95h3.25c.69,0,1,.13,1,.57a1.18,1.18,0,0,1,0,.3l-.07.42a.73.73,0,0,1-.51.63.4.4,0,0,1,.31.43,1.29,1.29,0,0,1,0,.25l-.08.41c-.16.84-.44.94-1.27.94Zm3.41-1.52v0s0-.06-.09-.06h-1.75l-.12.66h1.75c.08,0,.1,0,.12-.11Zm.26-1.41a.13.13,0,0,0,0,0s0-.06-.09-.06H145l-.11.59h1.75c.08,0,.1,0,.12-.1Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M148.21,14.79l.75-3.95h4.21l-.17.94h-2.92l-.11.55h1.91l-.17.88h-1.9l-.12.62h2.95l-.18,1Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M153.06,14.79l.75-3.95h1.32l-.56,2.93h2.64l-.19,1Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M157.62,14.79,158,13l-1.57-2.2H158l.49.73.25.39.38-.39.76-.73h1.82l-2.43,2.22-.33,1.73Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M161.06,14.79l.19-1h3.05c.08,0,.1,0,.12-.1l.07-.38a.1.1,0,0,0,0,0s0-.06-.09-.06h-1.87c-.75,0-1-.13-1-.59a1.63,1.63,0,0,1,0-.35l.1-.52c.14-.74.42-.93,1.29-.93h3.16l-.17.94h-2.88c-.08,0-.11,0-.12.12l-.06.31v0s0,.06.09.06h1.88c.73,0,1,.11,1,.58a1.48,1.48,0,0,1,0,.34l-.11.59c-.16.81-.38,1-1.27,1Z" transform="translate(-127.88 -10.82)"></path><path class="icon-anchor-globelyst4-logo-cls-1" d="M167.36,14.79l.56-3h-1.58l.19-1H171l-.18,1h-1.58l-.56,3Z" transform="translate(-127.88 -10.82)"></path><polygon class="icon-anchor-globelyst4-logo-cls-1" points="44.13 3.41 44 3.97 45.03 3.97 45.16 3.41 44.13 3.41"></polygon><polygon class="icon-anchor-globelyst4-logo-cls-1" points="43.62 2.28 44.69 1.11 44.7 1.11 44.45 2.08 45.48 2.08 46 0.03 44.73 0.03 42.65 2.28 42.42 3.23 45.65 3.23 45.88 2.28 43.62 2.28"></polygon></svg></div>
       <div class="text">
-        Globelyst4</div>
+      Globelyst4</div>
     </div>
   <div class="anchor-item" onclick="window.open('#comp_0000181E','_self');">
       <div class="icon">
@@ -429,12 +446,19 @@
 ">
   
 <h4 class="component-headline ">
-    SR5 – The next generation
+SR5: The Next-Level Design
       </h4>
     
   
 <div class="text">
-      <p style="text-align: center;"><b>StoreToGo</b> have evolved the <b>fifth generation of van racking</b> - it is an intelligent mobility system which offers the user <b>greater productivity in day-to-day working</b>. SR5 embodies 45 years of experience, expertise, and passion in a single unit. It has been structured so that you can configure it to meet your specific needs while remaining compliant with industry standards in StoreToGo configuration. <b>Maximum load area application</b>, a <b>well-organized and perfected workplace</b>, and full compatibility with StoreToGo's tried-and-true EcoSystem make SR5 the ideal partner in your day-to-day operations.</p></div>
+      <p style="text-align: center;">
+      StoreToGo presents the latest and most advanced version of their van racking system- an intelligent mobility
+       system that is well suited for day-to-day working. The SR5 combines 45 years of knowledge and experience into 
+       this system that fits your needs while staying compliant to the StoreToGo standards. SR5 keeps your workspace
+        organized by maximizing the van’s load space and works in line with StoreToGo’s proven
+         eco-system- making it a reliable van with daily utility. 
+
+        </p></div>
   </div></div>
 </div>
 <!-- END -->
@@ -463,11 +487,16 @@
 ">
         <h4 class="component-headline ">
         
-      Gobelyst4 Van Racking – Equal To Any Challenge
+        Gobelyst4 Van Racking- The Efficient Mobile Solution
       </h4>
    
 <div class="text">
-      <p>Globelyst4 van racking provides <b>structured, organized and more safety in the transporter.</b> Its intelligent organizational system makes the workflow more targeted and efficient and thus contributes to distinct <b>increased productivity</b> in day-to-day working. You can avoid spending time on unnecessary searching for tools that can be used to earn profit at the customer site, thanks to Globelyst4 van racking. The van racking helps tradespeople to structure their tasks in their individual <b>mobile daily routine very professionally, safer and increased profitably.</b></p></div>
+      <p> This van racking provides a more structured, organized and safe setup for your transporter. This arrangement will significantly
+         reduce the time spent searching tools and invest it being productive at the worksite. With Gobelyst4 tradespeople can easily
+          structure their van racking and ensure safe mobile work routine. 
+
+          
+          </p></div>
   </div></div>
 </div>
 <!-- END -->
@@ -484,7 +513,7 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    <span style="font-weight:normal; line-height: 1.5;">Increased flexibility as a result of a wide range of individualization options.</span></span>
+                    <span style="font-weight:normal; line-height: 1.5;"> A wide range of industrial grade accessories that ensures the secure transportation of tools and goods.  </span></span>
                 </div>
               <div class="text">
             </div>
@@ -493,7 +522,7 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    <span style="font-weight:normal; line-height: 1.5;">Globelyst4 van racking can withstand extreme conditions thanks to crash tests and regular quality checks.</span></span>
+                    <span style="font-weight:normal; line-height: 1.5;"> The racking system is ergonomically designed to ensure a comfortable working day.  </span></span>
                 </div>
               <div class="text">
             </div>
@@ -502,7 +531,8 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    <span style="font-weight:normal; line-height: 1.5;">Load securing is simple and quick thanks to integrated ProSafe load securing systems in the uprights and cross-beams.</span></span>
+                    <span style="font-weight:normal; line-height: 1.5;"> The racking systems are built sturdy with a material mix that is at the same time light in nature, but incredibly strong.
+                       For instance the combination of metal, plastic and fiber-reinforced materials.  </span></span>
                 </div>
               <div class="text">
             </div>
@@ -546,7 +576,7 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        <span style="font-weight:normal">Comprehensive sector-compliant accessories facilitate safe transport of loads.</span>
+        <span style="font-weight:normal"> The van racking system can be customized according to the needs at hand which adds to the flexibility of the system.  </span>
       </div>
     
     
@@ -559,7 +589,7 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        <span style="font-weight:normal">Consistent development in terms of ergonomics - for a healthy working day.</span>
+        <span style="font-weight:normal"> The racking system is built to withstand harsh climatic conditions as it undergoes up to date crash tests and quality tests. </span>
       </div>
     
     
@@ -572,7 +602,7 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        <span style="font-weight:normal">The intelligent mix of materials (metal, plastic and fibre-reinforced material) makes the system partic&shy;ularly light yet extremely sturdy.</span>
+        <span style="font-weight:normal"> They feature ProSafe load securing systems that ensure the easy and efficient fastening of goods.  </span>
       </div>
     
     
@@ -594,11 +624,18 @@
 <div id="comp_0000181E" class="sortimo-component text-component small-header
 ">
         <h4 class="component-headline ">
-        FR5 – The flexible racking system
+        FR5- The Flexible Racking System 
       </h4>
       
 <div class="text">
-      <p style="text-align: center;">The <b>FR5 van racking</b> system is designed specifically for <b>Express deliveries</b>, <b>Courier services</b>, and <b>Parcel services</b>. The racking system can accommodate a variety of different loading volumes. The shelves' practical folding function and adjustable angle of inclination allow even large or heavy loads to be stored and transported safely. The integrated ProSafe load securing system simplifies the securement of packages of all sizes, making courier drivers' day-to-day work easier and safer. <b>SR-BOXXes</b>, which can be mounted below or above the shelves, can be used to store small parts. As a result, FR5 is ideal for craftsmen who need more flexibility in their van racking system.</p></div>
+      <p style="text-align: center;"> 
+      Designed specifically for express deliveries, courier services and parcel services, this racking system can accommodate different load volumes.
+       The shelves come with a practical folding function and adjustable angle of inclination aids in the storage of even larger and heavier loads.
+        By fitting Pro safe load securing system to this racking system, you can easily load and secure packages of different sizes. 
+
+      </p>
+    <p> Furthermore SR-BOXXes are fixed both above and below the shelves for storing smart parts. </p>
+    </div>
   </div></div>
 </div>
 <!-- END -->
@@ -613,28 +650,28 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Ease of handling </span>
+                  Ease in handling: </span>
                 </div>
               <div class="text">
-            The shelves can be folded up or down with one hand.</div>
+              The shelves can be folded up or down easily.  </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Individuality</span>
+                  Enhanced flexibility: </span>
                 </div>
               <div class="text">
-            FR5 can be individually configured according to personal needs and also adapts to the installation requirements.</div>
+              The folding shelves add to the overall flexibility of the system. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Maximum safety </span>
+                  Customization: </span>
                 </div>
               <div class="text">
-            for driver and load thanks to ProSafe integration.</div>
+              The FR5 can be customized according to the specific needs and installation requirements of the company. </div>
         </div>
       </div>
     <div class="image" style="background-image: url('images/product/fahrzeugeinrichtungen-produkthighlights-fr5.png');">
@@ -676,11 +713,11 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Maximum flexibility 
+          Time-saving:
       </div>
     
 <div class="text">
-            Thanks to the use of folding shelves.</div>
+The presence of a partition wall with a door gives access from the driver’s seat to the loading bay. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           
@@ -688,27 +725,14 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Time-saving 
+          Can be combined with SR5:
       </div>
     
   
 <div class="text">
-            The ProPartition with door allows access to the loading bay from the driver's cab.</div>
+By combining them with the SR5 model, you can further enhance the rack capacity.  </div>
         </div>
-      <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
-          
-      <div class="component-headline ">
-        
-          <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
-        
-        Can be combined with SR5
-      </div>
-    
-  
-<div class="text">
-            On one hand, there's SR5, and on the other, there's FR5. This is how maximum customization works.</div>
-        </div>
-      </div>
+      
   </div>
 </div>
 </div>
@@ -727,24 +751,29 @@
     
       <h2 class="component-headline ">
         
-        StoreToGo Van Racking System
+      StoreToGo Van Racking System
       </h2>
     
     
     
   
 <div class="text">
-      <p>Each user will have different requirements regarding a van racking system. This often depends with the sector in which the person or company works. You can make just the right selection from the <b>very wide range of industry-specific functions and extras</b> needed to truly ease the day-to-day work. Through maximum loading space utilisation, storage of more consumables and auxiliary materials like tools and screws can be transported. At the same time, the right van racking system provides better organization of tedious tasks such as looking for the needed materials, small parts or tools, allowing them to save more time. </p>
-
-      <p>Time consuming search or not able to find the necessary objects is often worrying and annoying. This can even affect the work performance and bring a negative image to the employees. Such issues may prove very bad image of the company and in turn the customer satisfaction. Reduced orders and related decrease in turnover are not uncommon. The StoreToGo products enable you <b>to be very organized in performing the work processes thoroughly and in turn to enjoy a long-term boost in speed.</b> Additional trips due to miss placing the items or material are a thing of the past, now with the van racking system from StoreToGo anyone can check whether all the things needed for the next work or order is in the transporter.</p>
-
-      <p>The perk of the products is the increase in efficiency: since all the materials have their own designated place in the loading space, the objects in question are more secure. Serious damage or any Scratches to the vehicle body or load due to sliding objects can be reduced completely. The most expensive <b>work materials or tools are more protected</b> and the charges to repurchase damaged tools are saved.</p>
-
-      <p>Certainly, the load-securing system are customized to meet the respective needs and does not limit to protecting the materials. In the event of sudden braking, rough steering movements or accidents, the van racking systems from StoreToGo significantly contribute to protecting the passengers. Any loose parts inside the van can anytime turn into significant damage to the man and machine. This newly obtained <b>safety is the most important aspect of StoreToGo corporate mission.</b></p>
-
-      <p>For the van racking system to be used efficiently, it is important for it to be more compatible with vehicle and tool manufacturers. StoreToGo works closely with the automotive industry to make sure that the available loading space of a transporter is effectively used. By this, optimum systems can be provided for all vehicle <b>makes and models.</b> The selected products are, for their part, compatible with those of <b>numerous partners from the tool industry.</b> Store To Go yields <b>solutions that fit both your vehicle and your tools.</b></p>
-
-      <p>The StoreToGo van racking system helps the Employees and the company out in many aspects. In turn, you can choose between three different base products:Globelyst4 and FR5 boast different advantages <b>depending on your requirements</b> can be customized to even the smallest detail. As the basis for the customization options, you can choose between multiple industries, from  construction, plumbing / heating / air conditioning, paintwork to electrical installation.</p></div>
+  <p> StoreToGo provides customizable van racking systems that are designed to meet the requirements of diverse industries such as construction,
+     plumbing, HVAC, painting and electrical installation. With our extensive racking systems, users can totally revamp their van,
+      expanding its storage, making the space more organized and efficient. 
+      </p>
+  <p> Our effective van racking system saves your time by the orderly arrangement of different sections and reduces the frustration of
+     searching for misplaced tools, thereby helping the employees to work more efficiently. 
+      </p>
+  <p> Moreover, the StoreToGo racking system offers greater safety. The tools and materials are properly secured,
+     thereby preventing damage to the vehicle, protecting expensive tools and equipment, and minimizing the risk 
+     of injuries during sudden braking or accidents
+      </p>
+  <p> StoreToGo works closely with the clients to make sure that van racking systems are compatible with the respective van models.
+     Customers can choose between Globelyst4 and FR5 systems, both of which can be optimized to meet your specific racking needs.
+      </p>
+      
+      </div>
   </div></div>
 </div>
 <!-- END -->
@@ -764,7 +793,7 @@
 
 
     
-    <?php include'footer.php';?>
+    <?php include 'footer.php'; ?>
 
 
     

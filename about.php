@@ -87,67 +87,47 @@
     <div class="sli__text"></div>
   </section>
 
-
-
-
-  <section id="contact-content">
+<!-- ABOUT INTRO START -->
+  <section id="about-intro" class="about-intro-area">
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-12">
-          <!--  <h3>Our Locations</h3> -->
-          <p> <a href="https://www.storetogo.ae/">Store To Go</a>, a renowned brand associated with York Engineering Solutions FZC (YES Group),
-             is widely recognized for providing top-notch solutions in Van Racking and Van Converting across the GCC region.
-              Our offerings are distinguished by their exceptional quality and are held in high regard within the industry.
-               </p>
-          <p>  We offer a comprehensive range of van racking solutions aimed at organizing and outfitting the interior of vans to meet
-             our customers' specific requirements. Our expertise lies in converting and modifying vans, transforming them into
-              functional working spaces. This process involves the installation of shelves, compartments, drawers,
-               and other storage solutions to maximize the effective utilization of available space.
-               </p>
-          <p> Van conversion encompasses a wide array of modifications that go beyond racking, enabling the complete
-             transformation of vans into versatile working environments. Our selection
-includes<a href="https://www.storetogo.ae/heavy-loading-ramps.php"> loading ramps</a>, safety steps, Automatic steps, lights, work benches, Air conditioning, Van interior wall
- protection claddings, shoulder sinks hand hygiene, roof racks, mobile workstations, boxes, and cases,
-  lashing straps, load safety nets, flooring solutions, all tailored to suit your precise requirements.
-   </p>
-          <p> For professionals such as service technicians who require on-the-go organization, we specialize in
-             mobile service van racking systems. These systems are specifically designed to facilitate the
-              storage and arrangement of tools, equipment, and supplies. Our mobile service<a href="https://www.storetogo.ae/van-racking.php"> van racking
-               systems</a> consist of modular storage units, workbenches, racks, and secure storage options,
-                ensuring efficient organization and easy accessibility to tools and materials.
-               </p>
-          <p> At Store To Go, our dedicated team of experts possesses a genuine passion for designing and optimizing van spaces.
-             They are committed to recommending the best solutions for space utilization, precisely tailored to meet your
-              specific requirements.
-               </p>
-          <p> Apart from offering van racking and van conversions, our vehicle modification services are tailored to meet
-             the specific requirements of individuals and businesses seeking professional assistance in customizing their
-              vans with strict adherence to safety and legal regulations.
-               </p>
-          <p> To further meet your needs, we offer an extensive range of accessories and equipment. Our selection includes loading ramps,
-             safety steps, shoulder sinks, roof racks, mobile workstations, boxes, and cases, lashing straps, load safety nets,
-              and flooring solutions, all tailored to suit your precise requirements. Additionally, we provide high-quality
-               vehicle decals that add a touch of uniqueness and visual appeal to your van.
-               </p>
-          <p> With Store To Go, you can trust in our commitment to delivering top-notch van racking, van conversion,
-             and vehicle modification solutions, ensuring optimal functionality, organization, and style.
-               </p> 
-      
-          <p>At StoreToGo we believe that everyone should be able to 
-            <span>Store</span> more, Smartly and Safely <span>To</span>
-             take it where you <span>Go</span>. </p>
-
-             <p>To know how we do that, write to us on <a href="mailto:sales@storetogo.ae">sales@storetogo.ae</a> or Call us on <a href="tel:971 54 791 8858" targrt="_blank">+971 54 791 8858</a>
-             </p>
-          <p></p>
-
+      <div class="row align-items-stretch">
+        <div class="col-lg-7 col-md-12 first-content">
+          <p>Imagine opening the door of your service van and finding every tool exactly where it should be — right within arm’s reach. That’s the dream of every service technician and tradesperson. To open the door to a non-cluttered floor space and get access to the right tools without wasting any time. This is what StoreToGo is built for.</p>
+          <p>At StoreToGo Saudi Arabia, we transform vans into smart working vehicles equipped with reliable and durable storage solutions. Our van racking and conversion solutions include:</p>
+          <ul class="about-solutions-list">
+            <li><i class="fa fa-check" aria-hidden="true"></i> Shelves</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Drawers</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Compartments</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Workbenches</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Secure units</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Modular fittings</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Van interior wall protection claddings</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Automatic steps</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Loading ramps</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Lashing straps</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Roof racks</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Safety nets</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Flooring solutions</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Boxes</li>
+            <li><i class="fa fa-check" aria-hidden="true"></i> Cases</li>
+          </ul>
         </div>
-
+        <div class="col-lg-5 col-md-12 second-content">
+          <div class="about-highlight-card">
+            <span class="about-highlight-icon"><i class="fa fa-cogs" aria-hidden="true"></i></span>
+            <p>Designed to improve storage, safety, accessibility and productivity, StoreToGo van racking solutions ensure smooth workflow for businesses that depend on well-equipped and organized vehicles.</p>
+          </div>
+          <div class="about-highlight-card">
+            <span class="about-highlight-icon"><i class="fa fa-shield" aria-hidden="true"></i></span>
+            <p>Dedicated to design smart, safe and practical van interior storage areas that support day to day field operations, at StoreToGo, our expert team is by your side, to help you store more, work smart and move safely wherever your business takes you.</p>
+          </div>
+        </div>
       </div>
-
     </div>
-
   </section>
+<!-- ABOUT INTRO END -->
+
+ 
 
 
   <!-- ====================================
@@ -160,31 +140,31 @@ includes<a href="https://www.storetogo.ae/heavy-loading-ramps.php"> loading ramp
         <div class="col-lg-4 col-md-6 col-12">
           <div class="why-choose-us-box">
             <img src="./images/why-choose/A-team-of-seasoned-professionals.png" alt="A team of seasoned professionals">
-            <h3> A team of seasoned <br> professionals </h3>
+            <h3> Experts who understand <br> mobile workspaces </h3>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-12">
           <div class="why-choose-us-box">
             <img src="./images/why-choose/Uncompromising-commitment-to-quality.png" alt="Uncompromising commitment to quality">
-            <h3> Uncompromising commitment <br> to quality </h3>
+            <h3> Solutions and accessories <br> with uncompromising quality </h3>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-12">
           <div class="why-choose-us-box">
             <img src="./images/why-choose/Total-van-conversion-solutions-all-in-one-place.png" alt="Total van conversion solutions all in one place">
-            <h3> Total van conversion solutions <br> all in one place </h3>
+            <h3> Comprehensive van <br> conversion solutions </h3>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-12">
           <div class="why-choose-us-box">
             <img src="./images/why-choose/Outstanding-post-sales-support.png" alt="Outstanding post-sales support">
-            <h3> Outstanding post-sales <br> support </h3>
+            <h3> Trusted support that continues <br> post-installation </h3>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 col-12">
           <div class="why-choose-us-box">
             <img src="./images/why-choose/Cost-effectivenessGuaranteed-customer-satisfaction.png" alt="Cost-effectivenessGuaranteed customer satisfaction">
-            <h3> Cost-effectiveness Guaranteed <br> customer satisfaction </h3>
+            <h3> Solutions shaped according <br> to the customer requirements </h3>
           </div>
         </div>
       </div>
