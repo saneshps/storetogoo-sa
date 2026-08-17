@@ -139,55 +139,24 @@
 
 
 
-  <section id="serico">
-    <div class="container-fluid">
-
-
-
-      <div class="row" style="background-color: #eeeff1;">
-        <div class="yCmsComponent sortimo-component-slot clearfix">
-          <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_00002F8FR">
-            <div class="row" style="background-color: #eeeff1;">
-              <div class="image-container" style="width: 1050px; height: 510px;
-        background-image: url('images/safety-steps/safety-banner.jpg');  float: left;">
-                <img src="images/product/fr5-header-1050x510.gif" style="visibility: hidden;">
-              </div>
-              <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 480px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
-                <div class="arrow-container" style="background-color: #eeeff1;"></div>
-
-                <h1 class="component-headline mm">
-
-                  SAFETY STEPS
-                </h1>
-
-
-
-
-                <div class="text">
-                  <p> Storetogo representing Safety-Steps from Germany, which ensureseasy access in and out from Van.
-                    These steps are designed for efficiency, safety and comfort in the working environment,
-                    especially in loading and unloading. Safety-steps are developing
-                    new attachment kits for different vehicles.
-
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+  <section id="serico" class="ramps-hero-section">
+    <div class="ramps-hero">
+      <div class="ramps-hero-media">
+        <img src="images/safety-steps/safety-banner.jpg" alt="StoreToGo van safety steps">
       </div>
-
-
-
+      <div class="ramps-hero-copy">
+        <h1>SAFETY STEPS</h1>
+        <p>At StoreToGo we supply a top-range of safety steps that ensures safe access in and out of the van. Manufactured by Safety-Steps from Germany, they are ergonomic and efficient, ensuring safety during loading and unloading. New and unique attachment kits are being developed for different vehicles to enhance safety.</p>
+      </div>
     </div>
   </section>
+
 
   <!-- Ramp details -->
   <section class="safety-steps">
     <div class="container">
 
-      <h2> There are 3 types of safety steps available as of now. </h2>
+      <h2> WE PROVIDE 3 TYPES OF SAFETY STEPS</h2>
 
       <!-- 1 -->
       <div class="row one">
@@ -197,18 +166,21 @@
         <div class="col-xl-6 col-lg-7 col-md-7 safety-box-2">
           <h3> 1. Rear stage extendable </h3>
 
-          <p> Rear stage extendable steps are ergonomic, comfortable, joint- and back-friendly loading and unloading,
-            even of heavy objects. These steps are easy to pull out with foot and take up the entire width of the
-            vehicle and is very safe. Normally the product doses do not need any additional government approvals.
+          <p>  Rear stage extendable steps are ergonomic, comfortable and suited for joint-and back-friendly
+             loading and unloading, even of heavy objects. These steps can be pulled out easily with one foot.
+              It takes up the entire width of the vehicle and hence is safe. This step is compatible with diverse
+               car brands such as Ford, Mercedes, Renault, Iveco, Nissan, Peugeot etc. 
+
           </p>
 
-          <p> Compatible with Ford, Iveco, Mercedes, Nissan, Peugeot, Renault etc…. </p>
+        
 
           <h4> Specifications: </h4>
 
           <p> Tread 1510 - 1680mm x 250 mm <br>
-            Weight depending on vehicle type and attachment approx. 20 kg <br>
-            Protrusion via bumper: inserted approx. 140 mm, extended approx. 280 mm
+              Weight depending on vehicle type and attachment approx. 20 kg<br>
+              Protrusion via bumper: inserted approx. 140 mm, extended approx. 280 mm
+
           </p>
         </div>
       </div>
@@ -221,19 +193,19 @@
           <img src="images/safety-steps/rigid-rear-stage.jpg" alt="">
         </div>
         <div class="col-xl-6 col-lg-7 col-md-7 safety-box-2">
-          <h3> 2. Rigid rear stage </h3>
+          <h3> 2. Rigid Rear Stage </h3>
 
-          <p> Rigid rear stage step is a non-movable type with below specifications
+          <p> Rigid rear stage step is a non-movable step. 
           </p>
 
 
           <h4> Specifications: </h4>
-
+ 
           <p> Tread approx. 1050 x 240 mm <br>
-            Weight depending on vehicle type and attachment approx. 13 kg <br>
-            Protrusion over bumpers: approx. 210 mm
+              Weight depending on vehicle type and attachment approx. 13 kg <br>
+              Protrusion over bumpers: approx. 210 mm
 
-          </p>
+</p>
         </div>
       </div>
       <!--// 2 -->
@@ -244,22 +216,20 @@
           <img src="images/safety-steps/sidestep-electric.jpg" alt="">
         </div>
         <div class="col-xl-6 col-lg-7 col-md-7 safety-box-2">
-          <h3> 3. Sidestep electric </h3>
+          <h3> 3. Sidestep Electric</h3>
 
-          <p> Sidestep electric model as the name implies automatically swings
-            out when the sliding door is opened.
-            The tread consists of a stretch grill support, whereby dust or dirt falls through.
-            For ensuring good visibility we can have lighting shines upwards through the tread.
-          </p>
+          <p> Just as the name implies the Sidestep electric model automatically swings out when the door is opened.
+             The tread consists of a grill pattern, hence the dust and mud falls through instead of accumulating.
+              To make the step more visible during the night, you can add additional built-in lights.
+             </p>
 
 
           <h4> Specifications: </h4>
 
-          <p> Tread approx. 1200 x 250mm<br>
-            Weight approx. 35kg<br>
-            Load capacity approx. 300kg
-
-          </p>
+          <p>  Tread approx. 1200 x 250mm <br>
+                Weight approx. 35kg <br>
+                Load capacity approx. 300kg
+ </p>
         </div>
       </div>
       <!--// 3 -->
@@ -270,18 +240,18 @@
           <img src="images/safety-steps/manual.jpg" alt="">
         </div>
         <div class="col-xl-6 col-lg-7 col-md-7 safety-box-2">
-          <h3> 4. Manual page level </h3>
+          <h3> 4. Manual Page Level </h3>
 
-          <p> Manual page level Steps are unlocked and Insertion via a foot pedal
-            and then extends with the help of a gas spring.
+          <p> Manual page level steps are unlocked and inserted via a food pedal. Afterwards it is extended using a gas spring. 
           </p>
 
 
           <h4> Specifications: </h4>
 
           <p> Tread approx. 630 x 250mm <br>
-            Weight approx. 20kg <br>
-            Load capacity approx. 250kg
+              Weight approx. 20kg <br> 
+              Load capacity approx. 250kg
+
 
           </p>
         </div>
