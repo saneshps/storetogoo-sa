@@ -35,8 +35,9 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 270.4px;">
             <span class="item-headline">
-                Flexibility</span>
-            <p style="margin-bottom:0px;">Flexibility and individuality are what set Globelyst4 apart. The arrangement for the Transporter can be planned to any requirement.</p></div>
+            Wide range of Accessories  </span>
+            <p style="margin-bottom:0px;"> A wide range of accessories can be adjusted according to the van requirements,
+               allowing customization, while staying compliant to the industrial safety standards.  </p></div>
         </div>
     </div>
   </div>
@@ -58,8 +59,8 @@
               </div>
             <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 270.4px;">
             <span class="item-headline">
-                Integrated load securing</span>
-            <p style="margin-bottom:0px;">The ProSafe load securing system can be installed directly in the uprights and cross-beams of the van racking, thus permitting rapid lashing of the load.</p></div>
+            Customization  </span>
+            <p style="margin-bottom:0px;"> The standout feature of this van racking system. It can be customized according to the requirements of the businesses. </p></div>
         </div>
     </div>
   </div>
@@ -79,8 +80,8 @@
               </div>
              <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 270.4px;">
             <span class="item-headline">
-                Comprehensive accessories</span>
-            <p style="margin-bottom:0px;">A wide variety of accessories permits sector-compliant adaptation and thus makes day-to-day working easier.</p></div>
+            Quality and Safety </span>
+            <p style="margin-bottom:0px;"> The van racking system has undergone rigorous crash tests and are proven to be crush proof and durable.  </p></div>
         </div>
     </div>
   </div>
@@ -99,8 +100,8 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 270.4px;">
             <span class="item-headline">
-                Quality and safety</span>
-            <p style="margin-bottom:0px;">The Globelyst4 van racking represents a high quality standard supported by crash tests under real conditions.</p></div>
+            Material mix </span>
+            <p style="margin-bottom:0px;"> The racking system is made from a combination of plastic, metal and fire, ensuring sturdy support for the loads. </p></div>
         </div>
     </div>
   </div>
@@ -119,8 +120,9 @@
               </div>
            <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 270.4px;">
             <span class="item-headline">
-                Material mix</span>
-            <p style="margin-bottom:0px;">The intelligent material mix of metal, plastic and fibre compound ensure that the required load capacity is satisfied at each point.</p></div>
+            Integrated Load Securing </span>
+            <p style="margin-bottom:0px;"> The addition of the ProSafe load securing system can be fixed directly onto the metal frame inside the van,
+               which helps the operators to quickly tie down the load and prevent it from sliding.  </p></div>
         </div>
     </div>
   </div>

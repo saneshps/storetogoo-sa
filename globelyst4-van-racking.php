@@ -99,14 +99,14 @@
     
       <h1 class="component-headline ">
         
-        Globelyst4
+      Globelyst4
       </h1>
     
     
     
   
 <div class="text">
-        <p>The Globelyst4 van racking offers a wealth of customisation options, is highly resilient and permits perfect intuitive handling.</p>
+        <p>The Globelyst4 is a strong and durable van racking system that can be customized according to the specific needs.</p>
         </div>
     </div>
     </div>
@@ -132,21 +132,29 @@
     
       <h2 class="component-headline ">
         
-        Globelyst4 - the proven standard
+      Globelyst4- Proven Benchmark
       </h2>
     
     
       <h3 class="component-headline subheadline">
         
-        Planning and installation based on your individual requirements.
+      Customization and installation based on individual requirements
       </h3>
     
     
     
   
 <div class="text">
-      <p style="text-align: center;">The <strong>Globelyst4 van racking</strong> stands for <strong>organisation, structure and safety</strong> in the Transporter. The intelligent organisation system allows a focused workflow and thus contributes to an increase in efficiency in daily routine. Professional consulting permits the van racking to be precisely adapted to your requirements and ensures the best possible use of space in your Transporter. A wide variety of <strong>accessories and mobile ranges</strong> allows Globelyst4 to <strong>comply with trade-specific requirements</strong>. The integrated ProSafe load securing system also provides for <strong>simple and rapid lashing and securing of transported goods</strong>.</p></div>
-  </div></div>
+      <p> Globelyst4 is a van racking system that keeps the tools, equipment and materials neatly arranged,
+         ensuring stability while driving. This organisation will make it easier for the operator to access tools,
+          doing away with the time spent on searching for them. Moreover the racking system can be customized
+           according to the workflow. Additional accessories such as tool cases, storage boxes and more.
+            Along with the integrated ProSafe load securing system, the goods can be tied down easily,
+             ensuring a secure transport of goods.  
+
+      </p>
+ 
+    </div></div>
 </div>
 
 
@@ -170,11 +178,16 @@
 ">
   <h3 class="component-headline ">
         
-        StoreToGo Globelyst4 van racking – equal to any challenge
+  StoreToGo Globelyst4 Van Racking- Built Tuff
       </h3>
    
 <div class="text">
-      The Globelyst4 organisation system permits high levels of individualisation and direct retrievability of transported materials. Organisation aids in the van racking ensure that, whatever the sector, long, bulky and small materials all have their allocated space.</div>
+The StoreToGo Globelyst4 van racking system can be customized according to the specific needs of the users. It allows easy access to the tools and equipment.
+ This van racking system includes other organizational accessories such as shelves, drawers and compartments, that can handle multiple loads,
+  whether long, small or bulky, securing them safely to the allocated place.
+
+      
+      </div>
   </div></div>
  </div>
 
@@ -197,7 +210,7 @@
     
       <h3 class="component-headline ">
         
-        T-BOXXes G and <nobr>L-BOXXes G/G4</nobr>
+      T-BOXXes G and L-BOXXes G/G4
       </h3>
     
 <div class="text">
@@ -217,14 +230,14 @@
     
       <h3 class="component-headline ">
         
-        SR-BOXXes
+      SR- BOXXes
       </h3>
     
     
     
   
 <div class="text">
-        <p>Stow small parts quickly and clearly in the practical sliding boxes: the Sortimo SR-BOXXes. These can be integrated on Globelyst4 shelves.</p>
+        <p> These are sliding boxes that allow the storage of small parts. They can be integrated onto the Globelyst4 shelves.  </p>
         </div>
     </div>
     <div class="image-container" style="width: 340px; height: 340px;
@@ -250,12 +263,12 @@
 
       <h3 class="component-headline ">
         
-        Aluminium system perforated plate
+      Aluminum System Perforated Plate
       </h3>
     
   
 <div class="text">
-        <p>Standard in your Sortimo Globelyst4: the aluminium system perforated wall, onto which all accessories and tools can be fixed using just one hand movement.</p></div>
+        <p> The van racking system has a built-in perforated metal wall, where tools and accessories can be hanged quickly.  </p></div>
     </div>
     </div>
 </div></div>
@@ -272,14 +285,14 @@
 
       <h3 class="component-headline ">
         
-        Racking and shelves
+      Racking and Shelves
       </h3>
     
     
     
   
 <div class="text">
-        <p>They do not leave any space unused in your vehicle, however small: Sortimo racking and shelves provide organisation and safety.</p></div>
+        <p> StoreToGo offers durable shelves designed to fit the interior layout of the van. This allows for the proper organization of the tool, ensuring secure transport.  </p></div>
     </div>
     <div class="image-container" style="width: 340px; height: 340px;
         background-image: url('images/product/globelyst4-regale-340x340.jpg');  float: right;">
@@ -308,14 +321,14 @@
     
       <h3 class="component-headline ">
         
-        Lifting flap
+      Lifting Flap
       </h3>
     
     
     
   
 <div class="text">
-        <p>So that awkward objects, such as buckets and boxes remain securely stowed during the journey: The lifting flap keeps everything in its place.</p></div>
+        <p> There are lifting flaps that can hold loose or awkwardly shaped items right in place.  </p></div>
     </div>
     </div>
 </div></div>
@@ -330,12 +343,12 @@
       
 <h3 class="component-headline ">
         
-        Long components tray
+Long Components Tray
       </h3>
     
   
 <div class="text">
-        <p>Ideal for securing pipes and bars - the long components tray, which makes both loading and unloading child's play.</p></div>
+        <p> There is also a long tray that can ideally secure pipes and bars.  </p></div>
     </div>
     <div class="image-container" style="width: 340px; height: 340px;
         background-image: url('images/product/2019-11-04-MB-Sprinter-Globelyst-4-SR-BOXXen.jpg');  float: right;">

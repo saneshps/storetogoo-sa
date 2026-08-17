@@ -97,17 +97,15 @@
 
                 <h1 class="component-headline mm">
 
-                  FR5 – The flexible folding rack for vans
+                FR5- The flexible folding rack for vans 
                 </h1>
 
 
 
 
                 <div class="text">
-                  <p>FR5 – Specially designed for <strong>courier, express delivery and parcel
-                      services</strong> – offers <strong>maximum flexibility</strong> with maximum
-                    use of loading space.</p>
-                  <p>Now configurable by your sales representative!</p>
+                  <p> A racking system specially designed for courier, express delivery and parcel services- the FR5 offers enhanced flexibility with maximum use of loading space. </p>
+                  <p> Now you can personalize this set-up with the help of our sales team.  </p>
                 </div>
               </div>
             </div>
@@ -131,20 +129,19 @@
 ">
             <h2 class="component-headline ">
 
-              The flexible folding rack for vans offers unique advantages
+            Advantages of the Flexible Folding Racks
             </h2>
 
 
 
 
             <div class="text">
-              <p class="cal">FR5 is a space saver that has been specially developed for the CEP industry.
-                The <strong>shelves are adjustable in three dimensions</strong> and can therefore be
-                customised to the size of the load. The narrow aluminium side profiles adapt perfectly
-                to the vehicle’s silhouette, ensuring <strong>maximum freedom of movement and
-                  ergonomics</strong> even when the shelves are fully loaded. This not only increases
-                the motivation of delivery personnel, but also significantly <strong>increases
-                  productivity</strong>.</p>
+              <p class="cal"> Developed with the CEP industry in mind, the FR5 is an ultimate space-saver,
+                 that comes with shelves that can be adjusted in all directions that helps companies to store packages of
+                  different sizes and shapes effectively. The slim aluminum side profile fits well with the vehicle’s interior.
+                   This setup gives the workers more space to move, making the van more comfortable and efficient. 
+
+              </p>
             </div>
           </div>
         </div>
@@ -187,11 +184,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Individuality </span>
+                    Customization </span>
                   </div>
                   <div class="text">
-                    FR5 can be individually configured according to personal needs and also adapts
-                    to the installation requirements.</div>
+                  The FR5 can be customized according to the specific needs of the client. It can also be adjusted to fit the installation requirements.</div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                   <div class="component-headline">
@@ -216,10 +212,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Maximum organisation</span>
+                    Enhanced Protection  </span>
                   </div>
                   <div class="text">
-                    <p>Shelves with border can be labelled using StoreToGo labels.</p>
+                    <p> The racking system features a GripMaxx shelf with integrated anti-slip edge that eliminates bottom pressure, preventing the crushing of parcels. </p>
                   </div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -245,10 +241,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Maximum safety</span>
+                    Flexibility </span>
                   </div>
                   <div class="text">
-                    for driver and load thanks to ProSafe integration.</div>
+                  The folding shelves ensure maximum flexibility, creates extra space for the cargo, ensures load stability and improves safety.  </div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                   <div class="component-headline">
@@ -273,10 +269,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Ease of handling</span>
+                    Shelf Labelling  </span>
                   </div>
                   <div class="text">
-                    The shelves can be folded up or down with one hand.</div>
+                  The shelves have a raised edge, where the StoreToGo labels can be attached to label what each shelf is for. </div>
                 </div>
               </div>
               <div class="image"
@@ -307,11 +303,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Individuality </span>
+                    Customization </span>
                   </div>
                   <div class="text">
-                    FR5 can be individually configured according to personal needs and also adapts
-                    to the installation requirements.</div>
+                  The FR5 can be customized according to the specific needs of the client. It can also be adjusted to fit the installation requirements.  </div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                   <div class="component-headline">
@@ -336,10 +331,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Maximum organisation</span>
+                    Enhanced Protection  </span>
                   </div>
                   <div class="text">
-                    <p>Shelves with border can be labelled using StoreToGo labels.</p>
+                    <p> The racking system features a GripMaxx shelf with integrated anti-slip edge that eliminates bottom pressure, preventing the crushing of parcels. </p>
                   </div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -365,10 +360,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Maximum safety</span>
+                    Flexibility  </span>
                   </div>
                   <div class="text">
-                    for driver and load thanks to ProSafe integration.</div>
+                  The folding shelves ensure maximum flexibility, creates extra space for the cargo, ensures load stability and improves safety. </div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                   <div class="component-headline">
@@ -393,10 +388,10 @@
                           transform="translate(59.33 14.77)"></path>
                       </svg></span>
                     <span class="text-span">
-                      Ease of handling</span>
+                    Shelf Labelling </span>
                   </div>
                   <div class="text">
-                    The shelves can be folded up or down with one hand.</div>
+                  The shelves have a raised edge, where the StoreToGo labels can be attached to label what each shelf is for. </div>
                 </div>
               </div>
               <div class="right-text">
@@ -427,48 +422,13 @@
                         transform="translate(59.33 14.77)"></path>
                     </svg>&nbsp;
 
-                    Protected cargo
+                    Maximum Safety
                   </div>
 
 
 
                   <div class="text">
-                    The GripMaxx shelf with integrated anti-slip edge avoids crushing the bottom of
-                    parcels.</div>
-                </div>
-                <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
-
-
-                  <div class="component-headline ">
-
-                    <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35"
-                      viewBox="0 0 35 35">
-                      <defs>
-                        <style>
-                          .icon-produkthighlights-check-cls-1 {
-                            fill: #546373;
-                          }
-
-                          .icon-produkthighlights-check-cls-2 {
-                            fill: #fff;
-                          }
-                        </style>
-                      </defs>
-                      <title>icon-produkthighlights-check</title>
-                      <circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5"
-                        r="17.5"></circle>
-                      <path class="icon-produkthighlights-check-cls-2"
-                        d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z"
-                        transform="translate(59.33 14.77)"></path>
-                    </svg>&nbsp;
-
-                    Maximum flexibility
-                  </div>
-
-
-
-                  <div class="text">
-                    thanks to folding shelves.</div>
+                  The ProSafe integration ensures enhanced safety for both the driver and the goods.</div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
 
@@ -502,8 +462,41 @@
 
 
                   <div class="text">
-                    The ProPartition with door means the loading space can be entered from the
-                    driver’s cab.</div>
+                  The diver can walk directly into the cargo area from inside the cab, through the Propartition with the door. This avoids the need to exit and re-enter the vehicle, saving time.  </div>
+                </div>
+                <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
+
+
+                  <div class="component-headline ">
+
+                    <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35"
+                      viewBox="0 0 35 35">
+                      <defs>
+                        <style>
+                          .icon-produkthighlights-check-cls-1 {
+                            fill: #546373;
+                          }
+
+                          .icon-produkthighlights-check-cls-2 {
+                            fill: #fff;
+                          }
+                        </style>
+                      </defs>
+                      <title>icon-produkthighlights-check</title>
+                      <circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5"
+                        r="17.5"></circle>
+                      <path class="icon-produkthighlights-check-cls-2"
+                        d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z"
+                        transform="translate(59.33 14.77)"></path>
+                    </svg>&nbsp;
+
+                    Ease of Handling
+                  </div>
+
+
+
+                  <div class="text">
+                  The shelves are user-friendly, quick to adjust and require minimal effort to set-up and fold back.  </div>
                 </div>
                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
 
@@ -532,13 +525,13 @@
                         transform="translate(59.33 14.77)"></path>
                     </svg>&nbsp;
 
-                    Stable and resilient
+                    Stable and Resilient
                   </div>
 
 
 
                   <div class="text">
-                    Suitable for heavy loads up to 100 kg</div>
+                  The racking system can secretly handle loads up to a 100kg, ensuring maximum stability. </div>
                 </div>
               </div>
             </div>
@@ -565,11 +558,12 @@
                       style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
                       <p
                         style="text-align: center; color: rgb(255, 255, 255);font-weight: 700; margin-bottom:20px;">
-                        Maximum flexibility and ease-of-use</p>
+                        Enhanced Flexibility and Ease of Use  </p>
                       <p style="text-align:left;color: rgb(255, 255, 255); font-weight: 300;">FR5
-                        adapts to the load thanks to its folding shelves. It can be operated
-                        with just one hand and clicks into place automatically so that the
-                        shelves can be folded up and down even in stressful situations.</p>
+                      The racking system can adapt to the configuration of the load due to its folding shelves.
+                        It is designed for one-hand operation and each shelf clicks into the designated place automatically.
+                         Operators can fold them up and down with ease, regardless of the workspace conditions. 
+                     </p>
                     </div>
                   </div>
                 </div>
@@ -585,12 +579,9 @@
                       style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
                       <p
                         style="text-align: center; color: rgb(255, 255, 255);font-weight: 700; margin-bottom:20px;">
-                        Optimum utilisation of loading space thanks to custom design</p>
+                        Effective Utilization of Load Space  </p>
                       <p style="text-align:left;color: rgb(255, 255, 255); font-weight: 300;">The
-                        custom design of FR5 for your vehicle makes an ideal installation
-                        situation possible. The lateral aluminium profiles are designed in such
-                        a way that they adapt to different vehicle silhouettes and take up as
-                        little space as possible.</p>
+                      The racking system can be customized according to the interior of the van. The aluminum side profile easily blends with the inner layout of the vehicle, expanding the load space.  </p>
                     </div>
                   </div>
                 </div>
@@ -606,11 +597,11 @@
                       style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
                       <p
                         style="text-align: center;color: rgb(255, 255, 255); font-weight: 700; margin-bottom:20px;">
-                        BOXXes integration for more tidiness</p>
+                        Better organisation With the BOXXes </p>
                       <p style="text-align:left;color: rgb(255, 255, 255); font-weight: 300;">By
-                        integrating SR-BOXXes, FR5 can be extended further into a van racking
-                        system. The SR-BOXXes can be locked to the shelves hanging or standing
-                        on them using plastic slides.</p>
+                      The SR-BOXXes can be integrated with the FR5 racking system, extending the loadspace even further. 
+                      The box can be arranged in two ways: it can be hung under the shelf or or be kept on top of it, using the plastic slides. 
+                    </p>
                     </div>
                   </div>
                 </div>
@@ -626,11 +617,11 @@
                       style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
                       <p
                         style="text-align: center;color: rgb(255, 255, 255);  font-weight: 700; margin-bottom:20px;">
-                        Time-saving</p>
+                        Time-efficient </p>
                       <p style="text-align:left;color: rgb(255, 255, 255); font-weight: 300;">FR5
-                        can be flexibly adapted to the requirements of the load at any time –
-                        with just one hand. The ProSafe load securing system also contributes to
-                        quick and easy lashing of loads.</p>
+                      The FR5 racking system can be adapted to the requirements of the load. It is designed for single hand operation.
+                       Additionally, the ProSafe load fastening systems ensure the quick and easy securing of the loads with straps or belts. 
+                    </p>
                       <p
                         style="font-size: 19px;color: rgb(255, 255, 255); text-align:left; font-weight: 300;">
                         &nbsp;</p>
@@ -653,7 +644,7 @@
 
             <h2 class="component-headline ">
 
-              The flexible folding rack in detail
+            The flexible folding rack in detail
             </h2>
 
 
@@ -714,7 +705,7 @@
 
                     <h3 class="component-headline ">
 
-                      CEP
+                    The folding rack for maximum safety
                     </h3>
 
 
@@ -1510,14 +1501,15 @@
 
             <h2 class="component-headline ">
 
-              FR5 – developed for the CEP industry
+            FR5- Designed for the CEP Industry
             </h2>
 
-            <div class="component-headline subheadline vgghjk">
+            <!-- <div class="component-headline subheadline vgghjk">
 
-              The folding rack for vans is particularly suitable for varying load and delivery volumes
-              thanks to its folding shelves. The shelves can hold up to 100 kg.
-            </div>
+            Working days are filled with unexpected challenges. Sometimes the goods are bulkier than usual and in some cases the load height can be slightly excessive.
+             These challenges can be overcome with different shelf settings:
+
+            </div> -->
 
 
 
@@ -1541,14 +1533,13 @@
 
 
 
-                <div class="text">
-                  <p>A typical working day often brings unforeseeable challenges. Are the goods to be
-                    transported bulkier than expected? Does height pose a problem? Challenges that
-                    can be overcome with the various shelf settings:</p>
+                <div class="text"> 
+                  <p>  Working days are filled with unexpected challenges. Sometimes the goods are bulkier than usual and in some cases the load height can be slightly excessive.
+                  These challenges can be overcome with different shelf settings: </p>
                   <ul>
-                    <li>folding and extending</li>
-                    <li>adjustable depth to fit the vehicle wall</li>
-                    <li>adjustable angle of inclination</li>
+                    <li>Folding and extending</li>
+                    <li>Adjust the depth to fit the vehicle’s wall </li>
+                    <li> Adjust the angle of inclination </li>
                   </ul>
                 </div>
               </div>
@@ -1582,13 +1573,11 @@
 
 
                 <div class="text">
-                  <p>By adjusting the angle of inclination and the GripMaxx shelf with anti-slip
-                    profile, the load is protected from slipping and is therefore transported
-                    safely.</p>
-                  <p><strong>Professional load securing</strong> with StoreToGo ProSafe elements is
-                    equally simple. If these are added, the willingness to actually secure loads
-                    increases. Fleet managers have fulfilled their responsibilities and
-                    profitability is improved.</p>
+                  <p> The FR5 shelf can be tilted according to the racking requirement. On top of that, it has a GripMaxx surface with anti-slip
+                     coating that prevents the load from sliding while the vehicle is moving, ensuring load stability. 
+
+                  </p>
+                  <p> The StoreToGo ProSafe element enables the professional securing of the loads with ease and accuracy. This helps the fleet managers to meet the safety obligations.</p>
                 </div>
               </div>
             </div>
@@ -1618,23 +1607,22 @@
 
                 <h3 class="component-headline ">
 
-                  ProPartition with sliding door: Time savings thanks to short, safe distances in the
-                  vehicle
+                ProPartition with Sliding Door: Safe Path That Saves Time
                 </h3>
 
 
 
 
                 <div class="text">
-                  <p>The ProPartition was developed especially for the requirements of the CEP
-                    industry. The stable ProPartition with sliding door and 1.80 m passage height
-                    allows the driver direct access to the cargo area from the driver’s cab. This
-                    avoids dangers because, firstly, the flat door sill and edge protection prevent
-                    tripping and bruising and, secondly, the driver does not have to leave his cab
-                    on the side of the road but can get to the load through the interior.</p>
-                  <p>In addition, it is still possible for a second person to ride in the van and the
-                    original lashing points in the load compartment are retained.</p>
-                  <p>The ProPartition is certified according to DIN ISO 27956 and ECE-R 14/16/17.</p>
+                  <p> The van is equipped with a ProPartition wall with a sliding door that connects the driver’s cab to the loadspace. 
+                    With a passage height of 1.80m, the drivers can move safely and quickly between the cab and the cargo area without having to exit.
+                     It features flat door sill combined with edge protection that prevents tripping and slipping to the sharp edges.
+                      The partition doesn’t block the passenger seat, therefore it can carry a second person. The original lashing points are still accessible,
+                       hence the loads can be properly secured as usual. The ProPartition has been tested and approved under two
+                        major safety standards such as: <strong> DIN ISO 27956</strong> → standards for securing loads in vans
+
+                  </p>
+                  <p> <strong> ECE-R 14/16/17</strong> → standards for seatbelt strength, seat anchorage, and interior safety.  </p>  
                 </div>
               </div>
               <div class="image-container" style="width: 695px; height: 510px;
@@ -1658,11 +1646,11 @@
 ">
             <h3 class="component-headline ">
 
-              FR5 – the ideal solution for craftsmen
+            FR5- The Ideal Racking Solution
             </h3>
             <div class="component-headline subheadline">
 
-              The folding rack for vans can be customised to the situation, load and requirements.
+            The folding racks can be customized according to the requirements at hand. 
             </div>
 
           </div>
@@ -1690,26 +1678,24 @@
 
 
                 <div class="text">
-                  <p>FR5 is ideal for bulky goods, because the unique <strong>integration of the SR5
-                      BOXX system</strong> means that even <strong>small parts can be
-                      transported</strong> in an orderly manner. Various sizes of SR-BOXX es can
-                    be locked in place on plastic slides both underneath and on the rack. If not
-                    needed, they are easy to remove and all shelves are freely available again. FR5
-                    is much more than just a common folding rack for vans; it is a real alternative
-                    for craftsmen and service technicians who do not want a <strong>static
-                      installation</strong>.</p>
-                  <p>If you are particularly fond of orderliness and want to give your employees a
-                    systematic overview in the vehicle, especially with changing drivers, the BOXXes
-                    and racks should also be labelled with StoreToGo labels.</p>
-                  <p>Further benefits:</p>
-                  <ul>
-                    <li>All shelves from the SR5 portfolio can also be configured for FR5</li>
-                    <li>Individual partitioning of the shelves using dividers</li>
-                    <li>Matching tool mats to protect racking and contents</li>
-                  </ul>
-                  <p>FR5 easily and economically turns into a van racking system with a clearly higher
-                    degree of organisation.</p>
-                  <p>Combining FR5 with SR5 will open up all options for use of the loading space.</p>
+
+                <p> The FR5 folding rack system is designed for storing bulky goods. With the SR5 BOXX system integrated into it, 
+                  even small parts can be stored with ease. BOXXes of different sizes can be fixed onto
+                  the plastic slides above or below the racks. When not needed they can be easily removed, leaving shelves,
+                    all available for use. This adaptability of the racking system is advantageous for
+                    service technicians who prefer a temporary racking system. 
+
+                </p>
+                <p> Adding StoreToGo labels are also ideal to help maintain order and easier to identify the contents in the BOXX.  </p>
+                <h6> Its other advantages include: </h6>
+                <ul>
+                  <li>  Compatibility with all SR5 shelves </li>
+                  <li>  Customizable shelf dividers </li>
+                  <li>  Protective tool mats </li>
+                  <li>  Ability to convert FR5 into a well-organized racking system efficiently and economically </li> 
+                </ul>
+
+ 
                 </div>
               </div>
             </div>
@@ -1728,7 +1714,7 @@
 
             <h3 class="component-headline ">
 
-              FR5 is also impressive in the leisure sector
+            FR5 is also suited for non-commercial use 
             </h3>
 
           </div>
@@ -1751,16 +1737,13 @@
 
 
                 <div class="text">
-                  <p>FR5 offers craftsmen and service technicians, especially in combination with SR5,
-                    the great advantage of a fully-equipped mobile workshop, but also scores points
-                    with those who want to fully use all of the vehicle’s loading space in addition
-                    to<strong> transporting larger items</strong>.</p>
-                  <p>Thanks to the simple folding function, the shelves of the racking system can
-                    quickly and easily be folded up if necessary, so that there is sufficient space
-                    to <strong>transport leisure items such as motorcycles or bicycles</strong>.</p>
-                  <p>The folding rack for vans therefore offers a high degree of flexibility while at
-                    the same time maximising use of the loading space. This means that there are no
-                    more limits after work either.</p>
+                 <p> The FR5 system combined with the SR5 system utilizes the van space by the efficient storage of tools
+                   and the well organization of equipment. This racking system is also useful for non-commercial use.
+                    The SR5 shelves can be folded up easily whenever needed. This creates ample space for transporting
+                     large leisure items such as motorcycles or bicycles.  
+
+                 </p>
+                 <p> With the folding racks you get a flexible van interior that at the same time can hold tools when affixed and frees up the space when folded back. </p>
                 </div>
               </div>
               <div class="image-container" style="width: 695px; height: 695px;
