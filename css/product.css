@@ -1371,6 +1371,7 @@ justify-content: center;
   margin-left: 0;
   margin-right: 0;
   background-color: #eeeff1;
+  overflow: visible;
 }
 
 .boxxes-split .boxxes-split-row:before,
@@ -1391,6 +1392,8 @@ justify-content: center;
   flex-direction: column;
   justify-content: center;
   position: relative;
+  overflow: visible;
+  z-index: 2;
 }
 
 .boxxes-split .image-container {
@@ -1401,6 +1404,7 @@ justify-content: center;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  z-index: 1;
 }
 
 .boxxes-split .image-container img {
@@ -1412,24 +1416,26 @@ justify-content: center;
   object-fit: cover;
 }
 
-.boxxes-split .arrow-container {
+.sortimo-component.text-picture-component.boxxes-split .text-container .arrow-container {
   position: absolute;
   width: 40px;
   height: 40px;
-  top: calc(50% - 20px);
-  transform: rotate(45deg);
-  z-index: 2;
+  top: 50%;
+  margin: 0;
+  transform: translateY(-50%) rotate(45deg);
+  z-index: 3;
   background-color: #eeeff1 !important;
+  pointer-events: none;
 }
 
-.boxxes-split.boxxes-split-right .arrow-container {
-  left: auto;
-  right: -20px;
+.sortimo-component.text-picture-component.boxxes-split.boxxes-split-right .text-container .arrow-container {
+  left: auto !important;
+  right: -20px !important;
 }
 
-.boxxes-split.boxxes-split-left .arrow-container {
-  left: -20px;
-  right: auto;
+.sortimo-component.text-picture-component.boxxes-split.boxxes-split-left .text-container .arrow-container {
+  left: -20px !important;
+  right: auto !important;
 }
 
 .boxxes-split .component-headline {
