@@ -13,10 +13,7 @@
         
   Suited For All Applications
       </h2>
-     <p class="hed-one"> Multi-functional.Versatile. Flexible  </p>
-    
-    
-  
+     <p class="hed-one"> Multi-functional.Versatile. Flexible  </p> 
 </div></div>
       </div>
     </div>
