@@ -562,20 +562,64 @@
   <div class="col-sm-12 col-md-12 sortimo_padding_facet">
     <div class="categoryMarketing">
       
-        <h1>Your TopSystem roof rack accessories</h1>
-<p><strong>Use the coordinated accessories to individually customise</strong> your TopSystem roof rack. So whether you need to transport heavy, bulky or lightweight and compact goods: StoreToGo has the right additional equipment for transport and load securing. Thanks to its lightweight aluminium construction, you can now carry heavier loads, avoiding unnecessary trips back and forth and reducing your fuel consumption. The aerodynamic design of the roof rack is also maintained even when accessory components are fitted, preventing you from being troubled by annoying wind noises and ensuring you arrive focussed at your customer’s. The optional ProSafe load securing system saves you valuable time as your load can be secured quickly and easily.</p>
-<h2>For more efficient working</h2>
-<p>StoreToGo matching roof rack accessories let you configure your TopSystem as individually as you want, to ensure that your workflows run even more smoothly. Apart from various additional load securing features, including the load stopper or side rail, StoreToGo also supplies practical aids for fixing ladders in place. Use <strong>StoreToGo ProSafe lashing straps to effortlessly lash down your load to the roof, professionally securing it in place.</strong><br>The corrosion-proof 3-metre long aluminium fold-out ladder is ideal for conveniently loading and unloading the TopSystem roof rack. When folded, it is only 1.5 metres in length and can be simply stowed away in your van’s load space.</p>
-<h2>Enhanced transport safety</h2>
-<p>Safety is a key issue when transporting materials, but also at your place of work. StoreToGo roof rack accessoires were therefore set up to ensure that you can simply load and unload, secure your load during transport and also ensure the safety of employees at your place of work.</p>
-<p>The indicator lights ensure greater safety in traffic and when you arrive on site. The StoreToGo online shop includes a range of revolving indicator lights with plug socket or magnetic base.<br>During loading and unloading, side rails prevent the goods from falling down at the side, can include any number of cross members and also carry your company logo if required.</p>
-<p>The loading roller also helps to unload heavy or bulky goods with ease, is attached to the cross member or side rails and ensures that loads can be safely loaded and unloaded, preventing the vehicle from being damaged.</p>
-<p>The <strong>load stopper ensures that you can tidily and securely transport long loads in particular.</strong> Only 150 mm in height, the load stopper is a real all-round aid: it can be mounted along the entire length of the cross members, securing your load wherever this is needed. It also acts as a transport tube, allowing narrow pipes or rods to be pushed through and simply lashed down with tensioning belts.</p>
-<h2>Ladder securing – from StoreToGo</h2>
-<p>Many tradesmen could not imagine day-to-day work without ladders. It becomes so much simpler and more convenient to transport them and professionally secure them with accessories for StoreToGo TopSystem roof racks. The ladder locking device for the side rail, for instance, prevents ladders from sliding to the side, ensuring faster and safer working. <strong>StoreToGo supplies all the roof rack accessories you need from a single supplier – and always tailored to your specific vehicle model</strong>.</p>
-<h2>Simply order StoreToGo accessories for the TopSystem roof rack online</h2>
-<p>The StoreToGo online shop has a wide range of accesories für TopSystem roof rack, letting you configure it to your specific needs. Should you need more information than is available on our website, <strong>we would be more than happy for you to contact us by phone or email</strong>. We look forward to hearing from you!</p>
-      
+        <h1> Your TopSystem roof rack accessories </h1>
+
+<p> You can customize your TopSystem roof rack. No matter what type the load is, heavy, bulky, lightweight or compact,
+   at StoreToGo we have the right accessories that ensures proper securing and transport of the load.
+    It has a lightweight construction and can carry heavier loads safely without the risk of tripping or falling.
+     The roof racks feature an aerodynamic design that minimizes wind noise, even when the accessories are added.
+      With the optional ProSafe load securing system, the load can be secured quickly and easily.  
+
+</p>
+<h2> Efficient Working </h2>
+<p> With StoreToGo’s matching roof racking accessories, you can customize your TopSystem according to your requirement.
+   Apart from the additional loading securing features, which includes the stopper and side rail, we also supply practical
+    aids for fixing ladders in place. You can use the StoreToGo ProSafe lashing straps to effortlessly fix your load to the roof.  
+
+</p>
+<p> The corrosion-proof 3 meter long aluminum fold-out ladder doesn’t rust and is designed to help you safely
+   and easily load or unload items onto the TopSystem roof rack. When you fold the ladder, it becomes half its length,
+    which takes up minimal space and can be easily stored inside the van’s cargo area.  
+
+</p>
+<h2>  Ensures Safe Transport </h2>
+<p> Safety is a key factor while transporting materials. With StoreToGo roof rack accessories
+   you can ensure the safe loading and unloading and secure transporting. This also adds to workplace safety. 
+
+</p>
+
+<p> The indicator lights make your van more visible and safe. It is particularly advantageous while you’re driving or
+   when you are parked or working on the site. Our indicator lights come with a plug socket and magnetic base.  
+
+</p>
+<p> Side rails prevent the goods from tripping. It can also be fitted with many cross members needed to support
+   different loads. You can also display your company logo, which will aid in branding as well. 
+
+</p>
+<p> The loading roller attached to the cross member or side rails ensure that the goods are safely loaded and unloaded. 
+  This protects both the load and the van from damage.
+
+</p>
+<p> The load stopper is yet another useful accessory that helps you to carry long items safely on the roof rack.
+   It is only 150mm tall, so it won’t take up much space. The stoppers prevent the load from shifting or sliding during transport. 
+
+</p>
+<h2> StoreToGo ladder securing </h2>
+<p> Ladders are crucial tools. With StoreToGo’s TopSystem roof racks you can securely fix and conveniently transport them.
+   The ladder locking device on the real prevents its sliding, ensuring safer working. You can buy all the roof
+    rack accessories you need from StoreToGo, which are designed to fit your specific vehicle model. 
+
+</p>
+<h2> Order your StoreToGo accessories for TopSystem roof rack online! </h2>
+<p> For more information regarding roof rack accessories or our van racking solutions on a whole, do contact our vibrant service team. </p>
+
+
+
+
+
+
+
+     
     </div>
     </div>
   </div>
