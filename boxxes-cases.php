@@ -77,12 +77,17 @@
 ">
    <h1 class="component-headline ">
         
-        BOXXes and Cases. <br> For perfect workplace organisation!
+   StoreToGo BOXXes And Cases <br> Organize Your Van And Work Smarter
       </h1>
     
   
 <div class="text">
-      <p style="text-align: center;">StoreToGo BOXXes and Cases ensure <strong>improved organisation</strong> and <strong>enhanced productivity</strong> in day-to-day work, as tools and small parts are <strong>transported tidily sorted, securely stored</strong> and <strong>carefully and clearly arranged </strong>from the workshop to the workplace. The practical organisational systems make your mobile workshop efficient and clearly arranged, and they also have <strong>multifunctional uses</strong>, thanks to their push-in and carry function.</p></div>
+      <p style="text-align: center;"> 
+      Keep your accessories, tools and equipment well organized and easy to carry with StoreToGo
+       BOXXes and Cases. You can choose small-part organizers, stackable toolboxes, open storage boxes,
+        metal cases and other mobile carrying solutions that suits your van model and work requirements. 
+
+        </p></div>
   </div></div>
 
 </div>
@@ -332,12 +337,22 @@
     
       <h2 class="component-headline subheadline">
         
-        The practical transport and tool box!
+      The Practical Tool Box
       </h2>
   
 <div class="text">
-      <p style="text-align: center;">L-BOXXes can be <strong>intuitively combined</strong> <strong>with each other and separated again in seconds</strong>, thanks to their intelligent and simple click system. The possibility of fully integrating the StoreToGo&nbsp;BOXX and Case system into StoreToGo van racking systems and their all-purpose use makes them unique.</p><p style="text-align: center;">The L-BOXX family is the <strong>integrated mobility solution</strong> for secure and convenient tool transport. That’s why the popular L-BOXX system is used by <strong>well-known partners as storage solution for their tools and equipment</strong>. With their pre-configured L-BOXXes, for example, BOSCH, GEDORE and FÖRCH offer perfect possibilities to design a <strong>seamless mobility concept</strong> from workshop to workplace, making your <strong>work processes even more efficient</strong>.</p></div>
-  </div></div>
+      <p style="text-align: center;">
+      Now you can store tools, equipment and other consumables in a single practical box. The L-BOXXes are designed with
+       a simple click system that can be easily connected and separated in seconds. You can either stack them together
+        or place them in compatible StoreToGo van racking systems. 
+
+          </p>
+           <p style="text-align: center;"> The L-BOXX range protects the tools, maintains them organized and makes them easier to carry.
+             Trusted brands such as BOSCH, GEDORE, and FORCH use L-BOXXes and cases for efficient storage of tools. 
+
+           </p>
+         
+        </div></div>
 
 </div>
 <!-- END -->
@@ -370,7 +385,7 @@
   
       <h2 class="component-headline ">
         
-        More BOXXes and Cases at a glance
+      More BOXXes And Cases
       </h2>
     
   
@@ -391,15 +406,30 @@
       
       <h5 class="component-headline ">
         
-        SR-BOXX
+      SR-BOXX 
       </h5>
     
     
     
   
 <div class="text">
-        <p>The functionality of SR-BOXXes is totally unique in van racking systems. They can be integrated on and also below the shelf, for optimum use of space, allowing twice the number of SR-BOXXes to be accommodated per shelf. This results in maximum use of the available space on the SR5 shelf. The stable and lightweight plastic boxes provide sufficient storage options for the transport of small parts or consumables and are therefore an optimum organisational aid. The divided transparent lid provides an immediate overview of the contents, enabling immediate access to the contents without the BOXX having to be fully removed from the van racking system.</p>
-        </div>
+         <p> With the SR-BOXXes you can make better use of the spaces in your van. By fitting them above or below a shelf,
+           you can store more items without taking up much space.  
+
+         </p>
+         <p> For storing everyday supplies, screws and fixings, the lightweight but durable box is ideal. 
+          You can see what’s inside the box through its divided transparent lid and access the items without
+           having to remove the entire box from the shelf. 
+
+         </p>
+         <p>  <strong> The key benefits of L-BOXXes include: </strong></p>
+         <ul>
+          <li>  Fits above or below the shelves </li>
+          <li>  Are lightweight and durable </li>
+          <li>  See through lid and easy access to components  </li>
+          <li>  Saves space.  </li>
+         </ul>
+      </div>
     </div>
     <div class="image-container" style="width: 695px; height: 510px;
         background-image: url('images/product/boxxen-koffer-sr-boxx-695x510.jpg');  float: right;">
@@ -434,8 +464,13 @@
     
   
 <div class="text">
-        <p>Thanks to the transparent lid of the T-BOXX G, it offers an ideal overview of the small parts and consumables contained in it even when closed. It therefore helps to significantly improve efficiency in the working day, as there is no need for the time-consuming searching for materials. The sub-division of the T-BOXX G by the inset box grid in the lid and base provides fixed sub-division of the BOXX, preventing the contents of different inset boxes from becoming mixed up. It is also extremely durable and sturdy and easily withstands the tough demands of a construction site.</p>
-        </div>
+       <p> You can keep the screws, fittings and other small accessories well organized inside the T-BOXX G. It comes with a transparent
+         lid that helps you to quickly see what’s inside the box without needing to open them. It also has internal compartments that
+          keep the different items separated, while the box is being transported. The sturdy design makes it a suitable choice for
+           construction site use and other demanding jobs.  
+
+       </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -460,8 +495,13 @@
       </h5>
     
 <div class="text">
-        <p>The Metal Case is StoreToGo original product and totally unique when it comes to functionality, durability and adjustment, as it adapts perfectly to industry-specific needs, thanks to its various configuration options with dividers, nozzle inserts or inset boxes. Its flexible organisation in the interior and one-handed operation, as well as the 120 degree angle of the lid, help to significantly simplify day-to-day work.The Metal Case is available in four different heights and can be integrated with ease into the WorkMo and van racking systems, and hence securely transported to site.</p>
-        </div>
+       <p> StoreToGo offers strong metal cases for the secure storing of tools, equipment and other accessories.
+         You can customize its interiors with dividers, inserts or even inset boxes. The case can be handled with one hand.
+          Moreover the lid opens at a 120 degree angle making it convenient for the workers to access the tools. It is also
+           available in different heights and can be integrated into compatible WorkMo and other racking systems. 
+
+       </p>
+      </div>
     </div>
     <div class="image-container" style="width: 695px; height: 510px;
         background-image: url('images/product/boxxen-koffer-metallkoffer-695x510.jpg');  float: right;">
@@ -494,8 +534,12 @@
       </h5>
     
 <div class="text">
-        <p>The i-BOXX 72 G is the small and intelligent option for the secure transport of small parts, such as fastening materials, in integrated inset boxes. The contents of the practical tool case can be immediately seen, thanks to its transparent lid, saving a lot of time when looking for the right materials. The i-BOXX 72 G can be integrated with ease into an LS-BOXX or into the i-BOXX Rack G.</p>
-        </div>
+       <p> i-BOXX 72 G is a compact storage for small parts. It is lightweight and an ideal choice for organizing screws,
+         fixings and other small parts. You can check contents instantly and easily find the materials during use.
+          This box can be integrated into a compatible LS-BOXX or i-BOXX Rack G system or can also be used on its own. 
+
+       </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -521,8 +565,15 @@
     
   
 <div class="text">
-        <p>The inset boxes provide for greater productivity in day-to-day work, as they provide a quick overview of the small parts stored inside, and can also be removed directly from the cases and BOXXes and used at the workplace. Any missing or almost depleted stock levels are immediately identified, avoiding down times. Whether in the workshop, in StoreToGo cases and BOXXes, the WorkMo or the StoreToGo van racking system – inset boxes, available in a range of different sizes, enable you to equip yourself to meet individual requirements. Thanks to their integral divider guide, they can also be very individually sub-divided, making them even more flexible and efficient in day-to-day work.<br>Together with StoreToGo labels, they ensure professional, systematic and individual organisation at the workplace.</p>
-        </div>
+       <p> You can keep small parts and tools organized inside the inset boxes. They are removable,
+         available in different heights and can be used inside StoreToGo cases, drawers, BOXXes and other van racking systems. 
+
+       </p>
+       <p> It comes with built-in dividers that help you compartmentalize the tools. You can remove the compartments
+         you need and take them directly to the worksite. Adding StoreToGo labels helps to make the system easier to manage.  
+
+       </p>
+      </div>
     </div>
     <div class="image-container" style="width: 695px; height: 510px;
         background-image: url('images/product/boxxen-koffer-insetboxen-695x510.jpg');  float: right;">
@@ -558,8 +609,12 @@
     
   
 <div class="text">
-        <p>The E-BOXX is a good addition to every workshop and van racking system. It is made of sturdy plastic and, in its simplicity, has practical and individual uses. StoreToGo offers a wide range of load securing products for the safe and secure transport of E-BOXXes in your vehicle.</p>
-        </div>
+        <p> A practical storage box for vans, they are made from sturdy plastic and help in the efficient storage of
+           tools and other daily supplies. You can also use it as a standalone box or even secure it inside your van
+            with compatible StoreToGo load-securing accessories. 
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -577,13 +632,14 @@
     
       <h3 class="component-headline ">
         
-        MultiPack
+      MultiPack Backpack
       </h3>
-    
-      <h3 class="component-headline subheadline">
-        
-        The multifunctional MultiPack backpack from StoreToGo!
-      </h3>
+     <p> With the Multipack Backpack you can easily carry the tools and equipment. Advantageous for installers,
+       tradespeople and service technicians whose job necessitates regular climb stairs or go across buildings,
+        this backpack can be carried securely on the back, enabling hand-free tool transport. It is also compatible
+         with selected i-BOXX G and L-BOXX G4.  
+
+     </p>
     
 </div></div>
 </div>
