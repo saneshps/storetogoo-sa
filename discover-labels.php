@@ -88,24 +88,24 @@
 
                         <h3 class="component-headline ">
 
-                            Workplace organisation made easy.
+                        Workplace Organization Made Easy
                         </h3>
 
 
 
                         <div class="component-headline subheadline">
-
-                            Individual and convenient.
+                        Convenient and Individual
                         </div>
 
 
 
                         <div class="text">
-                            <p class="ttt-par">Structure your SR5 van racking systems with StoreToGo labels. It’s
-                                child’s play labelling shelves, drawers, BOXXes and cases in the configurator on the SR5
-                                van racking system. As part of the <a href="workplace-organisation.php">5S method</a>,
-                                StoreToGo labels help create an extremely efficient working environment, save you time
-                                and money and make a professional impression on your customers.</p>
+                            <p class="ttt-par"> Keep your SR5 van ran racking system organized with StoreToGo label. </p>
+                            <p class="ttt-par"> With the configurator you can easily create the labels for drawers, boxes and cases based on your needs.
+                                 As a part of the 5S workplace organization method, our labels helps you to create a clear and efficient set up.  
+
+                            </p>
+                            <p class="ttt-par"> With all the cases and drawers clearly labelled you can find the tools faster, save time and maintain a professional image in front of your customers. </p>
                         </div>
                     </div>
                 </div>
@@ -117,8 +117,7 @@
                     <div id="comp_00002TVJ" class="sortimo-component text-component small-header
 ">
                         <h2 class="component-headline ">
-
-                            You have two options to create labels for your SR5:
+                        You Have Two Options to Create Labels for Your SR5
                         </h2>
 
 
@@ -136,7 +135,7 @@
                                     <div class="text-container"
                                         style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255); height: 92.4px;">
                                         <div class="text">
-                                            1. Directly during configuration of your SR5</div>
+                                            1. Directly During Configuration of Your SR5 </div>
                                     </div>
                                 </div>
                             </a>
@@ -148,7 +147,7 @@
                                     <div class="text-container"
                                         style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255); height: 92.4px;">
                                         <div class="text">
-                                            2. Later, when you are already using the SR5</div>
+                                            2. Later, when you are already using the SR5 racking system </div>
                                     </div>
                                 </div>
                             </a>
@@ -211,7 +210,7 @@
 
                         <h2 class="component-headline ">
 
-                            StoreToGo labels make your day-to-day work easier
+                        StoreToGo Labels Makes Your Daily Work Easier
                         </h2>
 
                     </div>
@@ -235,8 +234,7 @@
                                             <p style="text-align: center; font-weight: 700; margin-bottom:20px;">More
                                                 order</p>
 
-                                            <p style="text-align:left; font-weight: 300;">Individual labelling prevents
-                                                redundant inventory.<br>&nbsp;</p>
+                                            <p style="text-align:left; font-weight: 300;"> Individual labels will help you keep a track of the tools and materials, helping you avoid unnecessary duplicate stock and other confusions.  </p>
 
                                             <p style="text-align:left; font-weight: 300;"></p>
                                         </div>
@@ -261,8 +259,7 @@
                                             <p style="text-align: center; font-weight: 700; margin-bottom:20px;">Quick
                                                 access</p>
 
-                                            <p style="text-align:left; font-weight: 300;">Clearer arrangement of
-                                                contents thanks to the StoreToGo colour coding.<br>&nbsp;</p>
+                                            <p style="text-align:left; font-weight: 300;"> With the clear colour coding you get a clear overview about the eq	equipment stored, thus helping you find them without a delay.  </p>
 
                                             <p style="text-align:left; font-weight: 300;"></p>
                                         </div>
@@ -281,11 +278,9 @@
                                     <div class="text">
                                         <div
                                             style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
-                                            <p style="text-align: center; font-weight: 700; margin-bottom:20px;">More
-                                                time saved</p>
+                                            <p style="text-align: center; font-weight: 700; margin-bottom:20px;"> Saves Time </p>
 
-                                            <p style="text-align:left; font-weight: 300;">Consistent labelling speeds up
-                                                the refilling process.<br>&nbsp;</p>
+                                            <p style="text-align:left; font-weight: 300;"> Consistent labeling help to restock materials faster and complete the daily tasks </p>
 
                                             <p style="text-align:left; font-weight: 300;"></p>
                                         </div>
@@ -307,8 +302,7 @@
                                             <p style="text-align: center; font-weight: 700; margin-bottom:20px;">Easy
                                                 configuration</p>
 
-                                            <p style="text-align:left; font-weight: 300;">Can be ordered ready for use
-                                                with the SR5 van racking system.<br>&nbsp;</p>
+                                            <p style="text-align:left; font-weight: 300;"> You can create and order your labels together with the SR5 van racking system. This way your van is ready right from the start.  </p>
 
                                             <p style="text-align:left; font-weight: 300;"></p>
                                         </div>
@@ -329,7 +323,7 @@
 ">
                         <h2 class="component-headline ">
 
-                            Advantages of the StoreToGo labels configurator
+                        Advantages of the StoreToGo Labels Configurator
                         </h2>
 
 
@@ -369,7 +363,7 @@
                                             Intuitive operation</span>
                                     </div>
                                     <div class="text">
-                                        <p>Easy creation of labels in a just few clicks </p>
+                                        <p> You can create your labels in one click </p>
                                     </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -395,10 +389,10 @@
                                                     transform="translate(59.33 14.77)"></path>
                                             </svg></span>
                                         <span class="text-span">
-                                            Flexibility</span>
+                                        Visualisation </span>
                                     </div>
                                     <div class="text">
-                                        Access to ordered/saved labels and easy reordering at any time</div>
+                                    You can use the 3D view of the van racking system and select the right label design and position them properly.  </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                                     <div class="component-headline">
@@ -423,11 +417,10 @@
                                                     transform="translate(59.33 14.77)"></path>
                                             </svg></span>
                                         <span class="text-span">
-                                            Visualisation</span>
+                                        Transparent Pricing </span>
                                     </div>
                                     <div class="text">
-                                        3D visualisation of the van racking system makes it easier to select label
-                                        design, colour and arrangement</div>
+                                    With the dynamic price display you can be aware of the cost while you are configuring the labels.  </div>
                                 </div>
                             </div>
                             <div class="image"
