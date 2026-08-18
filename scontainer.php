@@ -663,23 +663,23 @@ This practical mobile storage unit can be adapted for different types of work.
 <!-- STRT -->
 <div class="row sty-wid1">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-low text-picture-component wide-low-left" id="cmsitem_00009004">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container" style="width: 695px; height: 340px;
-        background-image: url('images/product/sContainer-kacheln-2-groessen-690x340.jpg');  float: left;">
-        <img src="images/product/sContainer-kacheln-2-groessen-690x340.jpg" style="visibility: hidden;">
-      </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover hudbnjk" style="width: 695px; min-height: 340px; float: right;background-color: #eeeff1;color: #546373;
-      ">
-      <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
+<div id="cmsitem_00009004">
+  <div class="row" style="display:flex; background-color:#eeeff1; align-items:stretch; margin-left:0; margin-right:0;">
+    <div class="image-container" style="flex:0 0 50%; height:340px; background-image:url('images/product/sContainer-kacheln-2-groessen-690x340.jpg'); background-size:cover; background-position:center;">
+      <img src="images/product/sContainer-kacheln-2-groessen-690x340.jpg" style="visibility: hidden; width:100%; height:100%; object-fit: cover;">
+    </div>
 
-<div class="text">
-       <p> The sContainer is available in two heights, 1.20 m and 1.90 m, with the base dimensions of the two remaining the same and are designed to match the size of a Euro pallet.  </p>
+    <div class="text-container" style="flex:0 0 50%; min-height:340px; padding:40px 46px; box-sizing:border-box; color:#546373;">
+      <div class="text" style="font-size:16px; line-height:1.5; text-align:left;">
+        <p>
+          The sContainer is available in <strong>two heights, 1.20 m and 1.90 m</strong>, with the base dimensions of the two remaining the same and are designed to match the size of a Euro <strong>pallet</strong>.
+        </p>
       </div>
     </div>
-</div></div>
+  </div>
+</div>
 
+</div>
 </div>
 <!-- END -->
 
