@@ -466,17 +466,13 @@
 
        <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 
-<div class="sortimo-component wide-low text-picture-component wide-low-right" id="comp_0000181P">
+<div class="sortimo-component wide-low text-picture-component wide-low-right workmo-storage" id="comp_0000181P">
 
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row workmo-storage-row">
 
-    <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 695px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
 
-      ">
-
-      <div class="arrow-container" style="background-color: #eeeff1;"></div>
-
-      
+      <div class="arrow-container"></div>
 
       <h2 class="component-headline ">
 
@@ -484,26 +480,17 @@
 
       </h2>
 
-    
-
 <div class="text">
 
-       <p> You can keep the tools and consumables well organized inside the Work Mo module drawers.
-         Additionally the BOXXes and Cases can be easily integrated in the WorkMo using the case pull-outs which helps
-          you open them and access the tools easily. The additional shelves provide extra storage to secure large tools and consumables.  
+       <p>Tools and consumables are kept in exactly the right place in the <strong>drawers of the Work Mo modules</strong>. BOXXes and cases are integrated in the Work Mo using <strong>case pull-outs or full pull-outs</strong>. The full pull-outs have the benefit of letting you open the BOXXes and cases in the Work Mo to make the contents fully accessible. In addition, <strong>shelves</strong> provide extra storage space.</p>
 
-       </p>
         </div>
 
     </div>
 
-    <div class="image-container" style="width: 695px; height: 340px;
+    <div class="image-container workmo-storage-graphic" style="background-image: url('images/product/workmo-ordnen-695x340.jpg');"></div>
 
-        background-image: url('images/product/workmo-ordnen-695x340.jpg');  float: right;">
-
-        <img src="images/product/workmo-ordnen-695x340.jpg" style="visibility: hidden;">
-
-      </div>  
+    <div class="image-container workmo-storage-photo" style="background-image: url('images/product/workmo-ordnen-695x340.jpg');"></div>
 
     </div>
 
