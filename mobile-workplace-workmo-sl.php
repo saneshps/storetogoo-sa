@@ -55,7 +55,7 @@
                 <div class="carousel-arrow">
                 </div>
               </div>
-              <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 217.6px;">
+              <div class="text text-arrow">
             <span class="item-headline">
             Modular System </span>
                 <p style="text-align: left"> Different tasks require different tools and setups. Work Mo system is built to adapt to the changes. 
@@ -81,7 +81,7 @@
                 <div class="carousel-arrow">
                 </div>
               </div>
-              <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
+              <div class="text text-arrow">
             <span class="item-headline">
             Built for Any Work Situation </span>
             <p style="text-align: left"> Work Mo can be used as a trolley, shelving unit, workbench, transport or even as a complete mobile workstation.
@@ -104,7 +104,7 @@
                 <div class="carousel-arrow">
                 </div>
               </div>
-              <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
+              <div class="text text-arrow">
             <span class="item-headline">
             Easy and Organized Storage </span>
             <p style="text-align: left"> Tools and materials should be well organized. With Work Mo modules available in different sizes,
@@ -128,7 +128,7 @@
                 <div class="carousel-arrow">
                 </div>
               </div>
-              <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
+              <div class="text text-arrow">
             <span class="item-headline">
             Convenient Transport </span>
            <p style="text-align: left">  WorkMo is designed to move easily with minimal effort. From workshop to vehicle to worksite- you
@@ -152,7 +152,7 @@
                 <div class="carousel-arrow">
                 </div>
               </div>
-            <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
+            <div class="text text-arrow">
             <span class="item-headline">
             Compatible with BOXXes </span>
             <p style="text-align: left"> Work Mo is compatible with BOXXes from brands like Bosch, Gedore and Fischer. This is advantageous
@@ -175,7 +175,7 @@
                 <div class="carousel-arrow">
                 </div>
               </div>
-            <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
+            <div class="text text-arrow">
             <span class="item-headline">
             Rapid Load Securing </span>
             <p style="text-align: left"> The fastening of Work Mo modules inside a vehicle can be done easily using the ProSafe load
@@ -198,7 +198,7 @@
                 <div class="carousel-arrow">
                 </div>
               </div>
-            <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
+            <div class="text text-arrow">
             <span class="item-headline">
               The Work Mo Principle</span>
            <p style="text-align: left">The WorkMo modules are ideally suited as a transport solution for <strong>car boots</strong>, for field service staff, service technicians etc. The modules can be used to transport the materials <strong>stowed away safely and neatly. Flexible use</strong> of the car is further facilitated since the modules can be integrated and removed with just a few gestures.</p></div>
@@ -405,34 +405,25 @@ $('.multi-item-carousel .item').each(function(){
   lazyLoad: true,
   loop: true,
   margin: 20,
-   /*
-  animateOut: 'fadeOut',
-  animateIn: 'fadeIn',
-  */
   responsiveClass: true,
-  autoHeight: true,
+  autoHeight: false,
   autoplayTimeout: 7000,
   smartSpeed: 800,
   nav: true,
+  navText: ["", ""],
+  dots: false,
   responsive: {
     0: {
-      items: 1
+      items: 1,
+      margin: 10
     },
-
-    700: {
-      items: 1
+    768: {
+      items: 2,
+      margin: 15
     },
-
     1024: {
-      items: 3
-    },
-
-    1200: {
-      items: 3
-    },
-
-    1366: {
-      items: 3
+      items: 3,
+      margin: 20
     }
   }
 });
