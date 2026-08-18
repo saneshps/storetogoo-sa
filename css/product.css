@@ -1529,6 +1529,110 @@ justify-content: center;
   }
 }
 
+.tile-component.workplace-hero-tiles,
+.tile-component.workplace-inlay-tiles {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100% !important;
+  max-width: 100%;
+}
+
+.sortimo-component.tile-component.workplace-hero-tiles .single-tile,
+.sortimo-component.tile-component.workplace-inlay-tiles .single-tile {
+  float: none !important;
+  box-sizing: border-box;
+  height: auto !important;
+}
+
+.sortimo-component.tile-component.workplace-hero-tiles .single-tile.small,
+.sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.OADFHAWSDFNC,
+.sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.erftg {
+  width: calc(25% - 10px) !important;
+  padding-top: calc(25% - 10px) !important;
+}
+
+.sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide,
+.sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide.lthuy {
+  width: calc(50% - 10px) !important;
+  padding-top: calc(25% - 10px) !important;
+}
+
+.sortimo-component.tile-component.workplace-inlay-tiles .single-tile.small,
+.sortimo-component.tile-component.workplace-inlay-tiles .single-tile.small.dvgdv {
+  width: calc(25% - 10px) !important;
+  height: auto !important;
+  padding-top: calc(25% - 10px) !important;
+}
+
+.tile-component.workplace-inlay-tiles .single-tile .align-container {
+  padding-top: 0 !important;
+}
+
+.workplace-square-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.workplace-square-row > .yCmsComponent {
+  float: none !important;
+  flex: 0 0 50%;
+  max-width: 50%;
+  width: 50%;
+  box-sizing: border-box;
+  padding: 0 5px;
+}
+
+.workplace-square-row > .yCmsComponent .sortimo-component {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100% !important;
+}
+
+.boxxes-split.boxxes-split-sm .text-container,
+.boxxes-split.boxxes-split-sm .image-container,
+.boxxes-split.boxxes-split-sm .image-container img {
+  min-height: 280px !important;
+}
+
+.boxxes-split.boxxes-split-sm .text-container {
+  padding: 24px 28px;
+}
+
+@media (max-width: 1023px) {
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide.lthuy {
+    width: calc(100% - 10px) !important;
+    padding-top: 40% !important;
+  }
+
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.OADFHAWSDFNC,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.erftg,
+  .sortimo-component.tile-component.workplace-inlay-tiles .single-tile.small,
+  .sortimo-component.tile-component.workplace-inlay-tiles .single-tile.small.dvgdv {
+    width: calc(50% - 10px) !important;
+    padding-top: calc(50% - 10px) !important;
+  }
+
+  .workplace-square-row > .yCmsComponent {
+    flex: 0 0 100%;
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+@media (max-width: 639px) {
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide.lthuy,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.OADFHAWSDFNC,
+  .sortimo-component.tile-component.workplace-inlay-tiles .single-tile.small,
+  .sortimo-component.tile-component.workplace-inlay-tiles .single-tile.small.dvgdv {
+    width: calc(100% - 10px) !important;
+    padding-top: 70% !important;
+  }
+}
+
 .styd {
   width: 92%;
   margin: auto;

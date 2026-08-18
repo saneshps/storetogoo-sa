@@ -78,14 +78,27 @@
   
       <h1 class="component-headline ">
         
-        Workplace Organization with StoreToGo <br> Increased efficiency in day-to-day working 
+      Workplace Organization With StoreToGo <br>
+      Work Smarter- Everyday!
       </h1>
     
     
     
   
 <div class="text">
-      <p style="text-align: center;">Consuming searching in your vehicle or at the workplace appears unprofessional and costs time: time that you could be using more gainfully. StoreToGo's new workplace organizational systems solve this problem. We create a highly efficient working environment that saves time and money while ensuring a professional image to clients, thanks to StoreToGo labels and tool inlays developed on the basis of the 5S method.</p></div>
+      <p style="text-align: center;">
+      When you are punctual enough to reach the worksite on time, but end up wasting time searching for your tools?
+       This where StoreToGo van racking solutions lends a helping hand. Our advanced load-storage solutions help businesses
+        to transform their van into a well organized mobile workspace.
+
+        
+        </p>
+      <p style="text-align: center;"> With StoreToGo labels and custom tool inlays you can create a professional and efficient workspace. Inspired from the proven 5S method,
+         these solutions are designed to make your daily tasks easier. 
+
+      </p>
+      
+      </div>
   </div></div>
 
 </div>
@@ -100,7 +113,7 @@
 <!-- STRT -->
 <div class="row sty-wid1">
  <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs" id="">
+<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs workplace-hero-tiles" id="">
   <div class="low single-tile small OADFHAWSDFNC SDFFGVSDZXCV erftg" style="background-image: url('images/product/en-uk-arbeitsplatzorga-kacheln-5s-methode-340x340.jpg?'); ">
       <div class="sortimo-animate sortimo-tile-from-right" style="display: block;">
           <div class="text">
@@ -180,18 +193,21 @@
   
       <h4 class="component-headline ">
         
-       In a nutshell, the 5S method
+      5S Method <br> In A Nutshell
       </h4>
     
-      <div class="component-headline subheadline">
-        
-        StoreToGo incorporates the 5S method, which is well-established in the industry, into vehicles.
-      </div>
+     
     
     
   
 <div class="text">
-      <p style="text-align: center;">The Japanese method aims to optimize workplaces in terms of organization and cleanliness in order to maximize productivity. SR5 van racking meets all of these requirements: Special workflow-specific configuration options ensure maximum organization through sub-division, labeling, and tool inserts, as well as integrated systemisation using our cases and BOXXes.</p></div>
+      <p style="text-align: center;"> 
+      Originally developed in Japan, the 5S method is a renowned workplace organization system. This method is designed to keep
+       your workspace neat and structured so that you get fast access to all the necessary tools. 
+ 
+        </p>
+
+      </div>
   </div></div>
 
 </div>
@@ -506,8 +522,11 @@
 <div id="comp_00002Q2I" class="sortimo-component text-component 
 ">
   <div class="text">
-      <p style="text-align: center;">Save time on manual labeling while also customizing your labels to your van racking system: the printed StoreToGo labels can be affixed after the SR5 shelves have been installed, assisting in the creation of a clear organizational structure in your vehicle. Because of the clips on the shelves, SR-BOXXes, and drawers, subsequent changes and adjustments to suit different workflows are possible at any time.
-Labels from StoreToGo</p></div>
+      <p style="text-align: center;"> 
+      Now StoreToGo brings this method into vans and workshops. Incorporating shelves, clear labels,
+         cases, tool inserts and BOXXes, you can customize your van according to the work requirements.
+          So less time spent searching means fewer misplaced tools and fast work flow. 
+</p></div>
   </div></div>
 
 
@@ -526,12 +545,17 @@ Labels from StoreToGo</p></div>
     
       <h4 class="component-headline ">
         
-        StoreToGo labels
+      StoreToGo Labels
       </h4>
     
   
 <div class="text">
-      <p style="text-align: center;">The use of StoreToGo color-coded labels completes the organization of your working environment, whether in your vehicle or workshop. StoreToGo labels, as a result, serve as an important foundation for standardised and systematic working, resulting in significantly improved efficiency in day-to-day operations.</p></div>
+      <p style="text-align: center;">
+      StoreToGo labels help you organize your van in an efficient and practical way. After installing the storage system, you add the
+       labels on the drawers, shelves and SR-BOXXes, which makes it easier to identify the tools. Moreover you can easily update or
+        remove the labels as well. Color-coded labels makes it easier to identify the materials and helps you sort them easily. 
+
+         </p></div>
   </div></div>
 
 </div>
@@ -548,7 +572,7 @@ Labels from StoreToGo</p></div>
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Shelf, drawer, and BOXX labeling on an individual basis</span>
+                  You can find the tools faster </span>
                 </div>
               <div class="text">
             </div>
@@ -557,7 +581,7 @@ Labels from StoreToGo</p></div>
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Processes for refilling have been simplified and accelerated</span>
+                  Keep the van and the whole storage system well organized </span>
                 </div>
               <div class="text">
             </div>
@@ -566,7 +590,7 @@ Labels from StoreToGo</p></div>
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Visual labeling and differentiation using color codes</span>
+                  Create a neat and tidy workspace </span>
                 </div>
               <div class="text">
             </div>
@@ -580,7 +604,7 @@ Labels from StoreToGo</p></div>
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    As a result of the improved layout, users have easier access to the contents</span>
+                  You can find the tools faster </span>
                 </div>
               <div class="text">
             </div>
@@ -589,7 +613,7 @@ Labels from StoreToGo</p></div>
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Order inside your vehicle, as well as inside the cases and BOXXes</span>
+                  Keep the van and the whole storage system well organized </span>
                 </div>
               <div class="text">
             </div>
@@ -598,7 +622,7 @@ Labels from StoreToGo</p></div>
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                   Tear-resistance, moisture-resistance, and excellent adhesion</span>
+                  Create a neat and tidy workspace </span>
                 </div>
               <div class="text">
             </div>
@@ -612,7 +636,7 @@ Labels from StoreToGo</p></div>
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Quick access to contents as a result of improved layout
+          Adjust the labeling system according to the task 
       </div>
     
     
@@ -626,22 +650,9 @@ Labels from StoreToGo</p></div>
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Order in your vehicle and inside the cases and BOXXes
+          Tear and moisture resistant labels with strong adhesion. 
       </div>
-    
-  
-<div class="text">
-            </div>
-        </div>
-      <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
-          
-    
-      <div class="component-headline ">
-        
-          <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
-        
-        Tear-resistant, moisture-resistant and excellent adhesion properties
-      </div>
+ 
     
     
   
@@ -666,11 +677,11 @@ Labels from StoreToGo</p></div>
   
       <h5 class="component-headline ">
         
-        Organization is straightforward. Working efficiently.
+      Simple Organization. Efficient Working
       </h5>
     
 <div class="text">
-      Make the most of the benefits of simple work organization in your vehicle, workshop, or workplace.</div>
+     Arrange your vehicle interior in a smart way and ensure proper workflow. </div>
   </div></div>
 
 </div>
@@ -678,30 +689,22 @@ Labels from StoreToGo</p></div>
 
 
 <!-- STRT -->
-<div class="row sty-wid">
+<div class="row sty-wid workplace-square-row">
 
 <div class="yCmsComponent sortimo-component-slot">
-<div class="sortimo-component square-small text-picture-component square-small-right klkkl" id="comp_000019PV">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjSFal" style="width: 340px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component square-small text-picture-component boxxes-split boxxes-split-sm boxxes-split-right klkkl" id="comp_000019PV">
+  <div class="row boxxes-split-row">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
       <h5 class="component-headline ">
-        
-        Create your own labels online
+      Create your own labels online
       </h5>
-    
-    
-    
-  
 <div class="text">
-        <p>Labels for BOXXes and drawers in your car can be designed online in specified color codes and then connected directly to them.</p>
+        <p> You can design the labels for BOXXes and drawers online using the clear colour codes and attach them directly.  </p>
         </div>
     </div>
-    <div class="image-container unjSFal" style="width: 340px; height: 340px;
-        background-image: url('images/product/arbeitsplatzorga-labels-bestellen-340x340.jpg');  float: right;">
-        <img src="images/product/arbeitsplatzorga-labels-bestellen-340x340.jpg" style="visibility: hidden;">
+    <div class="image-container" style="background-image: url('images/product/arbeitsplatzorga-labels-bestellen-340x340.jpg');">
+        <img src="images/product/arbeitsplatzorga-labels-bestellen-340x340.jpg" alt="Create your own labels online">
       </div>  
     </div>
 </div></div>
@@ -709,29 +712,18 @@ Labels from StoreToGo</p></div>
 
 
 <div class="yCmsComponent sortimo-component-slot">
-<div class="sortimo-component square-small text-picture-component square-small-left klkkl" id="comp_000019PW">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container unjSFal" style="width: 340px; height: 340px;
-        background-image: url('images/product/arbeitsplatzorga-labels-bedrucken-340x340.jpg');  float: left;">
-        <img src="images/product/arbeitsplatzorga-labels-bedrucken-340x340.jpg" style="visibility: hidden;">
+<div class="sortimo-component square-small text-picture-component boxxes-split boxxes-split-sm boxxes-split-left klkkl" id="comp_000019PW">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/product/arbeitsplatzorga-labels-bedrucken-340x340.jpg');">
+        <img src="images/product/arbeitsplatzorga-labels-bedrucken-340x340.jpg" alt="Printing Labels Easily">
       </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjSFal" style="width: 340px; min-height: 340px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-
-  
-    
       <h5 class="component-headline ">
-        
-        Lettering labels are printed out.
+      Printing Labels Easily
       </h5>
-    
-    
-    
-  
 <div class="text">
-        <p>The PDF template can be filled out and printed online. BOXXes and drawers are then branded fast and legibly.  </p>
+        <p> You can fill the PDF template online, print the labels and clearly mark the drawers and shelves.  </p>
         </div>
     </div>
     </div>
@@ -763,7 +755,7 @@ Labels from StoreToGo</p></div>
     
       <div class="component-headline ">
         
-        Organisation of the materials by type, purpose or category 
+      StoreToGo Suggestions To Organize Your Equipments 
       </div>
     
     
@@ -792,20 +784,23 @@ Labels from StoreToGo</p></div>
     
       <h5 class="component-headline ">
         
-        Inlay for the StoreToGo tool tray
+      StoreToGo Tool Inlays
       </h5>
     
         
       <h5 class="component-headline subheadline">
-        
-        Every tool has a certain function
+      The Perfect Place For All The Tools
       </h5>
     
     
     
   
 <div class="text">
-      <p style="text-align: center;">Using the StoreToGo inlay configurator, you can quickly create and buy individual foam inserts for StoreToGoBOXXes, cases, and drawers. This provides you with a better level of tool organization, a clear picture of any instruments that may have been forgotten at the point of usage, and the best possible safety for sensitive gadgets.</p></div>
+      <p style="text-align: center;"> 
+      With StoreToGo tool inlays, you can assign clear and defined space for each tool. You can use the StoreToGo inlay configurator
+       to create custom foam inserts for your cases, boxes and drawers. This helps you to keep the tools organized and delicate tools protected. 
+
+      </p></div>
   </div></div>
 </div>
 <!-- END -->
@@ -815,20 +810,17 @@ Labels from StoreToGo</p></div>
 <div class="row sty-wid">
 
 <div class="yCmsComponent sortimo-component-slot clearfix">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_000019PP">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container unjal" style="width: 695px; height: 510px;
-        background-image: url('images/arbeitsplatzorga-inlays-695x510.jpg');  float: left;">
-        <img src="images/arbeitsplatzorga-inlays-695x510.jpg" style="visibility: hidden;">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-left" id="comp_000019PP">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/arbeitsplatzorga-inlays-695x510.jpg');">
+        <img src="images/arbeitsplatzorga-inlays-695x510.jpg" alt="StoreToGo Tool Inlays">
       </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjal" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
 <div class="text">
-        <p>These inlays are trustworthy aids that help create order, flexibility, and optimize your workflows thanks to a wide range of integration possibilities in StoreToGo L-BOXXes, T-BOXXes G, metal cases, and drawers (depth 4) of the StoreToGo van racking system and WorkMo. The color-coded highlighting on the exterior and the cut-out can quickly identify any missing tools, reducing costly tool loss or forgetting.</p>
-        <p>An added bonus is that the inlay formats correlate to the StoreToGo inset box grid. The tool inlays can be assembled to the customer's specifications, are compatible with the StoreToGo product line, and can be paired with inset boxes to satisfy the customer's needs for increased organization and productivity.</p>
-        </div>
+        <p> You can use these inlays with a wide range of storage solutions such as L-BOXXes, T-BOXXes, GMetal cases, Drawers with depth 4 , StoreToGo van racking systems and WorkMo solutions.  </p>
+     <p> Additionally the foam inserts also match the StoreToGo inset box grid, which enables you to combine inlays with inset boxes.  </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -846,14 +838,17 @@ Labels from StoreToGo</p></div>
     
       <h2 class="component-headline ">
         
-        Gedore tools and pre-filled foam inserts TopSeller
+      Gedore Tools with Pre-Filled Foam Inserts
       </h2>
     
-    
+    <h4> Ready-to-Use Tool Sets </h4>
 <div class="text">
-      <p style="text-align: center;">We provide pre-assembled inlays that you may order with tools in addition to the individually manufactured foam inserts for you.</p>
-      <p style="text-align: center;">In collaboration with the premium tool maker Gedore, we integrated the already completed foam inserts, which included high-quality tool sets in custom-made inlays. This is how you have fun with office organization!</p></div>
-  </div></div>
+      <p> StoreToGo also offers pre-assembled inlays complete with tools. We have created this in collaboration with Gedore,
+         the renowned tool manufacturers. These ready-to-use sets also include high-quality tools arranged in a well organized way.
+          This way you stay organized, save time and get your jobs done quick and efficient.  
+
+      </p>
+    </div></div>
 
 </div>
 <!-- END -->
@@ -864,7 +859,7 @@ Labels from StoreToGo</p></div>
 <div class="row sty-wid1">
 
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component tile-component nex-t zFCbxacvmn" id="">
+<div class="sortimo-component tile-component nex-t zFCbxacvmn workplace-inlay-tiles" id="">
   <div class="low single-tile small dvgdv" style="background-image: url('images/product/arbeitsplatzorga-topseller-6000010795.jpg'); ">
       <div class="sortimo-animate sortimo-tile-from-right" style="display: block;">
           <div class="text">
