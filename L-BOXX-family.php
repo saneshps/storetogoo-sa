@@ -664,32 +664,69 @@
     <div class="categoryMarketing">
       
         <h2>L-BOXX G4/G</h2>
-<p>The L-BOXX G4/G is the optimal transport solution for skilled craftsmen and tradesmen, for industry and service providers. The flexible transport box conveys <strong>your equipment and materials tidily and well protected.</strong> StoreToGo high-grade and lightweight L-BOXX G4/G comes in four different sizes.</p>
-<p>A sturdy locking device, integrated hard-plastic-handle in the cover and a wide range of equipment options: just a few of the practical qualities of the StoreToGo L-BOXX G4/G system. All are manufactured from <strong>shock- and impact-resistant ABS plastic</strong> and can, of course, be seamlessly integrated into all StoreToGo in-vehicle systems and WorkMo modules.<br>
-The well-thought-out system allows you to configure a wide range of interior layout combinations and designs, which you can <strong>adapt perfectly to your needs.</strong> With a host of different inserts and dividers, you can now stow away all your important tools and implements without taking up more space than necessary. The BOXX is also compatible with all StoreToGo in-vehicle systems and the WorkMo portable workstation.
+ <p> This box is designed for professionals whose tasks require them to carry tools and equipment safely.
+   They are lightweight storage boxes that help you organize the materials. No matter where your job takes you, let it be a construction site, 
+   travel between the workshop and van or a regular customer visit, the L-BOXX G4/G ensures that the accessories and tools are arranged neatly.
+    Their chief characteristics are as follows: 
+
+ </p>
+    <ul>
+      <li>  It is available in four sizes  </li>
+      <li>  They are lightweight, durable and resistant to impact  </li>
+      <li>  Can be stacked and connected easily  </li>
+      <li>  Suitable for storing tools, machines and small parts  </li>
+      <li>  Can be customized by adding other accessories and inserts  </li>
+      <li>  Provides protection against spray water.   </li>
+    </ul>    
+<p> With the built-in system the L-BOXXes can be stacked and connected easily. This way you can transport multiple boxes in one go.
+   Once you arrive at the job site, simply click the button and separate the boxes to take the tools.
+
 </p>
-<p><strong>The practical USP</strong>: all BOXXes from the L-BOXX G4/G range can be very <strong>simply connected to each other in seconds,</strong> thanks to their intelligent click system. This also includes the LS-BOXX 306 G, LT-BOXX G and the i-BOXX Rack G, saving you a lot of time and energy, as many short trips back and forth between your vehicle and workplace are now a thing of the past with the L-BOXX G4/G range. Instead of laboriously moving transport boxes individually, transport them now all at once and be immediately ready to start work. On site, the BOXXes can be detached from each other at the press of a button, allowing you to start working immediately and perfectly organised. This structured method of working will not only simplify your working day, but is also sure to impress your customers.<br>
-Also <strong>partners, such as BOSCH or Gedore,</strong> use the StoreToGo L-BOXX G4/G as an outer packaging for their machinery, tools and consumables, allowing you to benefit from a standardised and compatible transport concept. And what’s more, you can conveniently buy your BOXX from StoreToGo online. See for yourself our fast delivery times and outstanding cus-tomer service, should you have any questions or concerns.</p>
+<h2> The L-BOXX G4/G is compatible with several other products such as LS-BOXX 306 G, LT-BOXX G and i-BOXX Rack G. </h2>
+<p> You can easily integrate this box into the StoreToGo van storage system as well as WorkMo portable workstations.
+   This way you can keep the tools secure and tidy. Various trusted brands such as Bosch and Gedore
+    also use the L-BOXX systems to secure tools and machines.  
 
-<h2>The L-BOXX G4/G system: transport from your workshop to workplace</h2>
-<p>The L-BOXX G4/G comes in four different sizes – so that each model can be used as a <strong>tool box, storage for small parts or machine case.</strong> The intuitive click system lets the BOXXes be stacked on top of each other for transport as a single entity. The L-BOXX Roller trolley or the folding AluCaddy lets you transport the BOXXes stacked on top of each other from your workshop into your van and then from your van to your place of work. L-BOXXes help to structure your working day, making your tools and equipment more mobile.<br>
-As the L-BOXX G4/G system is compatible with StoreToGo in-vehicle systems, you can store them with ease in your load compartment. Either push them into the shelves of your in-vehicle system, securely locking them into the extending rails – or use an adapter plate to integrate the BOXXes onto the partition wall of your van, guaranteeing the secure transport of several BOXXes in your vehicle. The <strong>clicked together boxes sit firmly on top of one another</strong> and cannot detach themselves even on a bumpy ride, avoiding the BOXXes becoming sources of danger in transit due to tool boxes sliding around in your van. However, what’s more important for you is the fact that your tools arrive tidy, sorted and undamaged, which saves you the hassle of searching for your tools and protects your material from damage – gaining you time in your working day and reducing the expenditure involved in buying new materials.</p>
-<p>When you arrive at your place of work, it creates a good impression with your customers, and you’ll always have your trusty L-BOXX G4/G ‘workmate’ with you on site – with everything you need well ar-ranged and ready to hand. You can also use <strong>the StoreToGo L-BOXX G4/G as an aid on site:</strong> when stacked together to form a tower, it becomes a tall table and can even be transformed by a worktop into mobile work bench. You can now quickly make last-minute adjust-ments and perform smaller jobs on top of the BOXX.</p>
+</p>
+<h2> Easy Transport From Workshop To The Job Site </h2>
+<p> The L-BOXX G4/G is available in four sizes, making it easier to carry tools, small parts and larger equipment.
+   It comes with an easy click system with which you can stack and connect several boxes together.
+    You can move multiple boxes at once using the L-BOXX Roller trolley or folding AluCaddy, you can go from your 
+    workshop to the van and then to the job site.  
 
+</p>
+<p> These boxes are also compatible with StoreToGo van racking systems. You store them inside the van securely on the shelves,
+   rails or adapter plates. Even on bumpy roads they would stay intact, protecting your tools. This way you can save time and avoid damage.  
 
+</p>
+<p> While you arrive at the job site, you will be all ready with the tools and equipment within your arm reach.
+   This creates a professional impression with your customers. Additionally you can use the L-BOXX G4/G as a practical work surface.
+    By stacking the boxes you can create a table or add a worktop and turn them into a mobile workbench.  
 
-<h2>Tidy storage solution for every use</h2>
-<p>The precise dimensions of the L-BOXX G4/G inserts ensure that you can individually configure the inside to meet your needs – whether you need to transport <strong>consumables, electric tools, ma-chines or additional equipment.</strong> There are dividers, inset boxes or inserts, depending on your transport needs, to individually divide up the space in your StoreToGo L-BOXX G4/G. You can therefore maximise the available space at the same time as having your work materials clearly arranged and organised and ready to hand at all times. Only in this way you can work in a structured and efficient manner, leaving a professional impression with your customer.
-When you buy your L-BOXX G4/G online, it is <strong>available in various configurations:</strong> either empty or with complete sets consisting of lid inserts, inset boxes, dividers, foam inlays, ther-moformed and thermal inserts. And there’s also a solution for field sales representatives in the form of a document card in the L-BOXX G4/G lid, as well as a laptop insert. So you see, the L-BOXX G4/G is as individual as your needs. There is a large selection of accessories for your BOXX to buy in the online shop.</p>
+</p>
+<h2> Organized Storage For Every Task </h2>
+<p> Customize the inside of L-BOXX G4/G according to the job requirement. This way you can carry power tools, machines,
+   small parts or even additional equipment and keep them well organized.  
 
-<p>You can also buy online EPP self-cutting inserts or foam grid inserts to protect your sensitive ma-chines and equipment and adapt the inside of the StoreToGo L-BOXX to the precise requirements of your materials. This protects your <strong>valuable equipment from damage caused by sliding or impacts.</strong></p>
+</p>
+<p> Choose from the diverse range of trays, dividers and inserts to make use of the available space, helping you find the right tool with ease.  </p>
+<p> The L-BOXX G4/G can either be available as an empty box or they can come with accessories such as lid inserts,
+   dividers, foam inserts, protective inserts, laptop inserts and document holders.  </p>
 
+<p> To secure delicate tools and equipment,  you can add the customizable foam inserts, as they’ll protect them from damage during transport.  </p>
 
+<h2> Durable And Safe, Built For Everyday Use </h2>
+<p> The L-BOXX G4/G is lightweight and durable, designed for challenging conditions. They are impact resistant and protect tools from spray water.
+   The box lid can support 85 kg. You can also turn the BOXX into comfortable seats by adding a cushion. By adding a worktop,
+    you can create a practical mobile bench.  
 
-<h2>Durable workmanship and safe storage</h2>
-<p>The box itself is lightweight yet durable: it is <strong>impact-resistant and protected against spray water.</strong> These are both key qualities on a building site where things can get quite touch. The cover withstands loads of up to 85 kg in weight and you can also add a seat cushion to the BOXX – transforming it into a comfortable seat in your breaks. A separately available worktop converts the L-BOXX G4/G system into a flexible work bench for when you’re out and about.</p>
-<p>The BOXX can be precisely integrated into StoreToGo TÜV-certified and crash-tested van racking systems.<strong>Stow away your boxes quickly and securely</strong> with minimal effort, and benefit from a tidy, organised and clearly arranged working environment – indispensable in a job where everything has to be just right. And it’s not just your load and tools that are ideally protected by the L-BOXX G4/G system – the driver and passengers of your vehicle are as well.</p>
-      
+</p>
+<p> The L-BOXX G4/G is also compatible with the StoreToGo TUV certified and crash-tested van racking system.
+   This keeps your tools safe while you drive alongside  protecting everyone inside the van. 
+
+</p>
+ 
+
     </div>
   </div>
 </div>
