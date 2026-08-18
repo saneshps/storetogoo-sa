@@ -616,19 +616,60 @@
 <div class="sortimoWidth">
   <div class="col-sm-12 col-md-12 sortimo_padding_facet">
     <div class="categoryMarketing">
-      
-        <h2>WorkMo accessories for even more individuality in your mobile workshop</h2>
-<p>The flexible StoreToGo WorkMo workshop provides a complete mobile solution for your work. The workstation offers efficient storage space and mobility in your everyday work. Preconfigured complete sets enable it to be mobile – use it in vehicles, on site and in your own workshop.</p>
-<p>The flexible design of the sets lets you choose the set that meets your specific needs and require-ments. <strong>WorkMo accessories provide you with tailored individual solutions to extend your WorkMo</strong> – allowing you to further customise your mobile workstation to reflect your changing needs.</p>
-<h2>Coordinated accessories for your mobile work bench</h2>
-<p>The practical work tables adapt to your needs, with the perforations ensuring that your tools are held safely. Tensioning devices and screw clamps ensure that all your work materials are also held in place. The <strong>various tool trays provide additional storage space for your materials</strong>, at the same time ensuring that they are always ready to hand.<br>The dividers for the tool trays provide a functional yet clearly arranged storage system. And using the tailored accessories for your mobile work bench lets you customise your transportable work-place to your exact needs.</p>
-<h2>Mobility with functional extras</h2>
-<p>Equip your WorkMo with a coordinated Roller trolley on wheels: the built-in connecting lever allows it to be fixed with ease to the individual modules of your portable workstation, letting you flexibly move your mobile workplace to your ‘actual’ place of work. The fixed roller adapters, which can also be quickly fixed in place, guarantee additional mobility. The mobile accessories for your mobile work bench deliver total flexibility.</p>
-<h3>Individually configurable storage system</h3>
-<p>You also have the option of attaching additional WorkMo accessories to the side walls of your por-table work bench. Perforated aluminium panels combined with tool hooks and clamps enable you to <strong>organise a clearly arranged storage system</strong> on your WorkMo.<br>our product range also includes additional side panel accessories for your mobile work bench in the form of different storage trays and drawers. These also include handy hook and clamping strips, which can be conveniently fixed to the side panels. Additional WorkMo accessories, such as panel fixings, removal safety devices and floor rails, offer you additional flexibility when it comes to confi-guring your portable workstation.</p>
-<h2>Order accessories for your mobile work bench online</h2>
-<p>Configure your WorkMo to meet your everyday working needs, tailored perfectly to your working processes. Using the supplementary functional accessories for your mobile work bench is both efficient and space-saving, permitting additional customisation of your mobile workstation. Use our <strong>Product Finder to select the WorkMo accessories to meet your specific needs.</strong> You’ll find many complete sets in the StoreToGo online shop for your portable workstation. We’d also be happy to answer any questions about our products either by phone or using our Contact Form.</p>
-      
+ 
+    <h2> WorkMo Accessories For A More Personalized Mobile Workshop </h2>
+<p> StoreToGo WorkMo workshop is your go-to complete mobile solution that creates useful storage space helping you organize tools and equipment.
+   These ready-made sets can be used in vehicles, on-site or in your own workshop. You can choose between the different sets according to the task requirement.
+    Add more features to your set up with reliable WorkMo accessories. 
+
+</p>
+<h2> Accessories That Match Your Mobile Work Bench </h2>
+<p> You can adapt your WorkMo work tables according to the tasks. They come with perforated surfaces that keep your tools secure while you work.
+   The tensioning devices and screw clamps hold your tools firmly in place and keep them within easy reach. Dividers along with the tool trays maintain
+    everything neat, saving you the time wasted on searching for them. With the right accessories you can customize your workstation that matches the work requirements. 
+
+</p>
+<h2> Easy Movement With Functional Extras </h2>
+<p> Adding a roller trolley with wheels to your WorkMo will make it easier to move. With the built-in connection, 
+  these trolleys can be easily attached to the individual WorkMo modules. This way you can easily transport your
+   tools from one work area to the other. For additional mobility you can attach the roller adapters. 
+
+</p>
+
+<h2> Storage System That You Can Customize </h2>
+<p> Customization doesn’t end here. You can add more storage accessories to the side panels of the WorkMo such as storage trays, 
+  drawers, tool hooks, perforated aluminum panels and clamps. This will help you organize the mobile workstation according to the work requirements. 
+
+</p>
+<h2> Additional Accessories For A Secure Setup </h2>
+<p> Panel fixings, safety devices and floor rails- WorkMo offers a wide range of accessories that makes your workspace more practical and safe.  </p>
+
+<h2> Find The Right WorkMo Accessories Today! </h2>
+
+<p> Connect with StoreToGo and find the right WorkMo accessories that suit your day-to-day tasks.
+   This way you can save space, time and stay organized throughout the tasks. You can explore our exclusive collection
+    of accessories in the StoreToGo online shop. The product finder will help you select the most ideal accessory from the multitude of options 
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </div>
   </div>
 </div>
