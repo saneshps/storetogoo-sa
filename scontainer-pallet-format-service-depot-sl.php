@@ -59,7 +59,11 @@
             <span class="item-headline">
                 Mobile depot with optional racking system</span>
 
-            <p style="text-align: left">The sContainer serves as a mobile depot on construction sites or during service operations - on request also with an order system. Thus, the tool and consumables are available directly on site. A big advantage for permanent construction sites or inner city operations, where the approach with the commercial vehicle is not always possible to the place of use.</p></div>
+            <p style="text-align: left"> The sContainer can be used as a small mobile storage room to keep your tools and other consumable materials,
+               and can be placed directly at construction sites or service locations. An optional SR5 racking system can also be added to keep everything organized. 
+               This is beneficial for workers who cannot park their service vehicle close to the work area.
+
+              </p></div>
         </div>
     </div>
   </div>
@@ -81,9 +85,10 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-                Minimal footprint, maximum space utilization </span>
+            Minimal footprint and maximum space utilization  </span>
             
-           <p style="text-align: left">The footprint of all sContainers is no more than one euro pallet. Thus, the service container on the narrowest construction sites or service assignments is a slim depot with a lot of interior space. Because the integration of a SR5 shelving system creates space in various levels and therefore room for tools, consumables and, if necessary, even for a workplace.</p></div>
+           <p style="text-align: left"> It only takes up as much ground space as the Euro pallet. But on the inside it offers plenty of storage.
+          </p></div>
         </div>
     </div>
   </div>

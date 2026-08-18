@@ -78,13 +78,27 @@
   
       <h1 class="component-headline ">
         
-        sContainer <br> The customisable service depot in pallet format!!
+        sContainer <br> Customisable Service Depot In Pallet Format
       </h1>
       
 <div class="text">
-      <p style="text-align: center;">Thanks to its basic Euro pallet dimensions the sContainer fits in perfectly with every standardised transport and logistics chain. Mounting fixtures for common material handling equipment ensure simple handling, thus also making the Service Container ideal for global usage. The option of equipping the container with the SR5 racking system turns this mobile depot into an organisational system at any construction site or service assignment – and with a minimal footprint as well. The sContainer also provides a large area for company logos or advertising graphics, which we would be happy to create for you or which you can order yourself using the StoreToGo graphics sticker configurator. Your storage space then offers the added advantage of acting as a perfect, low-cost advertising medium.</p>
+      <p style="text-align: center;"> The sContainer is a compact, mobile storage solution for construction sites,
+         workshops and other service assignments. It is designed with the base dimensions of the standard Euro pallet and
+          fits easily into the preset transport and logistics system. The sContainer has built-in mounting points for
+           common material handling equipment, which makes it suitable to move and use at different locations across the world.
+            You can also add optional accessories such as crane lifting eyes and adapt your container to suit specific operational needs. 
 
-<p style="text-align: center;">&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;You can easily order the sContainer online or contact our StoreToGo experts for advice.</p>
+        </p>
+
+<p style="text-align: center;">  For further improving the organisation, you can equip the sContainer with the SR5 racking system and turn it
+   into a practical mobile depot efficiently storing the tools, equipment and spare parts without taking up much of the floor space. 
+    </p>
+<p style="text-align: center;">  You can also add the company logo and advertising graphics outside the sContainer.
+   Using the StoreToGo decal configurator you can customize your container and turn it into an advertising space as well. 
+    </p>
+<p style="text-align: center;">  sContainer- It’s All About Convenience
+This practical mobile storage unit can be adapted for different types of work. 
+  </p> 
 </div>
  
   </div></div>
@@ -234,7 +248,10 @@
       </div>
     
 <div class="text">
-      <p style="text-align: center;">The service containers offer practical benefits in various situations, enabling you to significantly boost your added value chain.</p></div>
+      <p style="text-align: center;">
+      The service containers offer practical benefits in various situations, enabling you to significantly boost your added value chain.
+
+      </p></div>
   </div></div>
 </div>
 <!-- END -->
@@ -634,7 +651,7 @@
   
       <div class="component-headline ">
         
-        Different heights available
+      Different Heights Available
       </div>
     
 </div></div>
@@ -658,8 +675,8 @@
       
 
 <div class="text">
-        The sContainer is available in <strong>height 1.20 m and 1.90 m</strong>. The basic dimensions, which are based on the Euro pallet size, always remain the same. Depending on your requirements, you can order the sContainers with different variants of locking systems. Optionally, the sContainer can be equipped with crane eyelets, ventilation and individual advertising adhesives - depending on the application.</div>
-    </div>
+       <p> The sContainer is available in two heights, 1.20 m and 1.90 m, with the base dimensions of the two remaining the same and are designed to match the size of a Euro pallet.  </p>
+      </div>
     </div>
 </div></div>
 
@@ -678,11 +695,11 @@
     
       <div class="component-headline ">
         
-        Work organization in no time
+      Work Organization In No Time
       </div>
       <div class="component-headline subheadline">
         
-        Working more efficiently with SR5 and&nbsp;StoreToGo labels
+      Work More Efficiently With SR5 And StoreToGo Labels
       </div>
 </div></div>
 </div>
@@ -706,14 +723,14 @@
       
       <div class="component-headline ">
         
-        To the custom-fit shelving system SR5 for your sContainer
+      The Custom-Fit SR5 Shelving For Your sContainer
       </div>
     
     
   
 <div class="text">
-        The SR5 shelving system makes more effective work possible with optimal use of space! Request a consultation appointment to get the right SR5 shelf for your sContainer.<br>&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;
-        </div>
+       <p> The SR5 shelving system helps you to utilize the available space more efficiently. Request a consultation appointment and get the right SR5 shelf today.  </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -736,13 +753,13 @@
     
       <div class="component-headline ">
         
-        With labels for more organisation in the sContainer
+      Add Labels To Enhance Organization
       </div>
     
     
   
 <div class="text">
-        Organize your workplace even more effectively with increased clarity thanks to the label labels StoreToGo labels.<br>&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;
+       <p> You can organize your workplace even more efficiently by adding suitable StoreToGo labels.  </p>
         </div>
     </div>
     <div class="image-container" style="width: 695px; height: 340px;
@@ -766,13 +783,13 @@
     
       <div class="component-headline ">
         
-        Design your sContainer individually 
+      Custom Design Your sContainer
       </div>
     
     
       <div class="component-headline subheadline">
         
-        Quick and easy to perfect decal
+      Quick and Easy to Perfect Decal
       </div>
     
 </div></div>
@@ -790,13 +807,13 @@
       
       <div class="component-headline ">
         
-        Personal advice
+      Personal Advice
       </div>
     
     
   
 <div class="text">
-        Would you rather have personal advice on the selection of your decal? Arrange your appointment with one of our experts here.<br>&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;
+Would you like assistance in choosing a decal? Arrange an appointment with our experts.
 <div></div>
 
         </div>
@@ -821,11 +838,12 @@
       
       <div class="component-headline ">
         
-        Decal online configurable
+      Configure Your Decal Online
       </div>
     
 <div class="text">
-        In simple steps, you can configure the desired sticker for your service depot online – user-friendly and fast. Simply select "StoreToGo" from the manufacturer and get started!<br>&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;</div>
+You can create the perfect decal online in simple steps. Just select StoreToGo as the manufacturer and start configuring your design. 
+        </div>
     </div>
     </div>
 </div></div>
