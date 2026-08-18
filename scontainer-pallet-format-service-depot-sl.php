@@ -11,9 +11,11 @@
 
 <h2 class="component-headline ">
         
-       sContainer – just convenient
+    sContainer- It’s All About Convenience
       </h2>
-     <p class="hed-one">Individual, mobile, neat and offering lots of space: the sContainer is the flexible friend for service technicians, tradespeople and construction workers</p>
+     <p class="hed-one">
+     This practical mobile storage unit can be adapted for different types of work. 
+    </p>
     
     
   
@@ -57,11 +59,13 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 217.6px;">
             <span class="item-headline">
-                Mobile depot with optional racking system</span>
+            Mobile depot with optional racking system  </span>
 
-            <p style="text-align: left"> The sContainer can be used as a small mobile storage room to keep your tools and other consumable materials,
-               and can be placed directly at construction sites or service locations. An optional SR5 racking system can also be added to keep everything organized. 
-               This is beneficial for workers who cannot park their service vehicle close to the work area.
+            <p style="text-align: left"> The sContainer can be used as a small mobile storage room to keep your tools and
+               other consumable materials, and can be placed directly at construction sites or service locations.
+                An optional SR5 racking system can also be added to keep everything organized. This is beneficial
+                 for workers who cannot park their service vehicle close to the work area. 
+
 
               </p></div>
         </div>
@@ -85,9 +89,9 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-            Minimal footprint and maximum space utilization  </span>
+            Minimal footprint and maximum space utilization </span>
             
-           <p style="text-align: left"> It only takes up as much ground space as the Euro pallet. But on the inside it offers plenty of storage.
+           <p style="text-align: left">  It only takes up as much ground space as the Euro pallet. But on the inside it offers plenty of storage. 
           </p></div>
         </div>
     </div>

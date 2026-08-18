@@ -75,9 +75,25 @@
       
 <div class="row">
       <div class="col-md-12">
-        <h4>sContainer <br> The customisable service depot in pallet format!!</h4>
-        <p class="hed-one">Thanks to its basic Euro pallet dimensions the sContainer fits in perfectly with every standardised transport and logistics chain. Mounting fixtures for common material handling equipment ensure simple handling, thus also making the Service Container ideal for global usage. The option of equipping the container with the SR5 racking system turns this mobile depot into an organisational system at any construction site or service assignment – and with a minimal footprint as well. The sContainer also provides plenty of room for company logos or advertising graphics, which can be created using the StoreToGo decal configurator. Your storage space then offers the added advantage of acting as a perfect, low-cost advertising medium.</p>
+        <h4>sContainer <br>  Customisable Service Depot In Pallet Format  </h4>
+        <p class="hed-one">
+        The sContainer is a compact, mobile storage solution for construction sites, workshops and other service assignments.
+         It is designed with the base dimensions of the standard Euro pallet and fits easily into the preset transport and
+          logistics system. The sContainer has built-in mounting points for common material handling equipment,
+           which makes it suitable to move and use at different locations across the world. You can also add optional
+            accessories such as crane lifting eyes and adapt your container to suit specific operational needs.
+
+        </p>
+        <p class="hed-one"> For further improving the organisation, you can equip the sContainer with the SR5 racking system and turn it
+           into a practical mobile depot efficiently storing the tools, equipment and spare parts without taking up much of the floor space.  
+
+        </p>
+        <p class="hed-one"> You can also add the company logo and advertising graphics outside the sContainer.
+           Using the StoreToGo decal configurator you can customize your container and turn it into an advertising space as well. 
+
+        </p>
         
+
       </div>
 
       </div>
@@ -192,8 +208,8 @@
   <div class="container-fluid">
     <div class="row">
     <div class="col-md-12">
-        <h4>Guaranteed to meet your requirements!</h4>
-        <p>The service containers offer practical benefits in various situations, enabling you to significantly boost your added value chain.</p>
+        <h4> Guaranteed to meet your requirements! </h4>
+        <p> The service containers offer practical benefits in various situations, enabling you to significantly boost your added value chain. </p>
       </div>
     </div>
 
