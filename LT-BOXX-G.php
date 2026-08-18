@@ -659,24 +659,33 @@
     <div class="categoryMarketing">
       
         <h2>LT-BOXX G</h2>
-<p>The StoreToGo LT-BOXX G is the ideal solution for transporting bulky tools. The simple loading and un-loading options save you valuable time at your place of work and ensure fast access to your materi-als. Like the StoreToGo L-BOXX G, the <stonrg>LT-BOXX G comes in four different sizes,</stonrg> ideally adapting the LT-BOXXes to the needs of your load. The BOXX can be combined with all L-BOXX G4/G products, offering you even more flexibility. Durable, excellent load capacity and yet lightweight: The LT-BOXX G is made of <strong>shock- and impact-resistant ABS plastic.</strong> The BOXXes have a broad swivel-out handle to simplify the transport of bulky tools and materials for your daily work, ensuring that even heavier loads can be carried with ease and maximising the use of space.</p>
+ <p> The LT-BOXX G is a box that transports bulky tools. It comes with an open design that enables easy loading and unloading, thus ensuring fast access to equipment. The LT-BOXXes are available in four sizes and can be selected according to the number of equipment you need to transport. It is made from ABS plastic exhibiting excellent shock and impact resistance, while remaining lightweight, durable and suitable for daily use. 
 
-<p>The BOXX is part of the L-BOXX G4/G range and can be <strong>clicked into the other products of the system,</strong> thanks to the unique two-way click system. With just two clicks, transport your LT-BOXX G by StoreToGo safely to your place of work – and quickly detach it again when you arrive. The intelligent click system means you can transport several BOXXes simultaneously, saving several trips back and forth from your van, so you can save valuable time.</p>
+ </p>
+<p> It comes with a broad swivel-out handle which makes it easier to carry heavier tools.  The LT-BOXX es can carry tools with a weight range up to 25kg. When several such boxes are stacked together, the weight bearing capacity increases up to 40kg. 
+
+</p>
+<p> With the practical two-way click system, you can connect the LT-BOXXes to other compatible boxes, which enables workers to carry several boxes at the same time.
+
+</p>
+<p> Additionally the LT-BOXX G is compatible with partner boxes from other brands such as BOSCH, Gedore, Forch and Fisher.  </p>
+
+<h2> LT-BOXX By StoreToGo- Fast Loading And Secure Transport </h2>
+<p> By using accessories such as the L-BOXX Roller trolley and AluCaddy, you can easily move the stacked boxes. By adding compatible worktops, you can turn the LT-BOXX into a perfect mobile workspace.  </p>
+<p> The box can be integrated into the StoreToGo van racking system and portable WorkMo station. You easily pull the box out of the shelving and vehicle racks using the front handle. </p>
+<p> LT-BOXX G protects your tools and materials by preventing them from sliding or tipping while the vehicle is on the move. </p>
+<h2> Flexible Division For Every Use </h2>
+<p> Using sturdy Aluminum dividers you divide the LT-BOXX G into three compartments. This way you can efficiently organize different tools and materials. A black version of this is available, which particularly suits the  building sites and workshops due to their less sensitivity to dirt and ability to maintain professional appearance. 
+
+</p>
+<h2> Order the LT-BOXX G By StoreToGo Online </h2>
+
+<p> Order your LT-BOXX online and ensure the easy handling and storage of your tools and equipment. Compatible with other products in the L-BOXX G4/G range, it stands as the practical storage solution.  
+  
+</p>
 
 
 
-
-<p>And reconfigure the BOXXes to meet the specific needs of each individual job, ensuring that you always have all the tools and implements you need with you. The individual BOXXes can be loaded <strong>with up to 25 kg.</strong> When clicked together, the boxes carry up to 40 kg. Various models of the LT-BOXX G by StoreToGo are available online – you can also purchase other transport boxes from the L-BOXX G4/G range together with a wealth of accessories. And what’s more, the BOXX is also compatible with the partner BOXXes used by BOSCH, Gedore, Förch and Fischer, which are used as outer packaging for their products. You therefore benefit from an end-to-end concept for the transport and storage of your valuable machines and tools.</p>
-
-
-<h2>The LT-BOXX G by StoreToGo for fast loading and secure transport</h2>
-<p>The L-BOXX Roller trolley or AluCaddy make it even easier to move your stacked boxes around: either push your <strong>stacked boxes to your place of work</strong> or convert them into a portable worktop for last-minute jobs on site. A range of worktops are available in the online shop, which can be fitted to the L-BOXX G4/G or LS-BOXX 306 G without the need for tools. The LT-BOXX G can also be integrated with ease into the StoreToGo van racking system and the portable WorkMo workstation. With a retainer for your seat bench, it can also be ideally transported <strong>on the passenger seat of your car or on the rear seat bench.</strong> Thanks to a handle bar on its front side, conveniently pull the box out of a vehicle rack or the shelving in your work-shop. Sturdy drawer rails ensure you can also store the BOXX on the drawer recesses of your StoreToGo van racking system, creating more order in your work vehicle <strong>and also ensuring optimum load securing.</strong> Loose boxes can easily slide around or topple over in your vehicle – presenting a risk to the passengers and making your tools more vulnerable. If you order the coordinated ac-cessories for your BOXX, your load will remain securely in place even if you have to brake hard!</p>
-
-<h2>Flexible division for every use</h2>
-<p>To prevent you from having to search around for longer, the BOXX can also be sub-divided into three compartments by sturdy aluminium dividers. This guarantees <strong>quick access to your tools and secure transport</strong> when you need to store several tools or materials in your tool box. And what’s more, the <strong>LT-BOXX G is also available in black</strong> for use on building sites or in workshops. It is particularly insensitive to dirt and is guaranteed to present a professional im-pression at all times at your place of work.</p>
-
-<h2>Order the LT-BOXX G by StoreToGo online now</h2>
-<p>The BOXX offers all the benefits of the L-BOXX G4/G range. <strong>Complete flexibility, thanks to a wealth of accessories, and the ability to combine several modules</strong>. guarantee made-to-measure solutions for every job. Conveniently order your <strong>LT-BOXX G now online</strong> and benefit from our fast deliv-ery, excellent customer service and outstanding StoreToGo quality.</p>
 
 
 

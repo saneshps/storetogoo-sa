@@ -643,33 +643,55 @@
     <div class="categoryMarketing">
       
         <h2>i-BOXX Rack G</h2>
-<p>The i-BOXX Rack G is the perfect addition to the L-BOXX G4/G range, as it provides the <strong>link be-tween your L-BOXXes and the handy i-BOXX G.</strong> Either use it as shelving in your workshop – or take it with you to site in your vehicle. The system consists of multiple units that can be combined together to create a fixed shelving system.<br>
-The individual shelving elements, the racks, can then either accommodate <strong>an i-BOXX G or an LS drawer.</strong> The side guide rails with stopping devices ensure that all drawers are secured in place during transport and, when you arrive on site, simply pull out or even remove the drawers and i-BOXXes.<br> 
-Purchase the i-BOXX Rack G online with either three or five fixed units – or combine together the number of racks you require yourself. When doing so, <strong>choose from active and inactive modules.</strong> Inactive modules remain fixed in the unit and can no longer be separated. By contrast, active modules can be removed from the unit at any time.</p>
+ <p> A practical addition to the L-BOXX G4/G range, the i-BOXX Rack G well connects with the L-BOXXes, helping  you organise smaller tools and materials efficiently.  </p>
+<p> You can use it as shelving in your workshop or take it with you in your van. You can combine the several units to create a stable storage system. </p>
+<p> Each rack can hold an i-BOXX G or an LS drawer. The side guide rails and stopping devices will keep the drawers in place during the transport. Once you arrive at the job site, you can simply remove the drawers and i-BOXXes. 
 
+</p>
+<p> You can either buy the i-BOXX Rack G with three or five fixed units or build your own setup by combining the number of racks you need. </p>
+<p> Choose between: </p>
+<ul>
+  <li>  <strong> Active modules </strong>, which can be removed from the unit whenever required  </li>
+  <li>  <strong> Inactive modules </strong>, which is permanently connected to the unit  </li>
+</ul>
+<p> Using an active element at the bottom of the i-BOXX Rack G is ideal as it  allows you to connect the rack to other products in the L-BOXX G4/G range using the practical click-in locking system. You can also detach it easily. 
 
-<p>We recommend using an active element as the bottom unit of an i-BOXX Rack G which can be <strong>connected to the other boxes in the L-BOXX G4/G range using the smart locking sys-tem</strong> – and then detached again. This unique system lets you configure your transport boxes to meet your precise needs on site – and reconfigure them for each individual job.<br>
-That way, you’re always ideally prepared, have all your important tools and materials on site, and yet are not transporting unnecessary weight. L-BOXXes G4/G , LS-BOXXes 306 G and LT-BOXXes G can all be stacked using the click-in locking system as well as the i-BOXX Rack G. The sturdy cover boasts a han-dle, which is comfortable to hold and lets you <strong>carry connected elements to site.</strong> The cover is compatible with all elements of the i-BOXX Rack G by Sortimo available to buy online – whether active or inactive.<br>
-And what’s more, <strong>our partners Bosch, Gedore, Forch and Fischer</strong> use outer packaging boxes that are also compatible with the Rack – ensuring you benefit from a comprehen-sive system to meet all your needs.</p>
+</p>
+<p> With this flexible system you can create a storage setup for each job.  </p>
+<p> The i-BOXX Rack G can be stacked with: </p>
+<ul>
+  <li>  L-BOXXes G4/G </li>
+  <li>  LS-BOXXes 306 G </li>
+  <li>  LT-BOXXes G </li>
+</ul>
+<p> It comes with a comfortable handle that makes it easier to carry connected units. You can use the cover with all active and inactive i-BOXX Rack G elements. </p>
 
+<p> Packaging boxes from selected partner brands such Bosch, Gedore, Förch, and Fischer, are also compatible with the Rack. This way you get a flexible storage system suited for a diverse range of tools and materials. 
 
-<h2>Maximum mobility when out and about – with the i-BOXX Rack G</h2>
-<p>Combine the stackable Rack with our handy mobility solutions, including the Roller trolley or light-weight AluCaddy, for even greater convenience and efficiency on site. These options let you transport stacked racks more easily, without damaging your back – ideal for everyday use. Buy these and other accessories for your Rack conveniently online.<br>
-Or even use the tower made up of several elements as a portable workplace on site. The work top for the L-BOXX G4/G also fits the i-BOXX Rack G, letting you <strong>perform last-minute little jobs direct-ly on your stacked racks.</strong> The i-BOXX Rack G by Sortimo therefore represents a valuable module for the storage of consumables and smaller components: And as the drawers or i-BOXXes G can be removed from the front, without dismantling the unit, you have access to your materials at all times, letting your work quickly and efficiently.<br>
-Like the other boxes in the L-BOXX G4/G range, the i-BOXX Rack G is also compatible with Sortimo’s in-vehicle systems. It is therefore ideal as a <strong>practical shelving system in your vehicle, protecting your materials and the passengers in your vehicle too.</strong> Your valuable tools are secured against sliding around and are protected from damage should you need to brake hard or corner at speed. The boxes are also securely stowed away and do not risk becoming “missiles” in dangerous situations – an added bonus for your safety and the safety of your passengers. Organ-ised storage in your vehicle also looks professional and is sure to impress your customers should they glance into your van.
 </p>
 
+<h2> Maximum Mobility When Out and About – With the i-BOXX Rack G </h2>
+<p> The Roller trolley or the lightweight AluCaddy makes it easier to move the rack. </p>
+<p> You can easily transport your equipment easily without straining your back, which makes them an ideal asset for job sites.  </p>
+<p> You can use the stack of rack elements as a mobile workspace. The worktop designed for theL-BOXX G4/G is also compatible with the i-BOXX Rack G,
+   creating a practical surface to perform small jobs.    </p>
+<p> Small components and consumables can be stored in the i-BOXX Rack G.  The box and drawer can be removed from the front, therefore you can access the tools without needing to dismantle the stack. Like other products in the L-BOXX G4/G range, the i-BOXX Rack G is also compatible with StoreToGo in-vehicle systems. 
 
-<h2>Organisation and overview: everything in sight with the i-BOXX Rack G</h2>
-<p>When you buy your i-BOXX Rack G, you have the choice of filling it with the ready-equipped versions with i-BOXXes or with LS drawers. The <strong>LS drawer provides fast and straightforward access to smaller tools.</strong> It can also be fitted with inset boxes, which double as a handy storage location for smaller components in your workshop or on site.<br>
-The i-BOXX G provides you with order and organisation for your day-to-day work: equip it <strong>with different inset boxes in various colours</strong> to tidily organise and store plugs, screws and other smaller components. That way, you are always aware of your stock levels and can immediately find the material you need.<br>
-The transparent lids also let you check the availability of smaller parts without needing to open the box. Adapt the box to your needs and even keep <strong>boxes equipped differently for different jobs.</strong> Before heading off to site, simply select the right correctly equipped box and insert it into the Rack.</p>
+</p>
+<p> By using them in your vehicle you can prevent the slipping and sliding of tools while driving, thus protecting them from possible damage.  </p>
+<h2> Organisation and Overview: Everything in Sight With the i-BOXX Rack G </h2>
+<p> While choosing the i-BOXX Rack G, you can select the versions that comes fitted with LS drawers or i-BOXXes. </p>
 
-<h2>Buy your i-BOXX Rack G online at Sortimo – securely and conveniently</h2>
-<p>Buying your Sortimo i-BOXX Rack G online lets your benefit from outstanding Sortimo quality and our exceptional customer service. We’d be happy to help you at any time on our free Service Hotline on 0800 027 5644 should you have any questions about our products.</p>
+<p> You can easily access smaller tools and parts through the LS drawer. Also you can fit them with inset boxes, that helps you to organize small tools.  </p>
 
+<p> You can store plugs, screws and other small parts in the i-BOXX G. Add inset boxes with different colours to clearly demarcate your materials.  </p>
+<p> This makes it easier to see your stock levels and find the materials you need without wasting time. </p>
+<p> You can check the contents without opening the box through the transparent lid. </p>
+<p> You can also prepare different i-BOXXes for different jobs. Simply choose the box you need and insert it into the Rack. </p>
 
-
+<h2> Buy Your i-BOXX Rack G Online at Sortimo – Securely and Conveniently </h2>
+<p> Order your StoreToGo i-BOXX Rack G online and benefit from reliable Sortimo quality and helpful customer service. </p>
+<p> For questions about the product, contact the free Service Hotline on <strong> 0800 027 5644</strong>. </p>
     </div>
   </div>
 </div>

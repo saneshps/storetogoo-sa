@@ -667,26 +667,48 @@
   <div class="col-sm-12 col-md-12 sortimo_padding_facet">
     <div class="categoryMarketing">
       
-        <h2>LS-BOXX 306 G</h2>
-<p>Looking for a smart solution for safely and tidily carrying your equipment, small components, materials and customer samples to your customer’s workplace? <strong>Then might the StoreToGo LS-BOXX 306 G be the optimal transport solution to meet your needs.</strong><br>
-It combines a tool case, box for small parts and machine case in a single handy unit that you can either integrate into your car or into your van’s in-vehicle system. It´s <strong>shock- and impact-resistant ABS plastic makes it the perfect ‘workmate’</strong> – even for challenging jobs and is capable of carrying up to 12 kilogrammes of machinery and accessories.<br>
-The upper section of the LS-BOXX 306 G <strong>is the same size as a traditional L-BOXX 136 G4,</strong> in which you can store various tools and machines. The lower section includes three insert options for LS drawers or an i-BOXX G – perfect for storing and arranging smaller components.</p>
-<p>Thanks to the <strong>intelligent click system,</strong> several LS-BOXXes by StoreToGo can be combined together and then detached from each other at the press of a button when you arrive on site. The box is also compatible with a series of other StoreToGo products from the L-BOXX G range. If required, all four sizes of L-BOXXen G4/G can click into the LT-BOXX G and the i-BOXX Rack G. And there’s more – BOSCH, Gedore, Förch and Fischer partner products, which are used by our partners as outer packaging, can also be clicked into the LS-BOXX 306 G by StoreToGo. The benefit of this? Even when clicked together, <strong>the drawer with the i-BOXX G or LS drawer-can still be accessed with ease.</strong> The various elements are locked in place, preventing them from falling out during transit. And you save time walking back and forth between your vehicle and place of work.
+        <h2> LS-BOXX 306 G </h2>
+ <p> A practical storage and transport box that secures tools, small parts and product samples, the LS-BOXX 306 G 
+  combines three functionalities in one system- tool box, small-part organizer and machine case.  
+
+ </p>
+<p> It is made from ABS plastic which is impact resistant and is strong enough to carry tools and accessories that weigh up to 12kg.  </p>
+<p> Tools and machines can be stored on the top section. You can fit the lower section with LS drawers or an i-BOXX G, which makes organizing small parts easier.  </p>
+
+<p> With the built-in click system, you can connect multiple LS BOXX es  and move them easily.
+   Once you reach the site, you can separate them by pressing a button. Another interesting fact,
+    you access the drawers even when the boxes are stacked. They can be locked into place which
+     prevents the items from falling out. 
+
 </p>
-<p>Flexible and secure transport for maximum mobility</p>
-<p>The LS-BOXXes you can buy from our online shop offer the ultimate in flexibility at all times. Electrical equipment, like cordless screwdrivers, jigsaws, drills etc., can be conveniently stored in the upper base container, which can be closed by a lid. The durable plastic handle is comfortable to hold, making the transport box pleasant to carry even when filled with a heavy load.
-There is a drawer on the front of the box with more space for two removable i-BOXXes for smaller parts, like screws and fittings. Alternatively, an i-BOXX G can also be used with a tool drawer. The fact that the boxes are well organised <strong>saves you unnecessary searching and trips back and forth from your van,</strong> leaving a great impression with your customer.</p>
-<p>An L-BOXX Roller trolley or AluCaddy lets you transport your clicked together boxes conveniently to your place of work. And when you need to go somewhere else, the LS-BOXX 306 G by StoreToGo can be easily integrated into your StoreToGo van racking system and thus safely stowed away. Users of the LS-BOXX 306 G therefore benefit from a <strong>standardised concept when it comes to transport,</strong> ensuring maximum efficiency in day-to-day work, as you can keep everything in one place and reduce the number of trips back and forth to fetch things.<br>
-Naturally you can also buy additional accessories for your LS-BOXX 306 G in the StoreToGo online store. Just like the L-BOXX G4/G, a <strong>stacked LS-BOXX 306 G can be combined with a worktop,</strong> converting into your mobile workplace – perfect for all those last-minute jobs on site. It’s not just handy – it also helps prevent damage to your back.</p>
+<p> The LS-BOXX 306 G is also compatible with StoreToGo L-BOXX G range including LT-BOXX G and i-BOXX Rack G.
+   Brands such as Bosch, Gedore, Forch and Fisher also use these boxes for some of their products.
+    This makes it easier to move multiple boxes together.  
 
-<h2>Buy the StoreToGo LS-BOXX 306 G online: durable workmanship and industry-specific equipment</h2>
-<p>Like all products in the range, the BOXX is made of tough <strong>shock- and impact-resistant ABS plastic.</strong> And when you buy the durable LS-BOXX 306 G by StoreToGo in the online shop, you can also equip it to meet the specific needs of your sector, whether you work in a <strong>trade, in industry, maintenance or a service company.</strong><br>
-Online you can select empty LS-BOXXes and individually equip them with <strong>inset boxes, tool cases and other inserts.</strong> Alternatively, opt for one of our finished sets, which is already configured with versatile accessories. The LS-BOXX 306 G therefore adapts to meet the different requirements of different industries and jobs.</p>
-<p>And thanks to the handy slide-in options for the i-BOXX G, <strong>you can equip your transport box differently every day</strong>: the individual BOXXes can be configured with different inset boxes and small component inserts – depending on the nature of your work. Simply select the fully packed BOXX in the morning that you need for a particular day and slide it easily into your LS-BOXX 306 G. A single action and you’re perfectly equipped – no more laborious searching for and swapping over small parts!<br>
-And what’s more, the accessories range for the L-BOXX 136 G4 also fits into the LS-BOXX 306 G. Opt for the perfect transport solution that it sure to satisfy you for years to come. <strong>Conveniently and securely buy the LS-BOXX 306 G in the StoreToGo online shop</strong> – shipping is free. You’ll also benefit from our fast delivery and professional customer service team who are on hand to answer all questions relating to your order or our products by phone or email.</p>
+</p>
+<h2> Flexible And Secure Transport </h2>
+<p> The LS-BOXX 306 G makes it easier to carry and organize your tools. At the upper section you can keep large tools such as drills,
+   jigsaws and cordless screwdrivers while the front section holds the removable boxes or drawers for screw fittings and other small parts.
+    With the Roller trolley or AluCaddy, you can easily move the sack of boxes. 
 
+</p>
+<p> Once the use is over you can store this box securely in the StoreToGo van racking system. By adding a worktop you can turn it into a mobile work surface. </p>
 
+<h2> Buy StoreToGo LS-BOXX 306 G Online </h2>
 
+<p> A practical transport and storage box, the StoreToGo LS-BOXX is designed for service technicians,
+   tradespeople and maintenance teams. They are made from durable and shock-resistant ABS plastic,
+    it efficiently protects the tools and equipment throughout the use.
+   </p>
+<p> You can create the storage system that suits your work by customizing the LS-BOXX 306G with tool cases, inset boxes and other inserts.
+   If you want you can select an empty box and add the accessories later on. 
+   </p>
+<p> The LS-BOXX 306 G comes with slide-in spaces for i-BOXX G organizers. You can keep separate i-BOXX es to secure electrical parts,
+   screws or other repair materials. This helps you to save time and does away with the hassle of searching
+    for different tools or moving items between boxes. 
+   </p>
+<p> The accessories designed for L-BOXX 136 G4 are also compatible with LS-BOXX 306. Buy StoreToGo LS-BOXX 306 G online and create a custom storage system that suits your needs. </p>
+ 
     </div>
   </div>
 </div>
