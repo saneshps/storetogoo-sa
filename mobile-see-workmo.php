@@ -607,19 +607,81 @@
   <div class="col-sm-12 col-md-12 sortimo_padding_facet">
     <div class="categoryMarketing">
       
-        <h2>WorkMo mobile work bench</h2>
-<p>Organisation takes up half your life – that applies above all to your own work processes. A multifunctional ‘workmate’ always lets you find the tool you are looking for without having to think about it, shortening your working hours and making your work more efficient. The mobile WorkMo work bench ensures that you always have your own working and organisational layouts to hand and you can even use it as a handy piece of equipment on site.</p>
-<p>The transportable WorkMo work bench is based on a flexibly adaptable system. <strong>Individual storage modules can be combined and connected together totally flexibly.</strong> They combine to create a workplace configured to your individual needs: the transportable workplace trolley holds everything ready to hand that you might need for your work. You can organise your workstation to meet your precise requirements – whether with large or small drawer units, with flexible divisions, with storage trays or BOXXes. You can even combine case slides into your individual system to meet your specific needs.<br>The individual modules can be very easily connected to form a stable workplace, and then simply detached again. Your worktop can also be quickly tidied away, converting the WorkMo into a folding transportable work bench. Buying our mobile WorkMo work bench solves your work problems, as you can effortlessly take it with you.</p>
-<h2>Flexible &amp; mobile work bench – multifunctionality wins every time</h2>
-<p>Sometimes you need a small table and sometimes you quickly need a portable work bench – and at other times you simply and easily need to transport tools or materials – none of this is a problem with the WorkMo. With the help of tailored accessories, you can now configure your portable work bench to your individual needs. The mobile work bench also elegantly solves all your storage problems, and its <strong>ingenious Roller trolley on wheels even lets you move it with ease to where it is needed.</strong> Handy accessories in the form of various trays, tool holders, multiple sockets and different sized worktops ensure that you have the efficient ergonomic workstation you have always wanted. Buying a WorkMo gives you your portable workplace of the future.</p>
-<h2>Portable workshop trolley – transport it with ease in vans or even cars</h2>
-<p>The WorkMo is not just a trusty ‘workmate’ – being mobile, this work bench can be stored with ease in your boot or load compartment. <strong>Lashing straps let you fix the WorkMo in your van, securing it for the duration of the journey.</strong> The modules can be securely fixed in place using StoreToGo ProSafe loading securing system, which provides lashing rings, lashing belts and the CargoStopp for professional and fast securing of your load.</p>
-<p>However, your WorkMo mobile workshop also offers the ideal solution for transporting tools and equipment in the boot of your car. Whether you work in field sales or as a mobile service technician, your materials will always be tidily and safely stored in the modules, with the added benefit that the WorkMo can be quickly loaded into your car – and unloaded just as easily. Nothing stands in the way of using the portable work bench in your own car. The individual WorkMo modules can be easily secured in place in your vehicle using the integral lashing rings.</p>
-<h2>Work ergonomically – thanks to different heights</h2>
-<p>The portable folding work bench becomes a real ‘workmate’ on site, as the individual modules can be configured to form a perfect workstation, adapting precisely to your needs. <strong>Choose between two heights for most convenient and comfortable working height.</strong> Opt for the 750 cm high WorkMo when you have heavy work to do, and stack two mobile work bench modules together to achieve the ideal working height of one metre when you need to make last-minute fine adjustments on site.</p>
-<h2>WorkMo is professional, efficient – and unbeatable</h2>
-<p>You’re buying all the benefits in a single system with the mobile workstation: a workplace, storage solution, <strong>transportable work bench, workshop trolley and transport system for almost all systems.</strong> You simply cannot work more efficiently. Take advantage of our preconfigured sets – time-saving and value for money.</p>
-      
+        <h2> WorkMo Mobile Work Bench </h2>
+ 
+        <p> WorkMo mobile work bench is the portable and flexible workstation designed for service technicians and businesses whose
+           job requires them to carry tools, organise materials and work efficiently across different worksites.
+            It is multi-functional and can be used as a work bench, storage unit, trolley, transport system and mobile workshop. 
+
+        </p>
+        <p> Organisation is the base of a systematic workspace. Tools and equipment should always be arranged
+           in order and available within the arm reach. WorkMo helps to neatly arrange your tools and ensure easy access
+            enabling smooth and efficient workflow. 
+
+        </p>
+<p> WorkMo comes in a modular design, built from different storage modules, which can be combined in different ways
+   in accordance to the needs. You can choose larger or smaller drawer units, storage trays, BOXXes, case slides and other 
+   flexible drawer divisions. This way you can create your own design instead of relying on a fixed design.  
+
+</p>
+<p> Additionally, the WorkMo modules can be assembled together to form a stable workplace. Once the requirement is over,
+   you can separate the parts and fold them away. This makes it easier to carry and transport. 
+
+</p>
+
+<h2> Flexible And Mobile Workbench- Built For Different Tasks </h2>
+
+<p> The nature of the task determines what accessories you may need. It can be a small table, work bench or
+   a supporting device to move the tools and materials from one place to another. WorkMo is your all in one solution.
+    With the right accessories you can: 
+
+</p>
+<ul>
+  <li> Set up the portable work bench that suits your work </li>
+  <li> Keep your tool and equipment neatly stored </li>
+  <li> Move the tools with trolley </li>
+</ul>
+
+<p> Additionally, the tray, tool holders, sockets and different worktops will help you to create a reliable and practical workspace.
+   One WorkMo helps you in different forms to get different jobs done. 
+
+</p>
+<h2> Portable Workshop Trolley- Easy To Transport In Vans and Cars </h2>
+<p> And guess what? WorkMo work benches can be easily stored in the loading area of your van or even in the boot of your car.
+   You can use the lashing straps and secure the WorkMo, so that it stays safely in place when the van is moving.
+    With the StoreToGo load securing system, which includes lashing rings, straps and other fittings, you can firmly strap and secure the modules.  
+
+</p>
+<p> WorkMo is the ideal storage unit that helps mobile service technicians and service providers to neatly organize their
+   tools and equipment inside these modules.  
+
+</p>
+<h2> Work Comfortably - With Different Height Positions </h2>
+<p> You can set up WorkMo onsite as the proper workstation according to your work requirements.
+   You can arrange the individual modules to create a suitable working area. Depending on the task,
+    you can choose between the different heights. For heavier work you can use the lower WorkMo height.
+     You can also stack two modules together to create an even higher working surface for smaller and detailed tasks.  
+
+</p>
+<h2> Practical. Efficient. Reliable </h2>
+<p> What more do you want when you have an accessory that can be used as a storage unit, portable workbench,
+   workshop trolley and transport solution? WorkMo helps your van to remain organized and professional,
+    ensuring the easy access to the tools and devices, thus saving money and time.  
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
     </div>
   </div>
 </div>

@@ -11,9 +11,9 @@
 
 <h2 class="component-headline ">
         
-       The right solution for all applications.
+  Suited For All Applications
       </h2>
-     <p class="hed-one">Multi-functional. Versatile. Flexible.</p>
+     <p class="hed-one"> Multi-functional.Versatile. Flexible  </p>
     
     
   
@@ -57,8 +57,11 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 217.6px;">
             <span class="item-headline">
-                Modular system</span>
-                <p style="text-align: left">No two days are the same on a building site. Changes to project or work steps require different tools and materials. It is thus all the more important to <strong>adapt</strong> the mobile workplace to <strong>the demands of the day</strong>. The practical coupling levers can be used <strong>to assemble and combine</strong> the WorkMo modules <strong>individually</strong> to meet the demands of the particular day.</p></div>
+            Modular System </span>
+                <p style="text-align: left"> Different tasks require different tools and setups. Work Mo system is built to adapt to the changes. 
+                  It has a practical coupling system that allows you to mix and match modules according to the requirements, so that it fits well with your worksite. 
+
+                   </p></div>
         </div>
     </div>
   </div>
@@ -80,8 +83,10 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-                Versatile deployment </span>
-            <p style="text-align: left">The WorkMo is always ready as your adaptable work aid in all situations, as <strong>workshop trolleys, workshop shelves, work benches, transport equipment or as a work station</strong>. Holders for accessories, multiple sockets, a worktop and a clamping system make a function&shy;al workplace out of the transport and organisation system, which you can use to <strong>adapt your compo&shy;nents on site in all kinds of ways</strong>.</p></div>
+            Built for Any Work Situation </span>
+            <p style="text-align: left"> Work Mo can be used as a trolley, shelving unit, workbench, transport or even as a complete mobile workstation.
+               Along with accessories such as socket holders, worktops and clamping systems, you can create a setup that works well with the task in hand.
+              </p></div>
         </div>
     </div>
   </div>
@@ -101,8 +106,12 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-                Simple organisation system</span>
-            <p style="text-align: left">The modules in <strong>different widths and heights</strong>, which can be <strong>combined</strong> at will, help with the organised storage of tools and consumables. The modules can be equipped with drawers Globelyst, shelves, BOXXes and cases, which can simplify <strong>detailed and individual organisation</strong> of working materials using additional sub-divisions.</p> </div>
+            Easy and Organized Storage </span>
+            <p style="text-align: left"> Tools and materials should be well organized. With Work Mo modules available in different sizes,
+               you can combine and create a good storage system. You can also add drawers, BOXXes or cases to ensure the easy accessibility of tools. 
+
+            
+            </p> </div>
         </div>
     </div>
   </div>
@@ -121,8 +130,12 @@
               </div>
               <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-                Easy and convenient transport </span>
-           <p style="text-align: left"> The WorkMo components are made mobile with just a few gestures. So the WorkMo can be transported <strong>quickly and comfort&shy;ably</strong> from the <strong>workshop to the vehicle</strong> and from the <strong>vehicle to the building site</strong>. The roller panels can be fixed under the WorkMo if required, using the coupling lever, and facilitate transport according to need. Fixed roller skids offer a long-term mobile solution.</p></div>
+            Convenient Transport </span>
+           <p style="text-align: left">  WorkMo is designed to move easily with minimal effort. From workshop to vehicle to worksite- you
+             can quickly transport them. You can also attach an optional roller panel underneath using the coupling mechanism and make transportation even more smooth. 
+
+              
+              </p></div>
         </div>
     </div>
   </div>
@@ -141,8 +154,11 @@
               </div>
             <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-                Compatible with BOXXes </span>
-            <p style="text-align: left">WorkMo modules are <strong>compatible with the serico-hg BOXXes programme</strong>, and thus form part of the EcoSystem. This means that we also ensure consistency for <strong>serico-hg Partner BOXXes</strong> (e.g. by BOSCH, Gedore and fischer) and an <strong>unhindered workflow</strong> in the working day. This allows machines and consumables to be trans&shy;ported simply in the WorkMo in the serico-hg BOXXes programme.</p></div>
+            Compatible with BOXXes </span>
+            <p style="text-align: left"> Work Mo is compatible with BOXXes from brands like Bosch, Gedore and Fischer. This is advantageous
+               as the tools and consumables can be transported and stored in convenience. 
+          
+          </p></div>
         </div>
     </div>
   </div>
@@ -161,8 +177,11 @@
               </div>
             <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-               Rapid load securing</span>
-            <p style="text-align: left">The ProSafe load securing system by serico-hg facilitates <strong>rapid and simple lashing of the WorkMo modules</strong> in the transporter or car. In addition, the special WorkMo Fix position stops permit even simpler handling for quick lashing and securing of the modules. This ensures <strong>safe transport of the WorkMo modules</strong>.</p></div>
+            Rapid Load Securing </span>
+            <p style="text-align: left"> The fastening of Work Mo modules inside a vehicle can be done easily using the ProSafe load
+               securing system from serico-hg. The modules can be secured to the special fixing points.
+            
+            </p></div>
         </div>
     </div>
   </div>
@@ -181,7 +200,7 @@
               </div>
             <div class="text text-arrow" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 223.6px;">
             <span class="item-headline">
-                WorkMo in your car</span>
+              The Work Mo Principle</span>
            <p style="text-align: left">The WorkMo modules are ideally suited as a transport solution for <strong>car boots</strong>, for field service staff, service technicians etc. The modules can be used to transport the materials <strong>stowed away safely and neatly. Flexible use</strong> of the car is further facilitated since the modules can be integrated and removed with just a few gestures.</p></div>
         </div>
     </div>

@@ -151,9 +151,14 @@
 
       <div class="col-md-12">
 
-        <h4>StoreToGo WorkMo. <br> The mobile workplace</h4>
+        <h4> Store To Go WorkMo <br>
+               The Mobile Workspace
+       </h4>
 
-        <p class="hed-one">The WorkMo can be <strong>assembled individually</strong> thanks to its <strong>modularity</strong> and can be used in any situation you can think of: as a <strong>mobile work bench</strong>, as a <strong>workshop trolley</strong>, as <strong>workshop shelves</strong>, as <strong>transport equipment</strong> and as a <strong>mobile workplace</strong>.</p>
+        <p class="hed-one"> The WorkMo is a modular system that can be individually assembled based on the work requirements. 
+          You can use them as a mobile work bench, workshop trolley, workshop shelves, transport equipment or even as a complete mobile workplace. 
+
+          </p>
 
       </div>
 
@@ -317,7 +322,11 @@
 
   <div class="text">
 
-      <p class="cet-text">The individual WorkMo modules can be combined flexibly to suit the application. Using comprehensive accessories, such as worktops, roller panels and perforated aluminium grids, the WorkMo can be extended at will to suit the application to create application-matched and transportable workplaces for the workshop and building site. The WorkMo is also made unique by its <strong>compatibility with the StoreToGo BOXXes</strong> programme. <strong>Various organisational solutions</strong> offer storage space for small parts and tools of all kinds. Diverse BOXX partnerships with suppliers of power and electric tools and mounting and fastening materials mean that full system compatibility is a given.<br><strong>Click, couple, everything fits together - you can’t get more productive!</strong></p></div>
+      <p class="cet-text"> The Work Mo modules are separate units that can be arranged based on the job requirement.
+         Whether it’s for a van, building site or workshop, they can be built accordingly. You can add different accessories
+          and use compatible StoreToGo BOXXes that helps to store small tools, electric tools and fastening materials in an organized way. 
+      </p>
+     </div>
 
   </div></div><div class="yCmsComponent sortimo-component-slot clearfix">
 
@@ -427,7 +436,7 @@
 
       <h2 class="component-headline ">
 
-        The WorkMo principle.
+      The Work Mo Principle
 
       </h2>
 
@@ -435,7 +444,7 @@
 
       <div class="component-headline subheadline">
 
-         Organising. Transporting. Working.
+      Organising. Transporting. Working.
 
       </div>
 
@@ -471,7 +480,7 @@
 
       <h2 class="component-headline ">
 
-         WorkMo for organised tool storage
+      Work Mo For Organized Tool Storage
 
       </h2>
 
@@ -479,8 +488,11 @@
 
 <div class="text">
 
-        <p>Tools and consumables are kept in exactly the right place in the <strong>drawers of the WorkMo modules</strong>. BOXXes and cases are integrated in the WorkMo using <strong>case pull-outs or full pull-outs</strong>. The full pull-outs have the benefit of letting you open the BOXXes and cases in the WorkMo to make the contents fully accessible. In addition, <strong>shelves</strong> provide extra storage space.</p>
+       <p> You can keep the tools and consumables well organized inside the Work Mo module drawers.
+         Additionally the BOXXes and Cases can be easily integrated in the WorkMo using the case pull-outs which helps
+          you open them and access the tools easily. The additional shelves provide extra storage to secure large tools and consumables.  
 
+       </p>
         </div>
 
     </div>
@@ -525,16 +537,17 @@
 
       <h2 class="component-headline ">
 
-        WorkMo as a mobile transport system
+      Work Mo As A Mobile Transport System
 
       </h2>
 
     
 
 <div class="text">
+<p> The built-in tie-down points on the vehicle floor makes it easier to secure Work Mo using the ProSafe Accessories.
+   By adding the Work Mo Fix positioning stop, you can keep the Work Mo in place even if the vehicle is moving or turning. This ensures that your tools are safe. 
 
-        <p><strong>Individual lashing eyes are recessed</strong> in the SoboPro floor, making <strong>lashing</strong> of the WorkMo in the vehicle with the special ProSafe accessories <strong>quick and uncomplicated</strong>. In addition, every floor can be retrofitted with the WorkMo Fix <strong>positioning stop</strong>. This <strong>saves time</strong> and <strong>secures</strong> tools and materials in transit.</p>
-
+</p>
         </div>
 
     </div>
@@ -577,7 +590,7 @@
 
       <h2 class="component-headline ">
 
-        WorkMo as a mobile workplace
+      Work Mo As A Mobile Workplace
 
       </h2>
 
@@ -585,8 +598,10 @@
 
 <div class="text">
 
-        <p>The WorkMo is turned into a <strong>mobile work bench</strong> with different <strong>worktops and <nobr>-tables</nobr></strong> on the modules and a roller plate as the support underneath. More accessories, such as shelves and distribution sockets facilitate <strong>fast access</strong> to additional tools and material. This means it can be used in the workshop or on the building site.</p>
+      <p> You can set up the WorkMo as a mobile work bench by adding worktops, tables and a roller plate.
+         You can also add accessories such as shelves and distribution sockets. This makes them a useful addition in buildings and workshops. 
 
+      </p>
         </div>
 
     </div>
@@ -613,41 +628,37 @@
 
        <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 
-<div class="sortimo-component wide-low text-picture-component wide-low-right" id="comp_000019J9">
+        <div class="sortimo-component wide-low text-picture-component wide-low-right workmo-ergo" id="comp_000019J9">
 
-  <div class="row" style="background-color: #eeeff1;">
+         <div class="row workmo-ergo-row" style="background-color: #eeeff1;">
 
-    <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 695px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
+         <div class="sortimo-blue-link text-container sortimo-dark-hover">
 
-      ">
-
-      <div class="arrow-container" style="background-color: #eeeff1;"></div>
-
-      
+        <div class="arrow-container" style="background-color: #eeeff1;"></div>
 
       <h2 class="component-headline ">
 
-        WorkMo as an ergonomic work bench or work station 
+      Work Mo As An Ergonomic Work Bench or Workstation
 
       </h2>
 
-    
-
-    
-
 <div class="text">
-
-        <p>The WorkMo modules are available in <strong>various different widths</strong> (526 mm, 789 mm, 1,052 mm) and <strong>heights</strong> (506 mm, 744 mm). This lets you adapt the WorkMo to each work situation. If you have <strong>heavy work</strong> to carry out, for example, we recommend using the WorkMo <strong>height 750</strong> (744 mm). If you have <strong>fine adjustment work</strong>, on the other hand, the <strong>ideal working height </strong>of one metre is achieved using <strong>two WorkMo 500 modules</strong> (each 506 mm) <strong>stacked one above the other</strong>.</p></div>
+ <p>Work Mo can be used as a workbench system. It comes in different widths and heights, which can be assembled to build a workstation that suits your job. The modules are available in the following dimensions:</p>
+   <ul>
+    <li><strong>Widths:</strong> 526 mm, 789 mm, or 1,052 mm</li>
+    <li><strong>Heights:</strong> 506 mm or 744 mm</li>
+   </ul>
+   <p>For heavy work we would recommend using the lower module about 744mm high, as the lower bench will give you more control. For fine and detailed work, a higher work surface around 1metre high will be ideal. You can get this by stacking two 506 mm modules on top of each other.</p>
+   <p>For heavy duty work, use a lower Work Mo set up.</p>
+    </div>
 
     </div>
 
-    <div class="image-container" style="width: 695px; height: 340px;
+    <div class="image-container" style="background-image: url('images/product/en-uk-workmo-arbeitshoehe-695x340.jpg');">
 
-        background-image: url('images/product/en-uk-workmo-arbeitshoehe-695x340.jpg');  float: right;">
+        <img src="images/product/en-uk-workmo-arbeitshoehe-695x340.jpg" alt="Work Mo ergonomic work heights">
 
-        <img src="images/product/en-uk-workmo-arbeitshoehe-695x340.jpg" style="visibility: hidden;">
-
-      </div>  
+      </div>
 
     </div>
 
@@ -673,7 +684,7 @@
 
    <h3 class="component-headline ">
 
-        Professional and flexible in your working day
+   Adaptable Work Solutions For Your Daily Tasks
 
       </h3>
 
@@ -746,164 +757,49 @@
 
 
      <div class="row ne-ttop">
+       <div class="col-md-12">
+         <div class="sortimo-component text-component big-header align-left workmo-copy">
 
-       <div class="yCmsComponent sortimo-component-slot clearfix">
+           <div class="text">
+             <h2 class="component-headline">Mobile Workbench For Your Car, Van and Workshop</h2>
+             <p>Work Mo combines mobile workbench, storage system and transport solution- all in one. It is designed to organize your tools, machines and materials in a way that ensures easier accessibility thereby helping you efficiently carry out the daily tasks.</p>
+             <p>Work Mo stands for Work Mobility. Just as the name suggests it can be used in diverse forms such as:</p>
+             <ul>
+               <li>A mobile workbench</li>
+               <li>A workshop trolley</li>
+               <li>A transport system</li>
+               <li>A storage system</li>
+               <li>Workshop equipment</li>
+             </ul>
+             <p>Whether it’s your workshop, van, car or your very worksite itself, Work Mo becomes your efficient partner in organizing the work accessories.</p>
+             <p>It is suitable for both professionals and DIY enthusiasts, who intend to create a tidy and well organized mobile workstation.</p>
+             <p>Additionally you can transform Work Mo into a practical folding bench to suit the on site requirements.</p>
 
-<div id="comp_00001Z1N" class="sortimo-component text-component big-header
+             <h3 class="component-headline subheadline">Portable Workbench With Organized Storage</h3>
+             <p>Since Work Mo is available in modules, you can combine them to form either a complete workstation or use them individually, depending on the task requirements. You can attach the roller trolley to the workstation and easily transport heavy tool boxes. The workstation can include the following accessories:</p>
+             <ul>
+               <li>Drawers</li>
+               <li>Dividers</li>
+               <li>Inset boxes</li>
+               <li>BOXXes and cases</li>
+               <li>Worktops</li>
+               <li>Tool trays</li>
+               <li>Side accessories</li>
+             </ul>
+             <p>With these you can neatly arrange even the smallest tools and parts. Because everything is well placed, you can carry out the tasks without any delay.</p>
 
-    align-left
+             <h3 class="component-headline subheadline">Useful For Professionals And DIY Users</h3>
+             <p>Work Mo can be used in both workshop and residential setups such as home garages. Compact and practical mobile workbench, you can add drawers, tool trays, storage boxes and several useful accessories and tailor it your work requirements. Additionally, the aluminum side panels can also hold extra accessories such as power supply, screw driver holder or hose holder.</p>
+             <p>Once the work is complete, you just need to simply roll the Work Mo back into your place. You can efficiently store your tools and keep them ready for the next task.</p>
+           </div>
 
-  
-
-">
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-
-      <h2 class="component-headline ">
-
-        
-
-        Mobile work bench for your car, van and workshop
-
-      </h2>
-
-    
-
-    
-
-    
-
-  
-
-<div class="text">
-
-      <p>Work wherever your work takes you – and do so at any time with StoreToGo mobile storage systems! The mobile workstation has been specifically developed to simplify everyday work. You’ll work more efficiently and always have your tools and materials organised and to hand with our <a >WorkMo</a> range of mobile transport, work and storage systems. The WorkMo can be used by professionals or DIY enthusiasts as a <strong>workshop trolley or mobile work bench, meeting all your organisational, mobility and ergonomic needs.</strong> It’s therefore the ideal ‘workmate’ in the workshop and the perfect equipment for anyone who works on different sites and needs to rely on an organised and com-prehensively equipped tool case.</p> <p>WorkMo stands for Work Mobility. Use the multifunctional system as <strong>workshop equipment, a transport system, workshop trolley or mobile work bench.</strong> Start your day in the workshop select-ing the modules you need for your day ahead and roll your mobile work bench out to your vehicle. Rapidly secured using our <a >ProSafe system</a>, you’ll reach your destination in comfort. Then take all the materials you need in an instant to site safely stored in the portable WorkMo modules – with-out needing to swap around your tools and machines. On site, your WorkMo unfolds into a practical folding work bench, enabling you to carry out any last-minute small adjustments on site.</p> <p>And should you be looking for a storage system for your workshop – then look no further than the flexible WorkMo. Modules in widths 3 and 4 are ideal for this, as they provide plenty of storage space in the form of useful drawers, although they also hold <a>BOXXes and cases</a>.&nbsp;Remove them whenever you need to and take them with you to site.</p></div>
-
-  </div></div>
-
+         </div>
+       </div>
      </div>
 
 
 
-     <div class="row ne-op">
-
-       <div class="yCmsComponent sortimo-component-slot clearfix">
-
-<div id="comp_00001Z1O" class="sortimo-component text-component big-header
-
-    align-left
-
-  
-
-">
-
-      <h3 class="component-headline subheadline">
-
-        
-
-        Have everything ready to hand with a portable work bench
-
-      </h3>
-
-    
-
-    
-
-    
-
-  
-
-<div class="text">
-
-      <p>Rely on StoreToGo combinable modules – <strong>your mobile workstation becomes your tidy “on-the-road workshop”.</strong> The WorkMo range is designed to let you combine the individual models to meet your precise needs and, thanks to the flexibility of the system, you can decide from job to job whether you need the entire workstation with you, or simply individual modules. And if the entire work-station is needed on site, the practical <a>Roller trolley on wheels</a> ensures that it can be conveniently transported, converting the WorkMo into a portable work bench. Dragging heavy tool boxes is now a thing of the past and conveniently you always have your complete kit on site with you.</p> <p>The <a>work table</a> extension and other <a>WorkMo accessories</a> transform the individual modules in an instant into a folding work bench on which you can make any last-minute adjustments to your ma-terials directly on site. Thanks to the individual modules with BOXXes, cases or drawers with divid-ers or inset boxes, you can now store even the smallest materials and tools tidily and well organ-ised in your mobile workstation, ensuring that you always have a clear idea about your portable stock. A further key benefit is the fact that nothing slips out of place in this well organised storage solution when you’re rushing to a job.</p></div>
-
-  </div></div>
-
-     </div>
-
-
-
-     <div class="row ne-op">
-
-       <div class="yCmsComponent sortimo-component-slot clearfix">
-
-<div id="comp_00001Z1P" class="sortimo-component text-component big-header
-
-    align-left
-
-  
-
-">
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-
-      <h3 class="component-headline subheadline">
-
-        
-
-        Portable work bench for professionals and DIY enthusiasts alike
-
-      </h3>
-
-    
-
-    
-
-    
-
-  
-
-<div class="text">
-
-      <p>The portable WorkMo workstation is ideal to use as a <strong>mobile work bench or as a workshop trolley.</strong> The 750 mm module configuration, complete with roller adapters and a worktop, converts into your handy ‘workmate’. Whether you’re working in your garage, on a hobby or in a professional workshop, the WorkMo guarantees a tidy and well organised workplace at all times. Configure the module to meet your requirements and equip it with drawers, with partitions in the form of dividers or inset boxes, or with <a >BOXXes and cases</a>.</p><p>The tool tray on the WorkMo lets you <strong>quickly place your tools and materials aside and immediately have them to hand again.</strong> The aluminium side panels of the WorkMo can also be equipped with various accessories, from a hose holder and power supply to a special holder for your screwdriver. And once you’ve completed your work, simply roll the WorkMo back into its storage position. Your tools and materials are tidied away in record time and ready and waiting for you the next time.</p></div>
-
-  </div></div>
-
-     </div>
-
-
-
-     <div class="row ne-ttop"></div>
+<div class="row ne-ttop"></div>
 
 
 
