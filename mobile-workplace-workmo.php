@@ -548,19 +548,13 @@
 
       <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 
-<div class="sortimo-component wide-low text-picture-component wide-low-right" id="comp_0000181R">
+<div class="sortimo-component wide-low text-picture-component wide-low-right workmo-storage" id="comp_0000181R">
 
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row workmo-storage-row">
 
-    <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 695px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
 
-      ">
-
-      <div class="arrow-container" style="background-color: #eeeff1;"></div>
-
-      
-
-    
+      <div class="arrow-container"></div>
 
       <h2 class="component-headline ">
 
@@ -568,25 +562,16 @@
 
       </h2>
 
-    
-
 <div class="text">
 
-      <p> You can set up the WorkMo as a mobile work bench by adding worktops, tables and a roller plate.
-         You can also add accessories such as shelves and distribution sockets. This makes them a useful addition in buildings and workshops. 
-
-      </p>
+      <p>The Work Mo is turned into a <strong>mobile work bench</strong> with different <strong>worktops and tables</strong> on the modules and a roller plate as the support underneath. More accessories, such as shelves and distribution sockets facilitate <strong>fast access</strong> to additional tools and material. This means it can be used in the workshop or on the building site.</p>
         </div>
 
     </div>
 
-    <div class="image-container" style="width: 695px; height: 340px;
+    <div class="image-container workmo-storage-graphic" style="background-image: url('images/product/workmo-arbeiten-695x340.jpg');"></div>
 
-        background-image: url('images/product/workmo-arbeiten-695x340.jpg');  float: right;">
-
-        <img src="images/product/workmo-arbeiten-695x340.jpg" style="visibility: hidden;">
-
-      </div>  
+    <div class="image-container workmo-storage-photo" style="background-image: url('images/product/workmo-arbeiten-695x340.jpg');"></div>
 
     </div>
 
