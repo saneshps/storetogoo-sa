@@ -774,28 +774,89 @@ This practical mobile storage unit can be adapted for different types of work.
 <!-- STRT -->
 <div class="row sty-wid1">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="cmsitem_00009007">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/sContainer-sr5-695x510.jpg');  float: left;">
-        <img src="images/product/sContainer-sr5-695x510.jpg" style="visibility: hidden;">
-      </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover hudbnjk" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+<div id="cmsitem_00009007">
+  <style>
+    #cmsitem_00009007 .scontainer-sr5-row {
+      display: flex;
+      background-color: #eeeff1;
+      align-items: stretch;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    #cmsitem_00009007 .scontainer-sr5-image {
+      flex: 0 0 50%;
+      min-height: 510px;
+      background-image: url('images/product/sContainer-sr5-695x510.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    #cmsitem_00009007 .scontainer-sr5-text {
+      position: relative;
+      flex: 0 0 50%;
+      min-height: 510px;
+      padding: 48px 46px;
+      box-sizing: border-box;
+      color: #546373;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    #cmsitem_00009007 .scontainer-sr5-text .arrow-container {
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      left: -20px;
+      top: calc(50% - 20px);
+      transform: rotate(45deg);
+      z-index: 2;
+    }
+    #cmsitem_00009007 .component-headline {
+      font-size: 24px;
+      margin-bottom: 18px;
+      line-height: 1.25;
+    }
+    #cmsitem_00009007 .text {
+      font-size: 16px;
+      line-height: 1.5;
+      text-align: left;
+    }
+    #cmsitem_00009007 .text p {
+      margin: 0;
+    }
+    @media (max-width: 1023px) {
+      #cmsitem_00009007 .scontainer-sr5-row {
+        flex-wrap: wrap;
+      }
+      #cmsitem_00009007 .scontainer-sr5-image,
+      #cmsitem_00009007 .scontainer-sr5-text {
+        flex: 0 0 100%;
+        min-height: auto;
+      }
+      #cmsitem_00009007 .scontainer-sr5-image {
+        height: 260px;
+      }
+      #cmsitem_00009007 .scontainer-sr5-text {
+        padding: 30px 24px;
+      }
+      #cmsitem_00009007 .scontainer-sr5-text .arrow-container {
+        display: none;
+      }
+    }
+  </style>
+  <div class="row scontainer-sr5-row">
+    <div class="image-container scontainer-sr5-image">
+      <img src="images/product/sContainer-sr5-695x510.jpg" style="visibility: hidden; width:100%; height:100%; object-fit:cover;">
+    </div>
+    <div class="text-container scontainer-sr5-text">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
       <div class="component-headline ">
-        
-      The Custom-Fit SR5 Shelving For Your sContainer
+        The Custom-Fit SR5 Shelving For Your sContainer
       </div>
-    
-    
-  
-<div class="text">
-       <p> The SR5 shelving system helps you to utilize the available space more efficiently. Request a consultation appointment and get the right SR5 shelf today.  </p>
+      <div class="text">
+        <p>The SR5 shelving system helps you to utilize the available space more efficiently. Request a consultation appointment and get the right SR5 shelf today.</p>
       </div>
     </div>
-    </div>
+  </div>
 </div></div>
 
 </div>
@@ -807,29 +868,89 @@ This practical mobile storage unit can be adapted for different types of work.
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-low text-picture-component wide-low-right" id="cmsitem_00009009">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover hudbnjk" style="width: 695px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+<div id="cmsitem_00009009">
+  <style>
+    #cmsitem_00009009 .scontainer-labels-row {
+      display: flex;
+      background-color: #eeeff1;
+      align-items: stretch;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    #cmsitem_00009009 .scontainer-labels-text {
+      position: relative;
+      flex: 0 0 50%;
+      min-height: 340px;
+      padding: 40px 46px;
+      box-sizing: border-box;
+      color: #546373;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    #cmsitem_00009009 .scontainer-labels-text .arrow-container {
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      right: -20px;
+      top: calc(50% - 20px);
+      transform: rotate(45deg);
+      z-index: 2;
+    }
+    #cmsitem_00009009 .component-headline {
+      font-size: 24px;
+      margin-bottom: 18px;
+      line-height: 1.25;
+    }
+    #cmsitem_00009009 .text {
+      font-size: 16px;
+      line-height: 1.5;
+      text-align: left;
+    }
+    #cmsitem_00009009 .text p {
+      margin: 0;
+    }
+    #cmsitem_00009009 .scontainer-labels-image {
+      flex: 0 0 50%;
+      min-height: 340px;
+      background-image: url('images/product/sContainer-beschriftungsetiketten-695x340.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    @media (max-width: 1023px) {
+      #cmsitem_00009009 .scontainer-labels-row {
+        flex-wrap: wrap;
+      }
+      #cmsitem_00009009 .scontainer-labels-text,
+      #cmsitem_00009009 .scontainer-labels-image {
+        flex: 0 0 100%;
+        min-height: auto;
+      }
+      #cmsitem_00009009 .scontainer-labels-image {
+        height: 240px;
+      }
+      #cmsitem_00009009 .scontainer-labels-text {
+        padding: 28px 24px;
+      }
+      #cmsitem_00009009 .scontainer-labels-text .arrow-container {
+        display: none;
+      }
+    }
+  </style>
+  <div class="row scontainer-labels-row">
+    <div class="text-container scontainer-labels-text">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-    
       <div class="component-headline ">
-        
-      Add Labels To Enhance Organization
+        Add Labels To Enhance Organization
       </div>
-    
-    
-  
-<div class="text">
-       <p> You can organize your workplace even more efficiently by adding suitable StoreToGo labels.  </p>
-        </div>
+      <div class="text">
+        <p>You can organize your workplace even more efficiently by adding suitable StoreToGo labels.</p>
+      </div>
     </div>
-    <div class="image-container" style="width: 695px; height: 340px;
-        background-image: url('images/product/sContainer-beschriftungsetiketten-695x340.jpg');  float: right;">
-        <img src="images/product/sContainer-beschriftungsetiketten-695x340.jpg" style="visibility: hidden;">
-      </div>  
+    <div class="image-container scontainer-labels-image">
+      <img src="images/product/sContainer-beschriftungsetiketten-695x340.jpg" style="visibility: hidden; width:100%; height:100%; object-fit:cover;">
     </div>
+  </div>
 </div></div>
 
 </div>
