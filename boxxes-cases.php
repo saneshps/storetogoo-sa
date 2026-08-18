@@ -102,7 +102,7 @@
 <!-- STRT -->
 <div class="row sty-wid1">
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component tile-component nex-t sdgdsf" id="">
+<div class="sortimo-component tile-component nex-t sdgdsf boxxes-tiles" id="">
   <div class="low single-tile wide" style="background-image: url('images/product/boxxen-koffer-kacheln-l-boxx-g-690x340.jpg'); ">
       <div class="sortimo-animate sortimo-tile-from-bottom" style="display: block;">
           <div class="text">
@@ -398,20 +398,13 @@
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-righ " id="comp_000019J4">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover DSGq-gf" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-right" id="comp_000019J4">
+  <div class="row boxxes-split-row">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
       <h5 class="component-headline ">
-        
       SR-BOXX 
       </h5>
-    
-    
-    
-  
 <div class="text">
          <p> With the SR-BOXXes you can make better use of the spaces in your van. By fitting them above or below a shelf,
            you can store more items without taking up much space.  
@@ -422,7 +415,7 @@
            having to remove the entire box from the shelf. 
 
          </p>
-         <p>  <strong> The key benefits of L-BOXXes include: </strong></p>
+         <p>  <strong> The key benefits of SR-BOXXes include: </strong></p>
          <ul>
           <li>  Fits above or below the shelves </li>
           <li>  Are lightweight and durable </li>
@@ -431,9 +424,8 @@
          </ul>
       </div>
     </div>
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/boxxen-koffer-sr-boxx-695x510.jpg');  float: right;">
-        <img src="images/product/boxxen-koffer-sr-boxx-695x510.jpg" style="visibility: hidden;">
+    <div class="image-container" style="background-image: url('images/product/boxxen-koffer-sr-boxx-695x510.jpg');">
+        <img src="images/product/boxxen-koffer-sr-boxx-695x510.jpg" alt="SR-BOXX">
       </div>  
     </div>
 </div></div>
@@ -444,25 +436,16 @@
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_0000180L">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/boxxen-koffer-t-boxx-695x510.jpg');  float: left;">
-        <img src="images/product/boxxen-koffer-t-boxx-695x510.jpg" style="visibility: hidden;">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-left" id="comp_0000180L">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/product/boxxen-koffer-t-boxx-695x510.jpg');">
+        <img src="images/product/boxxen-koffer-t-boxx-695x510.jpg" alt="T-BOXX G">
       </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover DSGq-gf" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-    
       <h5 class="component-headline ">
-        
         T-BOXX G
       </h5>
-    
-    
-    
-  
 <div class="text">
        <p> You can keep the screws, fittings and other small accessories well organized inside the T-BOXX G. It comes with a transparent
          lid that helps you to quickly see what’s inside the box without needing to open them. It also has internal compartments that
@@ -482,18 +465,13 @@
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-right" id="comp_0000180M">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover DSGq-gf" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-right" id="comp_0000180M">
+  <div class="row boxxes-split-row">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-    
       <h5 class="component-headline ">
-        
         Metal Case
       </h5>
-    
 <div class="text">
        <p> StoreToGo offers strong metal cases for the secure storing of tools, equipment and other accessories.
          You can customize its interiors with dividers, inserts or even inset boxes. The case can be handled with one hand.
@@ -503,9 +481,8 @@
        </p>
       </div>
     </div>
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/boxxen-koffer-metallkoffer-695x510.jpg');  float: right;">
-        <img src="images/product/boxxen-koffer-metallkoffer-695x510.jpg" style="visibility: hidden;">
+    <div class="image-container" style="background-image: url('images/product/boxxen-koffer-metallkoffer-695x510.jpg');">
+        <img src="images/product/boxxen-koffer-metallkoffer-695x510.jpg" alt="Metal Case">
       </div>  
     </div>
 </div></div>
@@ -517,22 +494,16 @@
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_0000180Q">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/boxxen-koffer-i-boxx-72-g-695x510.jpg');  float: left;">
-        <img src="images/product/boxxen-koffer-i-boxx-72-g-695x510.jpg" style="visibility: hidden;">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-left" id="comp_0000180Q">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/product/boxxen-koffer-i-boxx-72-g-695x510.jpg');">
+        <img src="images/product/boxxen-koffer-i-boxx-72-g-695x510.jpg" alt="i-BOXX 72 G">
       </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover DSGq-gf" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-    
       <h5 class="component-headline ">
-        
         i-BOXX 72 G
       </h5>
-    
 <div class="text">
        <p> i-BOXX 72 G is a compact storage for small parts. It is lightweight and an ideal choice for organizing screws,
          fixings and other small parts. You can check contents instantly and easily find the materials during use.
@@ -551,19 +522,13 @@
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-right" id="comp_0000180N">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover DSGq-gf" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-right" id="comp_0000180N">
+  <div class="row boxxes-split-row">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-       
-    
       <h5 class="component-headline ">
-        
         Inset boxes
       </h5>
-    
-  
 <div class="text">
        <p> You can keep small parts and tools organized inside the inset boxes. They are removable,
          available in different heights and can be used inside StoreToGo cases, drawers, BOXXes and other van racking systems. 
@@ -575,9 +540,8 @@
        </p>
       </div>
     </div>
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/boxxen-koffer-insetboxen-695x510.jpg');  float: right;">
-        <img src="images/product/boxxen-koffer-insetboxen-695x510.jpg" style="visibility: hidden;">
+    <div class="image-container" style="background-image: url('images/product/boxxen-koffer-insetboxen-695x510.jpg');">
+        <img src="images/product/boxxen-koffer-insetboxen-695x510.jpg" alt="Inset boxes">
       </div>  
     </div>
 </div></div>
@@ -589,25 +553,16 @@
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_0000180S">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/boxxen-koffer-e-boxx-695x510.jpg');  float: left;">
-        <img src="images/product/boxxen-koffer-e-boxx-695x510.jpg" style="visibility: hidden;">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-left" id="comp_0000180S">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/product/boxxen-koffer-e-boxx-695x510.jpg');">
+        <img src="images/product/boxxen-koffer-e-boxx-695x510.jpg" alt="E-BOXX">
       </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover DSGq-gf" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-    
       <h5 class="component-headline ">
-        
         E-BOXX
       </h5>
-    
-    
-    
-  
 <div class="text">
         <p> A practical storage box for vans, they are made from sturdy plastic and help in the efficient storage of
            tools and other daily supplies. You can also use it as a standalone box or even secure it inside your van
@@ -650,18 +605,13 @@
 <!-- STRT -->
 <div class="row sty-wid1">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_0000180F">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container" style="width: 695px; height: 510px;
-        background-image: url('images/product/boxxen-koffer-multipack-695x510.jpg');  float: left;">
-        <img src="images/product/boxxen-koffer-multipack-695x510.jpg" style="visibility: hidden;">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-left" id="comp_0000180F">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/product/boxxen-koffer-multipack-695x510.jpg');">
+        <img src="images/product/boxxen-koffer-multipack-695x510.jpg" alt="MultiPack Backpack">
       </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover DSGq-gf" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-
-
 <div class="text">
         <p>StoreToGo has developed a tool backpack, which is ideal for service providers working in urban areas, which significantly simplifies the transport of auxiliary and operating equipment up staircases. The MultiPack is the mobile enhancement to the StoreToGo BOXX system as the contents of an i-BOXX G and an L-BOXX G4 can be quickly and easily transported on your back, while your hands stay free for other tasks.</p>
         </div>
