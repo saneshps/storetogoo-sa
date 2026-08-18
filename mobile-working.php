@@ -77,11 +77,11 @@
 ">
 <h1 class="component-headline ">
         
-       Mobile working made easy!
+Mobile Working Is Now Easier
       </h1>
     
 <div class="text">
-      <p style="text-align: center;">Maximum flexibility in day-to-day work with mobile “helpers” from StoreToGo.</p></div>
+      <p style="text-align: center;"> Mobile working made flexible with StoreToGo accessories </p></div>
   </div></div>
 </div>
 
@@ -144,12 +144,17 @@
     
       <h2 class="component-headline ">
         
-        sContainer – the customisable service depot
+      sContainer- Customizable Service Depot
       </h2>
     
 <div class="text">
-        <p>As a service depot in pallet format, the sContainer serves as a flexible companion for service technicians, tradespeople and construction workers. Thanks to the option of fitting it with the SR5 racking system, the sContainer is not only a mobile depot, but also an organisational system at any construction site or any service job – with just a minimal footprint.</p>
-        </div>
+        <p> The sContainer service depot is a portable storage and transport platform that is designed to aid
+           field professionals such as service technicians, tradespeople and construction workers.
+            It can be fitted with the SR5 racking system and is not only a mobile depot,
+             but also an organizational system at construction sites.
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -168,13 +173,17 @@
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
        <h2 class="component-headline ">
         
-        WorkMo – the mobile workplace
+       WorkMo- The mobile workspace
       </h2>
     
   
 <div class="text">
-        <p>As a modular system, the WorkMo can be assembled individually and used in any situation you can think of; as a mobile work bench, a workshop trolley, workshop shelves, transport equipment or a mobile workplace.</p><p>The modules, with their different widths and heights mean that the WorkMo can be assembled to suit individual requirements and can be adapted at any time.</p>
-        </div>
+       <p> WorkMo can be assembled individually and can be used in different ways, for instance, as a mobile work bench,
+         a workshop trolley, workshop shelves, transport equipment or as a mobile workspace.  
+
+       </p>
+       <p> These modules come in different heights and width which makes it easier to assemble them to suit individual requirements. </p>
+      </div>
     </div>
     <div class="image-container" style="width: 695px; height: 510px;
         background-image: url('images/product/mobiles-arbeiten-workmo-695x510.jpg');  float: right;">
@@ -203,12 +212,16 @@
       
       <h2 class="component-headline ">
         
-        Case and BOXXes – convenient organisational aids
+      Case and BOXXes- The Perfect Organizational Aids
       </h2>
     
 <div class="text">
-        <p>The practical organisational systems, such as cases and BOXXes, make mobile working efficient and clearly arranged and with their push-in and carry function they are versatile multitaskers. The WorkMo and sContainer are compatible with the StoreToGo cases and BOXXes so together they create more order and clearer arrangement at the workplace.</p>
-        </div>
+       <p> Enhance the efficiency of your mobile workspace with practical organisational systems such as the cases and BOXXes.
+         Their push-in and carry function makes them versatile multitaskers. Both the WorkMo and sContainers 
+         are compatible with the StoreToGo cases and BOXXes, thereby creating a well arranged workspace.  
+
+       </p>
+      </div>
     </div>
     </div>
 </div></div>
