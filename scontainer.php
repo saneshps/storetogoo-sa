@@ -664,13 +664,76 @@ This practical mobile storage unit can be adapted for different types of work.
 <div class="row sty-wid1">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div id="cmsitem_00009004">
-  <div class="row" style="display:flex; background-color:#eeeff1; align-items:stretch; margin-left:0; margin-right:0;">
-    <div class="image-container" style="flex:0 0 50%; height:340px; background-image:url('images/product/sContainer-kacheln-2-groessen-690x340.jpg'); background-size:cover; background-position:center;">
+  <style>
+    #cmsitem_00009004 .scontainer-heights-row {
+      display: flex;
+      background-color: #eeeff1;
+      align-items: stretch;
+      margin-left: 0;
+      margin-right: 0;
+    }
+    #cmsitem_00009004 .scontainer-heights-image {
+      flex: 0 0 50%;
+      height: 340px;
+      background-image: url('images/product/sContainer-kacheln-2-groessen-690x340.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+    #cmsitem_00009004 .scontainer-heights-text {
+      position: relative;
+      flex: 0 0 50%;
+      min-height: 340px;
+      padding: 40px 46px;
+      box-sizing: border-box;
+      color: #546373;
+      display: flex;
+      align-items: center;
+    }
+    #cmsitem_00009004 .scontainer-heights-text .arrow-container {
+      position: absolute;
+      width: 40px;
+      height: 40px;
+      left: -20px;
+      top: calc(50% - 20px);
+      transform: rotate(45deg);
+      z-index: 2;
+    }
+    #cmsitem_00009004 .text {
+      font-size: 16px;
+      line-height: 1.5;
+      text-align: left;
+    }
+    #cmsitem_00009004 .text p {
+      margin: 0;
+    }
+    @media (max-width: 1023px) {
+      #cmsitem_00009004 .scontainer-heights-row {
+        flex-wrap: wrap;
+      }
+      #cmsitem_00009004 .scontainer-heights-image,
+      #cmsitem_00009004 .scontainer-heights-text {
+        flex: 0 0 100%;
+        min-height: auto;
+      }
+      #cmsitem_00009004 .scontainer-heights-image {
+        height: 240px;
+      }
+      #cmsitem_00009004 .scontainer-heights-text {
+        padding: 28px 24px;
+      }
+      #cmsitem_00009004 .scontainer-heights-text .arrow-container {
+        display: none;
+      }
+    }
+  </style>
+  <div class="row scontainer-heights-row">
+    <div class="image-container scontainer-heights-image">
       <img src="images/product/sContainer-kacheln-2-groessen-690x340.jpg" style="visibility: hidden; width:100%; height:100%; object-fit: cover;">
     </div>
 
-    <div class="text-container" style="flex:0 0 50%; min-height:340px; padding:40px 46px; box-sizing:border-box; color:#546373;">
-      <div class="text" style="font-size:16px; line-height:1.5; text-align:left;">
+    <div class="text-container scontainer-heights-text">
+      <div class="arrow-container" style="background-color: #eeeff1;"></div>
+      <div class="text">
         <p>
           The sContainer is available in <strong>two heights, 1.20 m and 1.90 m</strong>, with the base dimensions of the two remaining the same and are designed to match the size of a Euro <strong>pallet</strong>.
         </p>
