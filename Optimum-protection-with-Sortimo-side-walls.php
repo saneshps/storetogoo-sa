@@ -42,6 +42,119 @@
   <link rel="stylesheet" href="css/product.css" >
 <!--***************************************-->
 
+<style>
+  .stg-wall-cards {
+    max-width: 1160px;
+    margin: 0 auto;
+    padding: 0 10px;
+  }
+
+  .stg-wall-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+  }
+
+  .stg-wall-card-image {
+    width: 100%;
+    height: 255px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .stg-wall-card-text {
+    position: relative;
+    background: #fff;
+    color: #546373;
+    padding: 26px 24px 22px;
+    min-height: 380px;
+  }
+
+  .stg-wall-card-text::before {
+    content: "";
+    position: absolute;
+    top: -18px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 18px solid transparent;
+    border-right: 18px solid transparent;
+    border-bottom: 18px solid #fff;
+  }
+
+  .stg-wall-card-text .item-headline {
+    display: block;
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.1;
+    margin-bottom: 16px;
+  }
+
+  .stg-wall-card-text p {
+    margin: 0;
+    font-size: 22px;
+    line-height: 1.45;
+  }
+
+  @media only screen and (max-width: 1199px) {
+    .stg-wall-card-text {
+      min-height: 420px;
+    }
+
+    .stg-wall-card-text .item-headline {
+      font-size: 30px;
+    }
+
+    .stg-wall-card-text p {
+      font-size: 20px;
+    }
+  }
+
+  @media only screen and (max-width: 991px) {
+    .stg-wall-cards-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .stg-wall-card-image {
+      height: 235px;
+    }
+
+    .stg-wall-card-text {
+      min-height: 360px;
+    }
+  }
+
+  @media only screen and (max-width: 767px) {
+    .stg-wall-cards {
+      padding: 0;
+    }
+
+    .stg-wall-cards-grid {
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+
+    .stg-wall-card-image {
+      height: 230px;
+    }
+
+    .stg-wall-card-text {
+      min-height: auto;
+      padding: 22px 18px 20px;
+    }
+
+    .stg-wall-card-text .item-headline {
+      font-size: 28px;
+      margin-bottom: 12px;
+    }
+
+    .stg-wall-card-text p {
+      font-size: 20px;
+    }
+  }
+</style>
+
 
 
 
@@ -143,65 +256,30 @@
   <div class="yCmsComponent sortimo-component-slot clearfix">
 <div class="sortimo-component carousel-component comp_00001AGK bg-dw bckzxvjn" id="comp_00001AGK">
   <input type="hidden" value="comp_00001AGK" class="component-id">
-  <div class="wrapper mldm">
-    <div class="carousel-container js-owl-carousel js-owl-carousel-component owl-carousel owl-theme" style="opacity: 1; display: block;">
-      <div class="owl-wrapper-outer"><div class="owl-wrapper dfghjk" style="width: 2160px; left: 0px; display: block;"><div class="owl-item njdjn" style="width: 360px;"><div class="sortimo-dark-hover carousel-item sortimo-blue-link mnmf">
-          <div class="image">
-            <img src="images/product/wandverkleidung-carousel-sowaflex.jpg" class="carousel-image csad
-              
-              ">
-            </div>
-          <div class="arrow-container">
-                <div class="carousel-arrow">
-                </div>
-              </div>
-              <div class="text text-arrow njns" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 477.2px;">
-            <span class="item-headline">
-                SowaFlex</span>
-           <p> StoreToGo offers SowaFlex wall cladding which acts as a protective lining inside the walls of the vehicle. Made from a light-weight
-             honeycomb material it effectively protects the load area. As it only weighs 60% less than normal wooden wall cladding, 
-             it adds to the light weight. Moreover it can be easily installed as you can attach it to the fixing points that’s already in the vehicle. 
-
-           </p>
-          </div></div><div class="owl-item njdjn" style="width: 360px;"><div class="sortimo-dark-hover carousel-item sortimo-blue-link mnmf">
-          <div class="image">
-            <img src="images/product/wandverkleidung-carousel-sowaapp.jpg" class="carousel-image csad
-              
-              ">
-            </div>
-          <div class="arrow-container">
-                <div class="carousel-arrow">
-                </div>
-              </div>
-              <div class="text text-arrow njns" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 477.2px;">
-            <span class="item-headline">
-                SowaApp</span>
-            <p> The SnowApp wall cladding helps to keep the loads organized as well as protects the vehicle body from scratch and damage.
-               The wall panel has patterns of slots where you can attach accessories such as hooks and holders. Made from 1mm thick aluminium, 
-               it is a thin, but durable metal panel, resistant to moisture and chemicals.  
-
-            </p>
-          </div></div><div class="owl-item njdjn" style="width: 360px;"><div class="sortimo-dark-hover carousel-item sortimo-blue-link mnmf">
-          <div class="image">
-            <img src="images/product/wandverkleidung-carousel-dachhimmel.jpg" class="carousel-image csad
-              
-              ">
-            </div>
-          <div class="arrow-container">
-                <div class="carousel-arrow">
-                </div>
-              </div>
-              <div class="text text-arrow njns" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 477.2px;">
-            <span class="item-headline">
-                Roof liner</span>
-           <p> You can also add a roofliner inside the roof of the van to extra protection, especially when operators are working inside the vehicle,
-             or moving tools around. Our roofliner is made from honeycomb material as the SowaFlex wall panel.  
-
-           </p>
-          </div></div></div></div>
-        
-        
-        <div class="owl-controls clickable" style="display: none;"><div class="owl-buttons"><div class="owl-prev"><span class="leftNavigation"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="52px" viewBox="0 0 17 36" style="enable-background:new 0 0 17 36;" xml:space="preserve"><style type="text/css">.st0{fill:#7D8D9D;}</style><path id="pfeil_Kopie" class="st0" d="M4.3,0.3l-3.8,3L11,17.8l-10.5,15l3.7,2.9l12.3-17.9L4.3,0.3z"></path></svg></span></div><div class="owl-next"><span class="rightNavigation"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="52px" viewBox="0 0 17 36" style="enable-background:new 0 0 17 36;" xml:space="preserve"><style type="text/css">.st0{fill:#7D8D9D;}</style><path id="pfeil_Kopie" class="st0" d="M4.3,0.3l-3.8,3L11,17.8l-10.5,15l3.7,2.9l12.3-17.9L4.3,0.3z"></path></svg></span></div></div></div></div>
+  <div class="wrapper mldm stg-wall-cards">
+    <div class="stg-wall-cards-grid">
+      <div class="stg-wall-card">
+        <img src="images/product/wandverkleidung-carousel-sowaflex.jpg" alt="SowaFlex wall cladding" class="stg-wall-card-image">
+        <div class="stg-wall-card-text">
+          <span class="item-headline">SowaFlex</span>
+          <p>The SowaFlex wall cladding, made from lightweight honeycomb material, protects the load area of the vehicle and weighs 60% less than comparable wood cladding. The impact-resistant, scratch-resistant surface protects the body from damage and can be installed quickly on existing fixing points.</p>
+        </div>
+      </div>
+      <div class="stg-wall-card">
+        <img src="images/product/wandverkleidung-carousel-sowaapp.jpg" alt="SowaApp wall cladding" class="stg-wall-card-image">
+        <div class="stg-wall-card-text">
+          <span class="item-headline">SowaApp</span>
+          <p>The SowaApp wall cladding protects the vehicle body from damage and helps keep tools organized. Its perforated system allows hooks and holders to be attached directly to the panel. Made from 1 mm aluminum, it stays lightweight while resisting moisture and chemical exposure.</p>
+        </div>
+      </div>
+      <div class="stg-wall-card">
+        <img src="images/product/wandverkleidung-carousel-dachhimmel.jpg" alt="Roof liner panel" class="stg-wall-card-image">
+        <div class="stg-wall-card-text">
+          <span class="item-headline">Roof liner</span>
+          <p>For extra interior protection, the roof liner can be retrofitted to each roof rail with a fixing rail for restraint poles. The light and recyclable honeycomb material matches the SowaFlex wall panel and protects the roof area while still keeping working space practical.</p>
+        </div>
+      </div>
+    </div>
   </div>
   </div>
 </div>
