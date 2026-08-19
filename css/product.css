@@ -1633,6 +1633,75 @@ justify-content: center;
   }
 }
 
+@media (min-width: 1024px) and (max-width: 1399px) {
+  .tile-component.workplace-hero-tiles {
+    flex-wrap: nowrap;
+    justify-content: center;
+  }
+
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile {
+    float: none !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+  }
+
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.OADFHAWSDFNC,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.erftg,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small.SDFFGVSDZXCV {
+    width: calc(25% - 10px) !important;
+    padding-top: calc(25% - 10px) !important;
+  }
+
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide.lthuy,
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide.SDFFGVSDZXCV {
+    width: calc(50% - 10px) !important;
+    padding-top: calc(25% - 10px) !important;
+  }
+
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile .component-headline {
+    font-size: 22px;
+  }
+
+  .sortimo-component.tile-component.workplace-hero-tiles .single-tile .tile-text {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+
+  .sortimo-component.text-picture-component.boxxes-split {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100%;
+  }
+
+  .boxxes-split .boxxes-split-row {
+    flex-wrap: nowrap;
+  }
+
+  .boxxes-split .text-container,
+  .boxxes-split .image-container,
+  .boxxes-split .image-container img {
+    min-height: 380px !important;
+  }
+
+  .boxxes-split .text-container {
+    padding: 28px 24px;
+  }
+
+  .boxxes-split.boxxes-split-sm .text-container,
+  .boxxes-split.boxxes-split-sm .image-container,
+  .boxxes-split.boxxes-split-sm .image-container img {
+    min-height: 280px !important;
+  }
+
+  .workplace-square-row > .yCmsComponent {
+    flex: 0 0 50%;
+    max-width: 50%;
+    width: 50%;
+  }
+}
+
 .styd {
   width: 92%;
   margin: auto;
@@ -4919,13 +4988,13 @@ justify-content: center;
     width: 100% !important
   }
 
-  .sortimo-component.tile-component .single-tile.small.OADFHAWSDFNC {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.small.OADFHAWSDFNC {
     width: calc(100% - 10px);
   }
 
 
 
-  .sortimo-component.tile-component .single-tile.low.SDFFGVSDZXCV {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.low.SDFFGVSDZXCV {
     padding-top: 30%;
   }
 
@@ -5207,13 +5276,13 @@ justify-content: center;
     width: 100% !important
   }
 
-  .sortimo-component.tile-component .single-tile.small.OADFHAWSDFNC {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.small.OADFHAWSDFNC {
     width: calc(100% - 10px);
   }
 
 
 
-  .sortimo-component.tile-component .single-tile.low.SDFFGVSDZXCV {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.low.SDFFGVSDZXCV {
     padding-top: 30%;
   }
 
@@ -5550,13 +5619,13 @@ justify-content: center;
     width: 100% !important
   }
 
-  .sortimo-component.tile-component .single-tile.small.OADFHAWSDFNC {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.small.OADFHAWSDFNC {
     width: calc(100% - 10px);
   }
 
 
 
-  .sortimo-component.tile-component .single-tile.low.SDFFGVSDZXCV {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.low.SDFFGVSDZXCV {
     padding-top: 30%;
   }
 
@@ -5873,13 +5942,13 @@ justify-content: center;
 
 
 
-  .sortimo-component.tile-component .single-tile.small.OADFHAWSDFNC {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.small.OADFHAWSDFNC {
     width: calc(100% - 10px);
   }
 
 
 
-  .sortimo-component.tile-component .single-tile.low.SDFFGVSDZXCV {
+  .sortimo-component.tile-component:not(.workplace-hero-tiles):not(.workplace-inlay-tiles) .single-tile.low.SDFFGVSDZXCV {
     padding-top: 30%;
   }
 

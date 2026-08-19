@@ -63604,6 +63604,8 @@ ul.order-details-entries.sortimo-item-list-header li.sortimo-item-info {
   .sortimo-component.text-picture-component .text-container {
 
     width: 100% !important;
+    min-height: auto !important;
+    padding: 40px 20px !important;
 
   }
 
