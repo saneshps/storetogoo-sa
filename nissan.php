@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>
@@ -82,14 +82,16 @@
       
     
       <h1 class="component-headline ">
-        
-        Nissan and StoreToGo.<br>More together!
+      StoreToGo and Nissan- Moving Together
       </h1>
     
   
 <div class="text">
-        <p>As a partner of Nissan, StoreToGo opens new dimensions <strong>for</strong> <strong>craftsmen and service providers</strong>. With a StoreToGo vehicle set-up, the Nissan van only becomes a perfectly organized workshop that enables <strong>professional work in everyday working life and saves a lot of time</strong>.</p></div>
-    </div>
+        <p> Turn your Nissan van into a perfectly organized mobile workshop with StoreToGo van racking solutions.
+           Our smart storage solutions are designed specifically for service providers and technicians, making their day to day tasks easier.  
+
+        </p>
+      </div>
     </div>
 </div></div>
 
@@ -108,14 +110,26 @@
 ">
    <div class="component-headline ">
         
-        Efficient in everyday working!
+   Efficient For Daily Tasks
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a<strong> partner of the automotive industry</strong>, StoreToGo opens new horizons for <strong>cr</strong><strong>aftsmen and service providers</strong>. With the StoreToGo fittings, Nissan's utility vehicle is transformed into a <strong>perfectly organized workshop</strong> that <strong>allows for a professional day-to-day job and is a great time saver</strong>.</p> <p style="text-align: center;">We meet individual needs as a partner of Nissan. With the Online Configurator StoreToGo configuration lets you <strong>create 100% customised load area concepts for every&nbsp;Nissan</strong> make <strong>o</strong><strong>nline</strong>, <strong>quickly and easily </strong>order it <strong>online</strong> and have it installed in StoreToGo nationwide installation network.</p> </div>
-  </div></div>
+      <p style="text-align: center;">
+      Being the trusted partner of the automotive industry, StoreToGo is dedicated to provide premium van racking solutions.
+       You can transform your Nissan utility vehicle into a well organized mobile workshop, bringing order to your work days,
+        helping you to effectively tackle the tasks. 
+
+              </p>
+              <p> As a Nissan partner, we also offer customized solutions, wherein you can design your own storage area concept, using StoreToGo online configurator.
+                 Once you design the fully customized concept area for your desired Nissan model, you can place the order
+                  and have them installed through StoreToGo’s nationwide installation network. 
+
+              </p>
+             </div>
+ 
+    </div></div>
 
 </div>
 <!-- END -->
