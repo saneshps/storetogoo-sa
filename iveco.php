@@ -82,13 +82,18 @@
     
       <h1 class="component-headline ">
         
-        Iveco and StoreToGo. <br> Uniform Solutions! 
+      Iveco And StoreToGo- The Perfect Partnership In Van Racking
       </h1>
     
   
 <div class="text">
-        <p>As a <strong>partner of Iveco</strong>, StoreToGo opens up <strong>intelligent loading space concepts</strong> for those who have a lot to transport. With a StoreToGo vehicle set-up,<strong> Iveco's van becomes a perfect logistics solution</strong> or mobile workshop that makes everyday work easier and saves a lot of time.</p></div>
-    </div>
+        <p> StoreToGo now partners with Iveco, providing intelligent loading space concepts for businesses that require the 
+          perfect mobile workspace. With StoreToGo’s efficient van racking set up, you can transform Iveco’s van into an organized
+           and reliable mobile workshop that helps service technicians, contractors and salespersons,
+            to make the day-to-day tasks easier and hassle-free. 
+
+        </p>
+      </div>
     </div>
 </div></div>
 
@@ -105,15 +110,22 @@
 <div id="comp_00001AKJ" class="sortimo-component text-component big-header
 ">  
       <div class="component-headline ">
-        
-        Efficient in everyday working, quick to procure, attractively priced!
+      Efficient For Daily Tasks, Easy To Order, Fairly Priced
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a <strong>Partner of Iveco</strong>, we very specifically simplify the procurement channels by offering joint solutions <strong>delivered directly from the Iveco factory</strong> – at attractive prices. Simply ask your Iveco salesperson.</p> <p style="text-align: center;">We also meet your very individual requirements. The online configurator <strong>StoreToGo configuration</strong> lets you create <strong>100% customised load area concepts for the Iveco Daily make online</strong>, quickly and easily order it online and have it installed in StoreToGo nationwide installation network.</p>  <p class="MsoNormal" style="text-align: center;"><span style="font-family:&quot;Arial Narrow&quot;,sans-serif" lang="EN-GB"> </span></p> </div>
-  </div></div>
+      <p style="text-align: center;"> StoreToGo works with Iveco, offering a practical and well-organized load-area storage solution for Iveco daily van. </p>
+      <p style="text-align: center;"> Customers can request for a combined solution through their Iveci sales person. This way you can get the van and the selected storage setup together,
+         delivered directly from Iveco’s factory, thus simplifying the procurement, at an attractive price. 
+
+      </p>
+      <p style="text-align: center;"> Moreover, the StoreToGo Online Configurator allows the customers to design their load-area layout which suits
+         their van model and work requirements, order it online and install through StoreToGo’s nationwide installation network. 
+
+      </p>
+    </div></div>
 </div>
 <!-- END -->
 
@@ -179,8 +191,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-        
-        Your individual route to the perfect racking solution for Fiat Professional vehicles
+      Perfect Van Racking Solution For Your Iveco Van
       </h2>
     
   
@@ -194,7 +205,7 @@
 <div id="comp_00001AKO" class="sortimo-component text-component small-header
 ">
  <h3 class="component-headline ">
-         Simply configure van racking online
+ Simply Configure Van Racking Online
       </h3>
   
 </div></div>
@@ -215,8 +226,11 @@
 
 
 <div class="text">
-        <p>With <strong>StoreToGo configuration</strong>, the StoreToGo online configurator, you can configure your own individual <strong>SR5 van racking</strong> in only <strong>a few steps</strong>, tailor-made for the Iveco Daily make online and also configure it for your specific industry.</p>
-        </div>
+       <p>  You can configure your load-area layout choosing the shelves, drawers, compartments and other storage areas that suit the interior
+         of your Iveco daily van. Creating a customized SR5 van racking layout that suits your van model and industrial requirements can now be done through simple steps.  
+
+       </p>
+      </div>
     </div>
     <div class="image-container vdssf" style="width: 695px; height: 340px;
         background-image: url('images/product/fahrzeughersteller-einrichtung-konfigurieren-695x340.jpg');  float: right;">
@@ -234,7 +248,7 @@
 <div id="comp_00001ADY" class="sortimo-component text-component small-header
 ">
    <h3 class="component-headline ">
-      Order StoreToGo directly ex-works from Iveco
+   Order Your StoreToGo Van Racking Directly Through Iveco
       </h3>
 </div></div>
 </div>
@@ -260,8 +274,12 @@
 
 
 <div class="text">
-        <p>One-stop supplier! StoreToGo van racking systems can be <strong>purchased and financed directly together with the transporter</strong>. The customer therefore receives his complete vehicle at a single point of contact, saving time, costs and unnecessary organisational processes. The factory solutions can be purchased from every Iveco dealership.</p>
-        </div>
+       <p> You can purchase an Iveco van and the StoreToGo van racking system together as a single, complete package. 
+        Through a single Iveco dealership, customers can order the vehicle and get the van racking system installed.
+         The cost of van racking is included in the agreement.  
+
+       </p>
+      </div>
     </div>
     </div>
 </div></div>
