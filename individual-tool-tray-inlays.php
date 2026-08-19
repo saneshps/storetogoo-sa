@@ -100,10 +100,11 @@
 
 
                 <div class="text">
-                  <p>The StoreToGo inlay online configurator enables individual tool tray inlays to be
-                    created to meet the most varied requirements&nbsp;<strong>– with a quantity of
-                      only 1 piece</strong>. You can therefore create the perfectly fitting foam
-                    inlay for tools in StoreToGo cases, BOXXes or drawers.</p>
+                  <p> With the StoreToGo inlay online configurator, you design your individual tool tray inlay that suits your needs.
+                     Even if you need just one piece, you can easily create it. 
+
+                  </p>
+                  <p> You can use those inlays in the StoreToGo cases, Boxxes and drawers and keep your tools organized and protected.  </p>
                 </div>
               </div>
             </div>
@@ -118,13 +119,13 @@
 ">
             <h2 class="component-headline ">
 
-              Improved Productivity. Better Profitability.
+            Improved Productivity
             </h2>
             <h2 class="component-headline subheadline">
 
-              StoreToGo inlay allows you to configure optimum tool tray inlays for your StoreToGo
-              products.
+            With StoreToGo inlays you can create the ideal tool tray that suits the StoreToGo products.
             </h2>
+            <p> This way you can assign a perfect space for each tool and spend less time searching for them, allowing you to work efficiently.  </p>
           </div>
         </div>
 
@@ -166,9 +167,13 @@
                   <div class="text">
                     <p></p>
                     <ul>
-                      <li>intuitive to use</li>
-                      <li>easy recording of your existing tools</li>
-                      <li>inlay management for reordering and editing your configurations</li>
+                      <li> Intuitive To Use </li>
+                      <li> Easily create your customized foam inlay with the online configurator in a few steps.  </li>
+                      <li> Easy Recording of Your Existing Tools 
+                      You can take photos of your tools and upload the images to the configurator. 
+                      </li>
+                      <li> Inlay Management for Reordering and Editing Your Configurations  </li>
+                      <li> You can save the inlay designs in the StoreToGo account and update the configurations or reorder an existing design whenever needed.  </li>
                     </ul>
                     <p></p>
                   </div>
@@ -201,11 +206,11 @@
                   <div class="text">
                     <p></p>
                     <ul>
-                      <li>protects your tools from damage</li>
-                      <li>provides a perfect overview</li>
-                      <li>tools always to hand</li>
-                      <li>prevents loss and costly repeat procurement</li>
-                      <li>improves your productivity&nbsp;</li>
+                      <li>  Protects your tools from damage </li> 
+                      <li>  Gives you a clear overview of your equipment </li> 
+                      <li>  Keeps the tools you need within easy reach </li> 
+                      <li>  Helps prevent tool loss and unnecessary replacement costs </li> 
+                      <li>  Improves your productivity </li> 
                     </ul>
                     <p></p>
                   </div>
@@ -245,9 +250,13 @@
                   <div class="text">
                     <p></p>
                     <ul>
-                      <li>intuitive to use</li>
-                      <li>easy recording of your existing tools</li>
-                      <li>inlay management for reordering and editing your configurations</li>
+                      <li> Intuitive To Use </li>
+                      <li> Easily create your customized foam inlay with the online configurator in a few steps.  </li>
+                      <li> Easy Recording of Your Existing Tools 
+                      You can take photos of your tools and upload the images to the configurator. 
+                      </li>
+                      <li> Inlay Management for Reordering and Editing Your Configurations  </li>
+                      <li> You can save the inlay designs in the StoreToGo account and update the configurations or reorder an existing design whenever needed.  </li>
                     </ul>
                     <p></p>
                   </div>
@@ -280,11 +289,11 @@
                   <div class="text">
                     <p></p>
                     <ul>
-                      <li>protects your tools from damage</li>
-                      <li>provides a perfect overview</li>
-                      <li>tools always to hand</li>
-                      <li>prevents loss and costly repeat procurement</li>
-                      <li>improves your productivity&nbsp;</li>
+                  <li>  Protects your tools from damage  </li>
+                  <li>  Gives you a clear overview of your equipment  </li>
+                  <li>  Keeps the tools you need within easy reach  </li>
+                  <li>  Helps prevent tool loss and unnecessary replacement costs  </li>
+                  <li>  Improves your productivity  </li> 
                     </ul>
                     <p></p>
                   </div>
@@ -321,11 +330,11 @@
 
                   <div class="text">
                     <ul>
-                      <li>online configuration</li>
-                      <li>tailored to your requirements</li>
-                      <li>complete price transparency</li>
-                      <li>24/7 availability</li>
-                      <li>order directly online</li>
+                     <li>  Configure your tool tray inlay online </li>
+                     <li>  Create a layout suited to your requirements </li>
+                     <li>  View the full price before placing your order </li>
+                     <li>  Access the configurator at any time, 24/7 </li>
+                     <li>  Order your customised inlay directly online </li>
                     </ul>
                   </div>
                 </div>
@@ -359,10 +368,10 @@
 
                   <div class="text">
                     <ul>
-                      <li>exact fit for StoreToGo BOXXes, cases and SR5 drawers</li>
-                      <li>robust, high-quality material</li>
-                      <li>easy to clean</li>
-                      <li>little odour</li>
+                     <li> Designed to fit StoreToGo BOXXes, cases, and SR5 drawers accurately </li>
+                     <li> Made from high-quality material </li>
+                     <li> Easy to clean </li>
+                     <li> Low-odour material for a more pleasant working environment </li> 
                     </ul>
                   </div>
                 </div>
@@ -478,19 +487,20 @@
 ">
             <div class="component-headline ">
 
-              Create your individual tool tray inlay in a couple of steps with the <em>my</em>Sortimo
-              inlay Configurator.
+            Create Your Individual Tool Tray Using The Inlay Configurator
             </div>
 
 
 
             <div class="text under">
-              <p>Made-to-measure <strong>perfectly fitted foam inlays</strong> can be created in the
-                configurator in just a few steps.</p>
-              <div>Simply <strong>record</strong> your existing tools <strong>on your smartphone or
-                  digital camera</strong> and design the interior of the container using various
-                alignment and positioning functions. You can manage the foam inserts in your StoreToGo
-                account</a>, where you can save, adjust or reorder StoreToGo inlays.&nbsp;</div>
+              <p> Create your individual tool tray with the StoreToGo inlay configurator. You can design a made-to-measure foam insert for your tools,
+                 that too without installing any additional software.  
+
+              </p>
+              <div>
+              Simply take the photos of the tools, upload the photos and arrange them inside the selected containers using the alignment options. <br>
+              You can manage your foam inlay designs through your StoreToGo account. 
+              </div>
             </div>
           </div>
         </div>
@@ -515,16 +525,16 @@
 
 
                 <div class="text">
-                  <p>&nbsp;</p>
+                  <p> Key Advantages </p>
                   <ul>
-                    <li>intuitive, individual design</li>
-                    <li>24/7 – available around the clock</li>
-                    <li>no software installation needed</li>
-                    <li>full price transparency – fixed-price inlays</li>
-                    <li>order directly online</li>
-                    <li>100% exact fit for StoreToGo containers</li>
-                    <li>management of saved and ordered configurations</li>
-                    <li>fast delivery through process optimisation</li>
+                  <li> Simple and individual design </li>
+                  <li> Available online 24/7 </li>
+                  <li> No software installation required </li>
+                  <li> Full price transparency with fixed-price inlays </li>
+                  <li> Direct online ordering </li>
+                  <li> Accurate fit for StoreToGo containers </li>
+                  <li> Easy management of saved and ordered configurations </li>
+                  <li> Fast delivery through an optimised ordering process </li> 
                   </ul>
                   <p>&nbsp;</p>
                 </div>
@@ -570,12 +580,9 @@
                   <div class="text">
                     <div
                       style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
-                      <p style="text-align: center; font-weight: 700; margin-bottom:20px;">Select
-                        the container</p>
+                      <p style="text-align: center; font-weight: 700; margin-bottom:20px;"> Select the Container </p>
 
-                      <p style="text-align:center; font-weight: 300;">The first step involves
-                        deciding for which BOXX, case, drawer or SR drawer a tool tray inlay is
-                        to be created.</p>
+                      <p style="text-align:center; font-weight: 300;"> Choose the BOXX, cases or SR drawer for which you want to create a tool tray inlay. </p>
 
                       <p style="text-align:left; font-weight: 300;"></p>
                     </div>
@@ -596,12 +603,9 @@
                   <div class="text">
                     <div
                       style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
-                      <p style="text-align: center; font-weight: 700; margin-bottom:20px;">Record
-                        the tools</p>
+                      <p style="text-align: center; font-weight: 700; margin-bottom:20px;"> Record the Tools </p>
 
-                      <p style="text-align:center; font-weight: 300;">Photograph the tools in the
-                        position in which they will subsequently lie in the foam inlay and then
-                        upload the image.</p>
+                      <p style="text-align:center; font-weight: 300;"> Place the tools in the position you want them to have in the completed foam inlay, tke a photo and upload the image to the configurator. </p>
 
                       <p style="text-align:left; font-weight: 300;"></p>
                     </div>
@@ -618,12 +622,9 @@
                   <div class="text">
                     <div
                       style="margin: 15px 0 20px 0; font-size: 19px; width: 260px; max-width: 340px;">
-                      <p style="text-align: center; font-weight: 700; margin-bottom:20px;">Design
-                        the inlay</p>
+                      <p style="text-align: center; font-weight: 700; margin-bottom:20px;"> Design the Inlay </p>
 
-                      <p style="text-align:center; font-weight: 300;">Optimise the layout of the
-                        tools, add the grip recesses and labels – configured to meet your
-                        individual needs.</p>
+                      <p style="text-align:center; font-weight: 300;"> Adjust the position of your tools, optimise the layout, and add grip recesses and labels based on the requirement. </p>
 
                       <p style="text-align:left; font-weight: 300;"></p>
                     </div>
@@ -644,10 +645,7 @@
                       <p style="text-align: center; font-weight: 700; margin-bottom:20px;">Order
                       </p>
 
-                      <p style="text-align:center; font-weight: 300;">Order the tool tray inlay at
-                        the click of a button after checking all the details and
-                        positions.<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                      <p style="text-align:center; font-weight: 300;"> Check the details and tool positions, then place your order online 
                       </p>
 
                       <p style="text-align:left; font-weight: 300;"></p>
@@ -682,7 +680,7 @@
 
             <h3 class="component-headline ">
 
-              StoreToGo inlay Photo templates
+            StoreToGo Inlay Photo Templates
             </h3>
 
 
@@ -694,18 +692,16 @@
 ">
             <h1 class="component-headline subheadline">
 
-              Conveniently download, print and start right away
+            Download them conveniently, print and stick them
             </h1>
 
-
+<p> Download the photo template and print the PDF files at 100% scale.  </p>
 
 
             <div class="text out-width">
-              <p>Simply download your preferred photo underlay and print out the pdf. Set your printing
-                settings to print at 100% scale. The printout will then have the true size in relation
-                to the BOXXes and you can start ‘equipping’ it. For safety, we have inserted a measure
-                of control on the pressure pad at the top - just measure. If this is correct, you can
-                immediately start digitizing your tools and devices. </p>
+              <p> At the top of the template a measurement reference is added. Which means you can measure it before starting and
+                 ensure that the templates are printed in the right size. Once you confirm the size, you can start recording the tools and equipment. 
+                 </p>
             </div>
           </div>
         </div>
@@ -836,15 +832,15 @@
 ">
             <div class="component-headline ">
 
-              Photo template by mail delivery
+            Photo Template by Mail Delivery
             </div>
 
 
 
             <div class="text">
-              <p style="text-align: center; ">Alternatively, we can send you the corresponding print
-                template<strong> by post.</strong>To order this, fill out the form in which you leave us
-                your address. Some days later you will find the photo template in your mailbox.</p>
+              <p style="text-align: center; "> You can also request a printed photo template by post. </p>
+              <p style="text-align: center; "> Simply complete the form and enter your address. The template will then be sent to your mailbox,
+                 thereafter you can start arranging and recording your tools without printing the PDF yourself. </p>
             </div>
 
           </div>
