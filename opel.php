@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>
@@ -81,15 +81,18 @@
       
       <h1 class="component-headline ">
         
-        Opel and StoreToGo. <br> Impressive solutions!
+      StoreToGo and Opel <br> Offering Impressive Solutions!
       </h1>
     
     
     
   
 <div class="text">
-        <p>StoreToGo is a <strong>certified Opell bodybuilder</strong>, offering ex-factory solutions in conjunction with the commercial vehicle manufacturer. Equipped with StoreToGo van racking, the Opel van is literally transformed into a perfectly organised workplace, enabling you to<strong> work professionally and save a lot of time in your working routine</strong>.</p></div>
-    </div>
+      <p> Yes! StoreToGo is a certified Opel vehicle outfitter, providing complete van racking solutions that suit your work requirements.
+         With StoreToGo van racking, transform your van into a mobile workshop with shelves, drawers, storage units and other tool organisation systems.  
+
+      </p>
+      </div>
     </div>
 </div></div>
    
@@ -108,15 +111,26 @@
 <div id="comp_00001AEG" class="sortimo-component text-component big-header
 ">
       <div class="component-headline ">
-        
-        Efficient in everyday working, quick to procure, attractively priced!
+      Smarter Van Racking Solution, Quick To Order, Competitively Priced
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a certified <strong>Opel bodybuilder</strong>, we very specifically simplify the procurement channels by offering joint solutions delivered directly from the Opel factory – at attractive prices. Simply ask your Vauxhall commercial vehicles salesperson.</p> <p style="text-align: center;">We also meet your very individual requirements. The Online Configurator StoreToGo configuration lets <strong>you create 100% customised load area concepts for every Opel make online</strong>, quickly and easily order it online and have it installed in StoreToGo nationwide installation network.</p> <p style="text-align: center;">Time and time again, individual trades benefit from <strong>industry deals</strong> that we offer at promotional prices jointly with our partner Opel. Individual accessories enable them to be adapted to the very specific requirements of every tradesperson or service technician. The best way is to ask your Opel commercial vehicle salesperson for the joint StoreToGo offers.</p></div>
-  </div></div>
+     <p style="text-align: center;"> Being the certified Opel bodybuilder, StoreToGo offers a joint van racking solution that is
+       delivered directly from the Opel factory at competitive prices. Simply ask your Vauxhall commercial vehicles salesperson to know more. 
+
+     </p>
+     <p style="text-align: center;"> You can customize your van racking systems through the StoreToGo online configurator. Create a
+       fully customized load-area concept that suits your Opel van model, order it online and have them 
+       installed through StoreToGo’s nationwide installation network. 
+
+     </p>
+     <p style="text-align: center;"> The good news isn’t over. In partnership with Opel, StoreToGo offers specific industry based packages that
+       highly benefits service technicians and professional traders.  
+
+     </p>
+    </div></div>
 
 </div>
 <!-- END -->
@@ -183,7 +197,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-       Your individual route to the perfect racking solution for Nissan commercial vehicles
+      Find The Perfect Racking Solutions For Your Opel Commercial Vehicles
       </h2>
     
   
@@ -197,7 +211,7 @@
 <div id="comp_00001AKO" class="sortimo-component text-component small-header
 ">
  <h3 class="component-headline ">
-Simply configure van racking online
+ Simply Configure Van Racking Online
       </h3>
   
 </div></div>
@@ -226,8 +240,15 @@ Simply configure van racking online
 
 
 <div class="text">
-        <p>With StoreToGo configuration, the StoreToGo Online Configurator, you can configure your own individual <strong>SR5 van racking</strong> in only a few steps, tailor-made for every Opel vehicle make <strong>online</strong> and also configure it for your specific industry.</p>
-        </div>
+        <p> With StoreToGo online configuration, you can easily design your own SR5 van racking system.
+           The racking can be further customized to suit the different Opel van models and specific industrial use. 
+
+        </p>
+        <p> Furthermore, you can order StoreToGo van racking directly through Opel along with the van.
+           This way you get a completely fitted vehicle from a single supplier, thus saving time, reducing cost and simplifying the paper work.  
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>

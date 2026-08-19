@@ -736,7 +736,7 @@ justify-content: center;
 
 }
 
-.bo-wpad {}
+/* .bo-wpad {} */
 
 .bo-wpsd {
   float: right !important;
@@ -2191,7 +2191,7 @@ justify-content: center;
 
     margin-left: 10px;
 
-    margin-right:
+    margin-right: 10px;
   }
 
 
@@ -2629,7 +2629,7 @@ justify-content: center;
 
 
 
-.overlay-container .btn-container ..btn-text {
+.overlay-container .btn-container .btn-text {
 
   border: 3px solid;
 
