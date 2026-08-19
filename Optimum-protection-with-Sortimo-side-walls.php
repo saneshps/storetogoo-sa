@@ -91,7 +91,10 @@
     
   
 <div class="text">
-        <p>StoreToGo wall cladding offers optimum protection for the vehicle interior. StoreToGo wall cladding can be installed quickly and easily via the points provided in the vehicle by the vehicle manufacturer.</p></div>
+        <p> StoreToGo wall cladding effectively protects the vehicle’s interior walls from scratches and
+           damage caused by tools and equipment. It can be easily installed as the van already has built-in points to attach them. 
+
+        </p></div>
     </div>
     </div>
 </div></div>

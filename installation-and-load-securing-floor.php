@@ -143,30 +143,22 @@
   <div class="yCmsComponent sortimo-component-slot clearfix">
 <div class="sortimo-component wide-high text-picture-component wide-high-right" id="comp_00001AI3">
   <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjal" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover unjal" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-       <h3 class="component-headline ">
-        
-       SoboPro
-      </h3>
-    
-    
-    
-  
-<div class="text">
-       <p> SoboPro is a special floor system for vans, that helps you to install StoreToGo SR5 van racking without drilling holes in the vehicle.
-         The built-in connection points in this floor system enables you to fix shelves or racking directly on to the floor. 
-
-       </p>
-       <p> Additionally, it has lashing points where you can attach straps to secure the cargo. This way you can tie down and arrange the loads flexibly.  </p>
-       <p> It is to be noted that this flooring system does not block the original tie-down points of the vehicle as it has built-in openings that match them called the Flush lashing points.  </p>
+      <h3 class="component-headline ">SoboPro</h3>
+      <div class="text">
+        <p> SoboPro is a special floor system for vans, that helps you to install StoreToGo SR5 van racking without drilling holes in the vehicle.
+          The built-in connection points in this floor system enables you to fix shelves or racking directly on to the floor.
+        </p>
+        <p> Additionally, it has lashing points where you can attach straps to secure the cargo. This way you can tie down and arrange the loads flexibly.  </p>
+        <p> It is to be noted that this flooring system does not block the original tie-down points of the vehicle as it has built-in openings that match them called the Flush lashing points.  </p>
       </div>
+    </div>
     <div class="image-container unjal" style="width: 695px; height: 510px;
         background-image: url('images/product/bodenverkleidung-sobopro-695x510.jpg');  float: right;">
         <img src="images/product/bodenverkleidung-sobopro-695x510.jpg" style="visibility: hidden;">
-      </div>  
     </div>
+  </div>
 </div></div>
 </div>
 <!-- END -->

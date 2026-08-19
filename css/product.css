@@ -1101,6 +1101,39 @@ justify-content: center;
 
 }
 
+.sortimo-component.text-picture-component .text-container.unjal {
+  height: auto !important;
+  min-height: 510px;
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+@media (min-width: 1024px) and (max-width: 1399px) {
+  .sortimo-component.text-picture-component .text-container.unjal {
+    width: 50% !important;
+    min-height: 510px !important;
+    height: auto !important;
+  }
+
+  .sortimo-component.text-picture-component .image-container.unjal {
+    width: 50% !important;
+    height: 510px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .sortimo-component.text-picture-component .text-container.unjal {
+    width: 100% !important;
+    min-height: auto !important;
+    height: auto !important;
+  }
+
+  .sortimo-component.text-picture-component .image-container.unjal {
+    width: 100% !important;
+    height: auto;
+  }
+}
+
 .sortimo-component.text-picture-component .text-container .component-headline {
 
   font-family: "Roboto Condensed";
