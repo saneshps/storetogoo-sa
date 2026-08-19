@@ -183,20 +183,16 @@
 <div class="row sty-wid1">
 
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_0000183A">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container unjal" style="width: 695px; height: 510px;
-        background-image: url('images/product/zubehoer-originalzubehoer-690x510.jpg');  float: left;">
-        <img src="images/product/zubehoer-originalzubehoer-690x510.jpg" style="visibility: hidden;" alt="Store to go UAE">
-      </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjal" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-left" id="comp_0000183A">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/product/zubehoer-originalzubehoer-690x510.jpg');">
+        <img src="images/product/zubehoer-originalzubehoer-690x510.jpg" alt="StoreToGo original accessories">
+      </div>
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-
 <div class="text">
         <p>With practical accessories such as benches, dividers, hooks and holders you can enhance the efficiency of the van racking system
-           and ensure proper workflow. Choose StoreToGo accessories to keep your van organized, efficient and professional throughout the process. 
+           and ensure proper workflow. Choose StoreToGo accessories to keep your van organized, efficient and professional throughout the process.
 
         </p>
       </div>
@@ -230,26 +226,23 @@
 <div class="row sty-wid1">
 
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-right" id="comp_0000183C">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjal" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-right" id="comp_0000183C">
+  <div class="row boxxes-split-row">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
 <div class="text">
         <p> When it comes to electrical power supply safety is a crucial factor. Whether you are on road or working at a construction site,
            you need a reliable power supply and proper lighting and clear visibility in the loading areas. StoreToGo electrical accessories
             are designed to provide practical solutions such as efficient lighting and availability of onsite power, whenever required.
              Our electrical accessories include inverters, lights, floodlights, sockets, switches and wiring looms essential to create
-              a safe and functional mobile workspace. 
+              a safe and functional mobile workspace.
 
         </p>
       </div>
     </div>
-    <div class="image-container unjal" style="width: 695px; height: 510px;
-        background-image: url('images/product/zubehoer-elektrozubehoer-690x510.jpg');  float: right;">
-        <img src="images/product/zubehoer-elektrozubehoer-690x510.jpg" style="visibility: hidden;" alt ="Store to go UAE">
-      </div>  
+    <div class="image-container" style="background-image: url('images/product/zubehoer-elektrozubehoer-690x510.jpg');">
+        <img src="images/product/zubehoer-elektrozubehoer-690x510.jpg" alt="StoreToGo electrical accessories">
+      </div>
     </div>
 </div></div>
 
@@ -276,21 +269,17 @@
 <!-- STRT -->
 <div class="row sty-wid1">
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_0000183E">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="image-container unjal" style="width: 695px; height: 510px;
-        background-image: url('images/product/zubehoer-ordnung-am-steuer-690x510.jpg');  float: left;">
-        <img src="images/product/zubehoer-ordnung-am-steuer-690x510.jpg" style="visibility: hidden;">
-      </div>  
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjal" style="width: 695px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component wide-high text-picture-component boxxes-split boxxes-split-left" id="comp_0000183E">
+  <div class="row boxxes-split-row">
+    <div class="image-container" style="background-image: url('images/product/zubehoer-ordnung-am-steuer-690x510.jpg');">
+        <img src="images/product/zubehoer-ordnung-am-steuer-690x510.jpg" alt="StoreToGo organisation at the wheel">
+      </div>
+    <div class="sortimo-blue-link text-container sortimo-dark-hover">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-
 <div class="text">
          <p> Imagine running late to the office and having to carry important documents and notes altogether in the seat? StoreToGo saves you from this mess.
            With our Autoassistant and Office bag, you can now keep everything inside the passenger area of your van. This way you can use the
-            time between appointments to complete small office tasks.  
+            time between appointments to complete small office tasks.
 
          </p>
       </div>
