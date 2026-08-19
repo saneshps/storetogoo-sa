@@ -83,15 +83,19 @@
 
       <h1 class="component-headline ">
         
-        Mercedes-Benz <br> und StoreToGo
+      Mercedes-Benz and StoreToGo
       </h1>
     
     
     
   
 <div class="text">
-        <p>StoreToGo is a<strong> Mercedes-Benz Van Solution Partner</strong> and, together with its partner, offers <strong>solutions for tradespeople and service providers</strong>. Equipped with StoreToGo van racking, the Mercedes-Benz van is literally transformed into a<strong> perfectly organised workplace</strong>, enabling you to work professionally and save a lot of time in your working routine.</p></div>
-    </div>
+        <p>StoreToGo now partners with Mercedes-Benz offering reliable van racking solutions for trade persons and service providers.
+           With StoreToGo van racking you can transform your Mercedes-Benz van into an organized workspace, equipping the operators
+            to handle the day-to-day tasks much more easily. 
+
+        </p>
+      </div>
     </div>
 </div></div>
 
@@ -121,14 +125,27 @@
     
       <div class="component-headline ">
         
-        Efficient in everyday working, quick to procure, attractively priced!
+      Smart Van Racking Solutions, Easy To Order and Value-priced
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a <strong>Mercedes-Benz Van Solution Partner</strong>, we very specifically simplify the procurement channels by offering joint solutions delivered directly from the Mercedes-Benz factory – at attractive prices. Simply ask your Mercedes-Benz Vehicles salesperson.</p> <p style="text-align: center;">We also meet your very individual requirements. The Online Configurator <em>my</em>StoreToGo configuration lets <strong>you create 100% customised load area concepts for every Mercedes-Benzl Vehicle make online</strong>, quickly and easily order it <strong>online</strong> and have it <strong>installed</strong> in StoreToGo nationwide installation network.</p> <p style="text-align: center;">Time and time again, individual trades benefit from <strong>industry deals</strong> that we offer at promotional prices jointly with our partner Mercedes-Benz. Individual accessories enable them to be adapted to the very specific requirements of every tradesperson or service technician. The best way is to ask your commercial vehicle salesperson for the joint StoreToGo offers.</p></div>
-  </div></div>
+      <p style="text-align: center;">
+      StoreToGo has partnered with Mercedes-Benz making van racking easier than ever for Mercedes-Benz commercial vehicles.
+       These joint van racking solutions are delivered directly from the Mercedes-Benz factory, that too at competitive prices.
+        Simply ask your Mercedes-Benz commercial vehicle salesperson to know more about the offers in detail.
+
+          </p>
+          <p> Need a setup that suits your way of working? We got you covered with our StoreToGo online configurator,
+             where you can create a van racking set up that fits your specific van model, order it online and have
+              it installed through StoreToGo nationwide installation.  
+
+          </p>
+          <p> Ask your Mercedes-Benz commercial vehicle salesperson and know more about the latest StoreToGo offers.  </p>
+        </div>
+ 
+    </div></div>
 </div>
 <!-- END -->
 
@@ -194,7 +211,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-       Your individual route to the perfect racking solution for Mercedes-Benz vehicles
+      Avail The Best Van Racking Solution For Your Mercedes-Benz
       </h2>
     
   
@@ -208,7 +225,7 @@
 <div id="comp_00001AKO" class="sortimo-component text-component small-header
 ">
  <h3 class="component-headline ">
-Simply configure van racking online
+ Simply Configure The Van Racking Online
       </h3>
   
 </div></div>
@@ -232,8 +249,11 @@ Simply configure van racking online
       
 
 <div class="text">
-        <p>With StoreToGo configuration, the StoreToGo Online Configurator, you can configure your own individual <strong>SR5 van racking</strong> in only a few steps, tailor-made for every Mercedes-Benz transporter make <strong>online</strong> and also configure it for your specific industry.</p>
-        </div>
+        <p> With StoreToGo Online Configurator, you can now create your own individual SR5 van racking system in just a few steps. 
+          This way you get to build a set up that fits your van model and specific industrial use. 
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -248,7 +268,7 @@ Simply configure van racking online
 <div id="comp_00001ADY" class="sortimo-component text-component small-header
 ">
    <h3 class="component-headline ">
-Order StoreToGo directly ex-works from Volkswagen Commercial Vehicles.
+   Order StoreToGo Directly Through Mercedes-Benz Commercial Vehicles
       </h3>
 </div></div>
 </div>
@@ -265,8 +285,12 @@ Order StoreToGo directly ex-works from Volkswagen Commercial Vehicles.
       
 
 <div class="text">
-        <p>One-stop supplier! StoreToGo van racking systems can be purchased and financed directly together with the transporter. The customer therefore receives his complete vehicle at a single point of contact, saving time, costs and unnecessary organisational processes. The factory solutions can be purchased from every Mercedes-Benz vehicles dealership.</p>
-        </div>
+       <p> You can now purchase StoreToGo van racking systems together with your Mercedes-Benz vehicle.
+         This way you get a ready-to-use vehicle equipped with all the necessary storage accessories.
+          And the best part, you get all of this from a single point of contact, thus helping you save time and money. 
+
+       </p>
+      </div>
     </div>
     <div class="image-container vdssf" style="width: 695px; height: 340px;
         background-image: url('images/product/mercedes-benz-werksloesung-695x340.jpg');  float: right;">

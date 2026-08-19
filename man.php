@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>
@@ -83,12 +83,21 @@
     
       <h1 class="component-headline ">
         
-        MAN and StoreToGo <br> Great possibilities! 
+      Man And StoreToGo
       </h1>
   
 <div class="text">
-        <p>As a partner of MAN, StoreToGo offers <strong>customized solutions for every request</strong>. Together, however, the partners also offer <strong>solutions for craftsmen and service technicians </strong>directly from the factory of MAN. Because only in the overall package, the van becomes a mobile workshop and leads to an increase in productivity.</p></div>
-    </div>
+       <p> Your van should do more than just get you from one job to the next one. Partnering with MAN,
+         StoreToGo turns your van into a full-fledged workspace, well organized with tools and equipment.
+          Together we offer van racking solutions that suit your Man commercial van model. 
+
+       </p>
+       <p> Some of the storage solutions can be customized exactly according to your needs while others are available directly from the MAN factory. 
+        Either way, you get the single smart result- a well equipped van with ample storage space and racks to secure your tools,
+         so that you spend less time searching and get the job done. 
+
+       </p>
+      </div>
     </div>
 </div></div>
 
@@ -107,14 +116,23 @@
   
       <div class="component-headline ">
         
-        Efficient in everyday working, quick to procure, attractively priced!
+      Built Smarter. Placed Right
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a <strong>Partner of MAN</strong>, we very specifically simplify the procurement channels by offering joint solutions delivered directly from the MAN factory – at attractive prices. Simply ask your MAN Vehicles salesperson.</p> <p style="text-align: center;">We also meet your very individual requirements. The Online Configurator StoreToGo configuration lets <strong>you create 100% customised load area concepts for the MAN TGE</strong>, quickly and easily order it <strong>online</strong> and have it <strong>installed</strong> in StoreToGo nationwide installation network.</p></div>
-  </div></div>
+      <p style="text-align: center;"> StoreToGo together with MAN makes it easier to convert your MAN TGE into an
+         efficient mobile workspace. We offer joint solutions that can be delivered directly from the MAN factory.
+          This makes the procurement easier, cost-effective and smooth. Speak with your Man vehicle salesperson to know more. 
+
+           
+           </p>
+          <p> With the StoreToGo online configurator, you can design a custom van racking system suited to your vehicle model,
+             order it online and have them  installed through StoreToGo’s nationwide installation network. </p>
+          </div>
+  
+    </div></div>
 </div>
 <!-- END -->
 
@@ -180,7 +198,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-        Your individual route to the perfect racking solution for MAN vehicles
+      Your Route To The Perfect Van Racking Solution
       </h2>
     
   
@@ -194,7 +212,7 @@
 <div id="comp_00001AKO" class="sortimo-component text-component small-header
 ">
  <h3 class="component-headline ">
-Simply configure van racking online
+ Simply Configure Van Racking Online
       </h3>
   
 </div></div>
@@ -214,8 +232,8 @@ Simply configure van racking online
       
 
 <div class="text">
-        <p>With StoreToGo configuration, the StoreToGo Online Configurator, you can configure your own individual <strong>SR5 van racking</strong> in only a few steps, tailor-made for the <span id="z_vt_grc" class="z-label">MAN TGE</span> make <strong>online</strong> and also configure it for your specific industry.</p>
-        </div>
+        <p> With StoreToGo online configurator, you can design your own SR5 van racking system that matches your MAN TGE and the specific industrial needs.  </p>
+      </div>
     </div>
     <div class="image-container vdssf" style="width: 695px; height: 340px;
         background-image: url('images/product/fahrzeughersteller-einrichtung-konfigurieren-695x340.jpg');  float: right;">
@@ -233,7 +251,7 @@ Simply configure van racking online
 <div id="comp_00001ADY" class="sortimo-component text-component small-header
 ">
    <h3 class="component-headline ">
-Order StoreToGo directly ex-works from MAN.
+   Order StoreToGo Racking Directly With Your MAN Vehicle
       </h3>
 </div></div>
 </div>
@@ -251,16 +269,14 @@ Order StoreToGo directly ex-works from MAN.
     <div class="sortimo-blue-link text-container sortimo-dark-hover vdssf" style="width: 695px; min-height: 340px; float: right;background-color: #eeeff1;color: #546373;
       ">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-
-
-
-
-
-
+ 
 <div class="text">
-        <p>One-stop supplier! StoreToGo van racking systems can be purchased and financed directly together with the transporter. The customer therefore receives his complete vehicle at a single point of contact, saving time, costs and unnecessary organisational processes. The factory solutions can be purchased from every <strong>MAN </strong>dealership.</p>
-        </div>
+        <p> We keep things simple from the very start. You can order StoreToGo van racking systems together with your MAN
+           transporter- which means you get the complete solution from a single source. No separate purchasing processes and unnecessary delays.
+            One vehicle. One Contact. One Smart Mobile Workspace.  
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
