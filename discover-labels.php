@@ -455,7 +455,7 @@
                                             Intuitive operation</span>
                                     </div>
                                     <div class="text">
-                                        <p>Easy creation of labels in a just few clicks </p>
+                                        <p> You can create your labels in one click </p>
                                     </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -481,10 +481,10 @@
                                                     transform="translate(59.33 14.77)"></path>
                                             </svg></span>
                                         <span class="text-span">
-                                            Flexibility</span>
+                                        Visualisation </span>
                                     </div>
                                     <div class="text">
-                                        Access to ordered/saved labels and easy reordering at any time</div>
+                                    You can use the 3D view of the van racking system and select the right label design and position them properly. </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                                     <div class="component-headline">
@@ -509,11 +509,10 @@
                                                     transform="translate(59.33 14.77)"></path>
                                             </svg></span>
                                         <span class="text-span">
-                                            Visualisation</span>
+                                        Transparent Pricing </span>
                                     </div>
                                     <div class="text">
-                                        3D visualisation of the van racking system makes it easier to select label
-                                        design, colour and arrangement</div>
+                                    With the dynamic price display you can be aware of the cost while you are configuring the labels. </div>
                                 </div>
                             </div>
                             <div class="right-text">
@@ -542,13 +541,13 @@
                                                 transform="translate(59.33 14.77)"></path>
                                         </svg>&nbsp;
 
-                                        Price transparency
+                                        Flexibility
                                     </div>
 
 
 
                                     <div class="text">
-                                        <p>Full cost control thanks to dynamic price display during configuration</p>
+                                        <p> You can access the saved or previously ordered label any time. There is also the option to reorder or make changes according to your choice.  </p>
                                     </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -577,14 +576,13 @@
                                                 transform="translate(59.33 14.77)"></path>
                                         </svg>&nbsp;
 
-                                        Optimum result
+                                        Optimum Result
                                     </div>
 
 
 
                                     <div class="text">
-                                        Predefined icons can be incorporated and your own graphics uploaded for the
-                                        perfect look </div>
+                                    Choose from the predefined icons or upload your own graphics and create the most suitable label.  </div>
                                 </div>
                                 <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
                                     <div class="component-headline ">
@@ -610,13 +608,13 @@
                                                 transform="translate(59.33 14.77)"></path>
                                         </svg>&nbsp;
 
-                                        Save time and money
+                                        Time and Cost efficient
                                     </div>
 
 
 
                                     <div class="text">
-                                        <p>Save time and money by printing at a specialist</p>
+                                        <p> The professional printing gives you clear and ready-to-use labels, thus saving time and effort.  </p>
                                     </div>
                                 </div>
                             </div>
@@ -684,20 +682,21 @@
 ">
                         <h3 class="component-headline ">
 
-                            Clearer arrangement in your <b>Globelyst4</b>
+                        Clearer Arrangement in Your Globelyst4 </b>
                         </h3>
 
 
 
 
                         <div class="text">
-                            <p>For the Globelyst4, we provide you with a PDF template which can be individually and
-                                conveniently labelled and printed. BOXXes and drawers for the Globelyst4 are then
-                                quickly and legibly labelled.</p>
-                            <p>The adhesive labels are made of tear-resistant and moisture-resistant material and are
-                                highly durable thanks to their strong adhesion.</p>
-                            <p>You can order the self-adhesive sheet for printing the labels&nbsp;<a>here</a>. Just
-                                select the sheets with the coloured strips that suit your needs.&nbsp;</p>
+                        <p> For the Globelyst van racking system, you can create your own labels using the pdf template and print them.  </p>
+                        <p> You just need to add the required text to the template, print them and in turn attach them to cases and drawers. This way you can create clear and easy-to-read labels.  
+
+                        </p>
+                        <p> The labels are absolutely adhesive, made from tear and moisture resistant materials. They are durable and suited for daily use.  </p>
+                        <p> You can also order adhesive sheets for printing your labels. You just need to select the sheets with the colour strip that well matches the organization system.  
+                            
+                        </p>
                         </div>
                     </div>
                 </div>
