@@ -113,11 +113,13 @@
 <div id="comp_000019L4" class="sortimo-component text-component big-header
 ">
  <h2 class="component-headline ">
-        
-        Cargo space protection with practical extras
+ Cargo Area Protection with Useful Features
       </h2>
     <div class="text">
-      <p style="text-align: center;">Wall cladding protects the vehicle and maintains its value. Using ProSafe lashing rails, the wall cladding can also be used to secure loads. StoreToGo has the <strong>right wall cladding for every vehicle</strong> thanks to individual solutions.</p></div>
+      <p style="text-align: center;"> 
+      Wall cladding protects the vehicle’s interior. By attaching the ProSafe lashing rails, wall cladding also helps to secure cargo.
+       StoreToGo provides the custom wall cladding solutions suited to each vehicle model. 
+        </p></div>
   </div></div>
 </div>
 <!-- END -->
@@ -130,7 +132,7 @@
 ">
   <h3 class="component-headline ">
         
-       Wall cladding from StoreToGo
+  Wall Cladding From StoreToGo
       </h3>
     </div></div>
 </div>
@@ -156,8 +158,12 @@
               <div class="text text-arrow njns" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 477.2px;">
             <span class="item-headline">
                 SowaFlex</span>
-            <p>The SowaFlex wall cladding, made from lightweight honeycomb ma&shy;terial, protects the load area of the vehicle and <strong>weighs 60% less</strong> than comparable wood cladding. The<strong> extremely impact- and scratch-resistant</strong> material <strong>optimally pro&shy;tects the vehicle body from dam&shy;age </strong>and can be installed sim&shy;ply and without problems in the van by fastening to the points provided by the vehicle manufacturer.</p></div>
-        </div></div><div class="owl-item njdjn" style="width: 360px;"><div class="sortimo-dark-hover carousel-item sortimo-blue-link mnmf">
+           <p> StoreToGo offers SowaFlex wall cladding which acts as a protective lining inside the walls of the vehicle. Made from a light-weight
+             honeycomb material it effectively protects the load area. As it only weighs 60% less than normal wooden wall cladding, 
+             it adds to the light weight. Moreover it can be easily installed as you can attach it to the fixing points that’s already in the vehicle. 
+
+           </p>
+          </div></div><div class="owl-item njdjn" style="width: 360px;"><div class="sortimo-dark-hover carousel-item sortimo-blue-link mnmf">
           <div class="image">
             <img src="images/product/wandverkleidung-carousel-sowaapp.jpg" class="carousel-image csad
               
@@ -170,8 +176,12 @@
               <div class="text text-arrow njns" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 477.2px;">
             <span class="item-headline">
                 SowaApp</span>
-            <p>The <strong>SowaApp</strong> wall cladding pro&shy;tects the vehicle body from dam&shy;age and also helps <strong>keep things organised</strong>. Thanks to the system perforation, hooks and holders from the range of accessories can be attached to the wall cladding. Made of 1 mm thick <strong>aluminium</strong>, it is <strong>resistant to moisture and chemicals</strong>.</p></div>
-        </div></div><div class="owl-item njdjn" style="width: 360px;"><div class="sortimo-dark-hover carousel-item sortimo-blue-link mnmf">
+            <p> The SnowApp wall cladding helps to keep the loads organized as well as protects the vehicle body from scratch and damage.
+               The wall panel has patterns of slots where you can attach accessories such as hooks and holders. Made from 1mm thick aluminium, 
+               it is a thin, but durable metal panel, resistant to moisture and chemicals.  
+
+            </p>
+          </div></div><div class="owl-item njdjn" style="width: 360px;"><div class="sortimo-dark-hover carousel-item sortimo-blue-link mnmf">
           <div class="image">
             <img src="images/product/wandverkleidung-carousel-dachhimmel.jpg" class="carousel-image csad
               
@@ -184,8 +194,11 @@
               <div class="text text-arrow njns" style="background-color: rgb(255, 255, 255); color: rgb(84, 99, 115); fill: rgb(84, 99, 115); height: 477.2px;">
             <span class="item-headline">
                 Roof liner</span>
-            <p>In order to offer the vehicle body optimum protection even when working inside the vehicle, a roof liner can easily be<strong> retrofitted </strong>to each roof rail with a&nbsp;<b>fixing rail&nbsp;for restraint poles</b>. The particular&shy;ly light and recyclable honeycomb material is identical to the SowaFlex wall cladding and is <strong>extremely impact- and scratch-resistant</strong>.</p></div>
-        </div></div></div></div>
+           <p> You can also add a roofliner inside the roof of the van to extra protection, especially when operators are working inside the vehicle,
+             or moving tools around. Our roofliner is made from honeycomb material as the SowaFlex wall panel.  
+
+           </p>
+          </div></div></div></div>
         
         
         <div class="owl-controls clickable" style="display: none;"><div class="owl-buttons"><div class="owl-prev"><span class="leftNavigation"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="52px" viewBox="0 0 17 36" style="enable-background:new 0 0 17 36;" xml:space="preserve"><style type="text/css">.st0{fill:#7D8D9D;}</style><path id="pfeil_Kopie" class="st0" d="M4.3,0.3l-3.8,3L11,17.8l-10.5,15l3.7,2.9l12.3-17.9L4.3,0.3z"></path></svg></span></div><div class="owl-next"><span class="rightNavigation"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="26px" height="52px" viewBox="0 0 17 36" style="enable-background:new 0 0 17 36;" xml:space="preserve"><style type="text/css">.st0{fill:#7D8D9D;}</style><path id="pfeil_Kopie" class="st0" d="M4.3,0.3l-3.8,3L11,17.8l-10.5,15l3.7,2.9l12.3-17.9L4.3,0.3z"></path></svg></span></div></div></div></div>
