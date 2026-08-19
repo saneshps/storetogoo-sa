@@ -85,14 +85,17 @@
       
  <h1 class="component-headline ">
         
-        Installation and load securing floor
+ Installation and Load Securing Floors
       </h1>
     
     
   
 <div class="text">
-        <p>The StoreToGo<strong> installation and load securing floors</strong> form the foundation for stable and quick fastening of the SR5 van racking by means of <strong>integrated connection points</strong>. They also include an integrated load securing concept.</p></div>
-    </div>
+       <p> At StoreToGo we provide a strong base for installing the SR5 van racking securely. Featuring built-in fastening points for racks and
+         integrated load securing options to place tools, equipment and cargo, utmost safety is ensured throughout the transport.  
+
+       </p>
+      </div>
     </div>
 </div></div>
     </div>
@@ -111,10 +114,13 @@
 ">
  <h2 class="component-headline ">
         
-        Vehicle-specific protection of floor surfaces.
+ Custom-fit Floor Protection For Each Vehicle Model
       </h2>
     <div class="text">
-      <p style="text-align: center;">The ProSafe load securing system can also be found in StoreToGo floors and offers a wide range of options for <strong>securing loads</strong>. StoreToGo has the suitable<strong>&nbsp;floor cladding for every vehicle</strong> thanks to individual solutions.</p></div>
+      <p style="text-align: center;">
+      StoreToGo floor comes with a built-in securing system called ProSafe. This way you can tie down and secure the cargo in different ways.
+       Additionally we also provide custom floor coverings that match each vehicle model. 
+     </p></div>
   </div></div>
 </div>
 <!-- END -->
@@ -126,8 +132,7 @@
 <div id="comp_00001AGF" class="sortimo-component text-component small-header
 ">
   <h3 class="component-headline ">
-        
-        Installation and load securing floors
+  Installation and Load Securing Floors
       </h3>
     </div></div>
 </div>
@@ -143,15 +148,20 @@
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
        <h3 class="component-headline ">
         
-        SoboPro
+       SoboPro
       </h3>
     
     
     
   
 <div class="text">
-        <p>The <strong>SoboPro </strong>installation and load securing floor enables <strong>quick and easy installation of StoreToGo SR5 van racking</strong> in the vehicle without drilling thanks to integrated connection points. Available universal lashing points result in an innovative and <strong>professional load securing concep</strong>t which permits flexible lashing of loads to the floor. The universal lashing points are arranged in such a way that the <strong>valuable storage space</strong> on the floor of the vehicle itself, combined with the installation of SR5 van racking, is available without restriction.&nbsp;Original lashing points remain available using the integrated flush lashing points, in the floor, and are <strong>compatible with ProSafe</strong>.</p></div>
-    </div>
+       <p> SoboPro is a special floor system for vans, that helps you to install StoreToGo SR5 van racking without drilling holes in the vehicle.
+         The built-in connection points in this floor system enables you to fix shelves or racking directly on to the floor. 
+
+       </p>
+       <p> Additionally, it has lashing points where you can attach straps to secure the cargo. This way you can tie down and arrange the loads flexibly.  </p>
+       <p> It is to be noted that this flooring system does not block the original tie-down points of the vehicle as it has built-in openings that match them called the Flush lashing points.  </p>
+      </div>
     <div class="image-container unjal" style="width: 695px; height: 510px;
         background-image: url('images/product/bodenverkleidung-sobopro-695x510.jpg');  float: right;">
         <img src="images/product/bodenverkleidung-sobopro-695x510.jpg" style="visibility: hidden;">
@@ -177,13 +187,16 @@
     
       <h3 class="component-headline ">
         
-        SoboPro restraint pole
+      SoboPro Restraint Point
       </h3>
     
   
 <div class="text">
-        <p>The installation and load securing floor <strong>SoboPro restraint pole</strong>, in conjunction with the lashing points for StoreToGo SR5 van racking, has additional <strong>universal lashing points</strong>. In combination with the fixing rails above, fixed to the roof stringers, you can insert restraint poles to allow <strong>form-fitted securing of the cargo. Bulky goods</strong> and <strong>panel materials</strong> can be conveniently fixed and transported securely. The universal lashing points can, in addition, be used for ProSafe lashing straps.</p>
-</div>
+      <p> The SoboPro systems do not block or cover the original tie-down points of the vehicle. This floor system comes with special strap points that sit flat in the floor,
+         meaning to say they won’t stick up. SoboPro is also compatible with ProSafe straps, allowing proper securing of cargo. 
+
+      </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -198,8 +211,7 @@
 ">
       
       <div class="component-headline ">
-        
-        The StoreToGo floor concept
+      The StoreToGo Floor Concept
       </div>
     
   
@@ -248,14 +260,14 @@
     
       <div class="component-headline headline">
         
-        SR5 connection points
+      SR5 Connection Point
       </div>
     
     
   
 </div>
             <div class="tooltip-text">
-              Thanks to the standard integrated connection points, StoreToGo SR5 van racking can be installed quickly and easily in the vehicle.</div>
+            The van floor has built-in fixing points where StoreToGo SR5 shelves can be attached easily.   </div>
             </div>
         </div>
       </div>
@@ -281,14 +293,18 @@
     
       <div class="component-headline headline">
         
-        Universal lashing points 
+      Universal Lashing 
       </div>
     
     
   
 </div>
             <div class="tooltip-text">
-              The SoboPro floor has integrated lashing points which are compatible with all ProSafe applications such as lashing straps, CargoStopp, restraint poles or load safety nets thanks to universal applications.</div>
+            The built-in points of the SoboPro floor allows you to attach different load securing equipment.
+             These points are compatible with ProSafe accessories such as lashing straps, CargoStopp,
+              Restraint poles and Load safety nets.
+
+              </div>
             </div>
         </div>
       </div>
@@ -323,14 +339,16 @@
     
       <div class="component-headline headline">
         
-        Floor plate
+      Floor Plate
       </div>
     
     
   
 </div>
             <div class="tooltip-text">
-              The 7-ply glued wooden floor has a thickness of 9 mm and is made of Nordic birch. Its multi-directional textured coating makes the moisture-resistant floor scratch-resistant and extremely non-slip even in wet conditions.
+            The van floor is made of 7 thin layers of Nordic brich wood glued together and comes with a 9mm thickness. It has a grippy surface,
+             resists moisture and scratch and prevents people and cargo from slipping, even in wet conditions. 
+
 </div>
             </div>
         </div>
@@ -366,14 +384,15 @@
     
       <div class="component-headline headline">
         
-        Original lashing points
+      Original Lashing Points
       </div>
     
     
   
 </div>
             <div class="tooltip-text">
-              The vehicle's original lashing points remain available using the integrated flush lashing points in the floor, and are compatible with ProSafe.</div>
+            The original lashing points are still usable even if you install the new floor. The flush lashing point of the new floor sits flat on the floor. It is also compatible with ProSafe.
+            </div>
             </div>
         </div>
       </div>
