@@ -87,10 +87,16 @@
 ">
    <h1 class="component-headline ">
         
-        Floor and wall cladding. <br> For utmost cargo compartment protection!
+   Floor and Wall Cladding: <br> Ensuring Complete Cargo Protection
       </h1>
 <div class="text">
-      <p style="text-align: center;">Floor and wall cladding are the basis of a professional vehicle conversion. This van wall cladding brings a significant contribution to <b>maintain the standard of a vehicle through the protective function, along with the vehicle-specific sets in different designs. StoreToGo offers the right solution for every application as per your requirement. Our solutions are available at <b>UAE & Oman.</b> </p></div>
+      <p style="text-align: center;">
+      Floor and wall cladding is integral in vehicle conversion. At StoreToGo, we provide different types of floor
+       and wall cladding kit based on the vehicle model and customer requirements. Our cladding solutions are useful
+        for professional vehicle conversions, especially for work vans, service vehicles, and commercial vehicles.
+         Our Solutions are available in the UAE and Oman. 
+
+        </p></div>
   </div></div>
 </div>
 
@@ -104,7 +110,7 @@
 <!-- STRT -->
 <div class="row sty-wid1">
  <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs" id="">
+<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs cladding-tiles" id="">
   <div class="low single-tile wide ghdlndj" style="background-image: url('images/product/boden-wand-kacheln-bodenverkleidung-690x340.jpg'); ">
       <div class="sortimo-tile-from-right sortimo-animate sortimo-tile-left" style="display: block;">
           <div class="text">
@@ -147,11 +153,10 @@
 <div id="comp_00001AGR" class="sortimo-component text-component small-header
 ">
    <h3 class="component-headline ">
-       Maximum protection. High flexibility. Unlimited system compatibility.
+   Enhanced Protection. High Flexibility. System Compatibility
       </h3>
       <h2 class="component-headline subheadline">
-        
-       The advantages of StoreToGo floor and wall cladding briefly.
+      The advantages of StoreToGo wall and floor cladding are as follows: 
       </h2>
   
 </div></div>
@@ -168,19 +173,19 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Preservation of vehicle value</span>
+                  Protects Vehicle Value </span>
                 </div>
               <div class="text">
-            Protects bodywork from wear and damage.</div>
+              Effectively protects the vehicle interior from scratches, dents and damage, maintaining it in good condition. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Cleanliness</span>
+                  Easy to Clean </span>
                 </div>
               <div class="text">
-            Easy-care, sturdy and easy to clean.</div>
+              The surface is durable and requires low maintenance. It is easy to wipe and wash. </div>
         </div>
       </div>
     <div class="image" style="background-image: url('images/product/boden-wand-produkthighlights.jpg');">
@@ -191,19 +196,19 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Preservation of vehicle value</span>
+                  Protects Vehicle Value</span>
                 </div>
               <div class="text">
-            Protects bodywork from wear and damage.</div>
+              Effectively protects the vehicle interior from scratches, dents and damage, maintaining it in good condition. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Cleanliness</span>
+                  Easy to Clean </span>
                 </div>
               <div class="text">
-            Easy-care, sturdy and easy to clean.</div>
+              The surface is durable and requires low maintenance. It is easy to wipe and wash.  </div>
         </div>
       </div>
     <div class="right-text">
@@ -213,23 +218,23 @@
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Bespoke individuality
+          Custom Options
       </div>
     
   
 <div class="text">
-            Different variants for all applications and vehicle types.</div>
+Our kits are available in different materials and designs to suite different vehicle needs and business uses. </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline ">
         
           <svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg>&nbsp;
         
-        Integrated load securing 
+          Secure Cargo Storage
       </div>
     
 <div class="text">
-            Lashing options for professional load securing already integrated.</div>
+It comes with built-in lashing points to safely secure tools, equipment and goods.  </div>
         </div>
       </div>
   </div>
@@ -257,22 +262,18 @@
 <!-- STRT -->
 <div class="row sty-wid1">
   <div class="yCmsComponent sortimo-component-slot clearfix">
-<div class="sortimo-component wide-low text-picture-component wide-low-right" id="comp_00001AKD">
-  <div class="row" style="background-color: #eeeff1;">
-    <div class="sortimo-blue-link text-container sortimo-dark-hover unjal" style="width: 695px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
-      ">
+<div class="sortimo-component wide-low text-picture-component boxxes-split boxxes-split-sm boxxes-split-right" id="comp_00001AKD">
+  <div class="row boxxes-split-row" style="background-color: #eeeff1;">
+    <div class="sortimo-blue-link text-container sortimo-dark-hover" style="background-color: #eeeff1;color: #546373;">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
-      
-
-<div class="text">
-        <p>With double floor solutions, the loading space can be used on a further level. The Jumbo-Unit XL drawer offers storage space for bulky and large loads on the floor of the vehicle and a StoreToGo floor with load securing concept and van racking is installed on it.</p>
-        </div>
+      <div class="text">
+        <p> Our double floor solution gives your van an extra storage layer. The Jumbo-Unit XL drawer is installed under the van floor, while the top remains usable for racks, tools and cargo.</p>
+      </div>
     </div>
-    <div class="image-container unjal" style="width: 695px; height: 340px;
-        background-image: url('images/product/boden-jumbounit-695x340.jpg');  float: right;">
-        <img src="images/product/boden-jumbounit-695x340.jpg" style="visibility: hidden;" alt="floor & wall cladding in UAE">
-      </div>  
+    <div class="image-container" style="background-image: url('images/product/boden-jumbounit-695x340.jpg');">
+      <img src="images/product/boden-jumbounit-695x340.jpg" style="visibility: hidden;" alt="floor & wall cladding in UAE">
     </div>
+  </div>
 </div></div>
 </div>
   <!-- END --> 

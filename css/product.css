@@ -1529,6 +1529,63 @@ justify-content: center;
   }
 }
 
+.tile-component.cladding-tiles {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100% !important;
+  max-width: 100%;
+}
+
+.sortimo-component.tile-component.cladding-tiles .single-tile,
+.sortimo-component.tile-component.cladding-tiles .single-tile.wide,
+.sortimo-component.tile-component.cladding-tiles .single-tile.wide.ghdlndj {
+  float: none !important;
+  box-sizing: border-box;
+  width: calc(50% - 10px) !important;
+  max-width: none !important;
+  height: auto !important;
+  padding-top: calc(25% - 5px) !important;
+}
+
+.tile-component.cladding-tiles .single-tile > div {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+#serico-hg .cladding-tiles .align-container {
+  padding: 24px 28px !important;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-sizing: border-box;
+  background: linear-gradient(180deg, rgba(0, 40, 80, 0.12) 0%, rgba(0, 32, 64, 0.55) 100%);
+}
+
+.tile-component.cladding-tiles .single-tile .component-headline,
+.tile-component.cladding-tiles .single-tile .tile-text {
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.55);
+}
+
+.tile-component.cladding-tiles .single-tile:hover .align-container {
+  background-color: rgba(4, 77, 139, 0.85);
+}
+
+@media (max-width: 1023px) {
+  .sortimo-component.tile-component.cladding-tiles .single-tile.wide,
+  .sortimo-component.tile-component.cladding-tiles .single-tile.wide.ghdlndj {
+    width: calc(100% - 10px) !important;
+    padding-top: 48% !important;
+  }
+
+  .tile-component.cladding-tiles .single-tile .component-headline {
+    font-size: 28px;
+  }
+}
+
 .tile-component.workplace-hero-tiles,
 .tile-component.workplace-inlay-tiles {
   display: flex;
