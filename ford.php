@@ -51,7 +51,7 @@
 
 </head>
 
-<body>
+<body class="ford-page">
 
 
     <?php $page = 'product';
@@ -239,9 +239,9 @@
             <!-- END -->
 
             <!-- STRT -->
-            <div class="row sty-wid">
+            <div class="row sty-wid ford-tiles-row">
                 <div class="yCmsComponent sortimo-component-slot clearfix nex-t">
-                    <div class="row sortimo-component tile-component" id="">
+                    <div class="sortimo-component tile-component nex-t ford-hero-tiles" id="">
                         <div class="low single-tile wide vdssf"
                             style="background-image: url('images/product/fahrzeughersteller-kachel-einrichtung-konfigurieren-690x340.jpg'); ">
                             <div class="sortimo-tile-from-top sortimo-animate sortimo-tile-top" style="display: block;">
@@ -483,9 +483,7 @@
                                     <p> The Ford Tureno Custom Business Edition combines business requirements with everyday flexibility.
                                          You can adjust the interior of the van to suit your needs. The seats can be removed entirely or you can move them along the guide rails,
                                           thus creating space whenever needed. This vehicle is ideal for transporting passengers, sports equipment, luggages and more. 
-
                                     </p>
-                                    <p>&nbsp;</p>
                                 </div>
                             </div>
                         </div>
