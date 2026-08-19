@@ -78,12 +78,13 @@
 ">
   
       <h1 class="component-headline ">
-        
-        Useful accessories <br> Additions for StoreToGo van racking!
+      Essential Accessories For <br> StoreToGo Van Racking
       </h1>
     
 <div class="text">
-      <p style="text-align: center;">The varied StoreToGo range of accessories serves as a<strong> practical supplement</strong><strong> to the van racking</strong> and the <strong>mobile workplace</strong> and also makes a <strong>professional impression</strong> on the customer.</p></div>
+      <p style="text-align: center;">
+      At StoreToGo we offer a wide range of essential accessories that enhances your van racking system, helping you transform it into a well organized  and professional mobile workplace.
+        </p></div>
   </div></div>
 
 </div>
@@ -169,7 +170,7 @@
   
       <div class="component-headline ">
         
-        Original accessories - individual and efficient
+      Practical and Unique Accessories
       </div>
     
   
@@ -194,8 +195,11 @@
       
 
 <div class="text">
-        <p>The challenge of also being able <strong>to work in a structured way while on the road</strong> is great, but can be met without any problems using genuine StoreToGo accessories. Because practical supplements such as work benches, dividers and even the smallest of organisation aids, such as hooks and holders  can make a valuable contribution to <strong>increasing efficiency</strong> in day-to-day working and <strong>optimise working procedures</strong>. Whether in van racking or the mobile workplace, original StoreToGo accessories ensure <strong>organisation</strong> and a <strong>professional presence</strong> at any location.</p>
-        </div>
+        <p>With practical accessories such as benches, dividers, hooks and holders you can enhance the efficiency of the van racking system
+           and ensure proper workflow. Choose StoreToGo accessories to keep your van organized, efficient and professional throughout the process. 
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -212,7 +216,7 @@
     
       <div class="component-headline ">
         
-        Electrical accessories - Mobile electrical power supply
+      Electrical Accessories- Mobile Electrical Power Supply
       </div>
     
   
@@ -233,8 +237,14 @@
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
       
 <div class="text">
-        <p>You need to rely on <strong>good performance</strong> as well as <strong>safety</strong>, particularly with electrical power supplies. Whether on the road or at a construction site, you depend on a properly functioning power supply and perfect <strong>illumination of your work station and loading space</strong>. StoreToGo electrical accessories offer a wide range of practical products that provide <strong>adequate lighting and power </strong>on site at any time. Inverters, lights, floodlights, sockets, switches and wiring looms provide the perfect base for this requirement.</p>
-        </div>
+        <p> When it comes to electrical power supply safety is a crucial factor. Whether you are on road or working at a construction site,
+           you need a reliable power supply and proper lighting and clear visibility in the loading areas. StoreToGo electrical accessories
+            are designed to provide practical solutions such as efficient lighting and availability of onsite power, whenever required.
+             Our electrical accessories include inverters, lights, floodlights, sockets, switches and wiring looms essential to create
+              a safe and functional mobile workspace. 
+
+        </p>
+      </div>
     </div>
     <div class="image-container unjal" style="width: 695px; height: 510px;
         background-image: url('images/product/zubehoer-elektrozubehoer-690x510.jpg');  float: right;">
@@ -255,7 +265,7 @@
 ">
       <div class="component-headline ">
         
-        Organisation at the wheel - The mobile office
+      An Organized Workspace On The Move- Your Mobile Office
       </div>
     
   
@@ -278,8 +288,12 @@
       
 
 <div class="text">
-        <p>Say goodbye to little bits of paper with notes on them! Intelligent organisational aids, such as the  Autoassistent&nbsp; and the Office bag, simply transform the passenger space of your car or commercial vehicle into a mobile office. Important documents are <strong>stored systematically</strong> here and are <strong>always quickly to hand</strong>. This means that time between appointments can be used <strong>productively for smaller administrative tasks</strong>.</p>
-        </div>
+         <p> Imagine running late to the office and having to carry important documents and notes altogether in the seat? StoreToGo saves you from this mess.
+           With our Autoassistant and Office bag, you can now keep everything inside the passenger area of your van. This way you can use the
+            time between appointments to complete small office tasks.  
+
+         </p>
+      </div>
     </div>
     </div>
 </div></div>
