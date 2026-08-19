@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>
@@ -84,14 +84,17 @@
     
       <h1 class="component-headline ">
         
-        Toyota and StoreToGo. <!-- br--> Solutions for more!
+      Toyota and StoreToGo 
       </h1>
     
     
     
   
 <div class="text">
-        As a partner of Toyota, StoreToGo opens mobile solutions for craftsmen and service providers. With a StoreToGo vehicle set-up, the Toyota van becomes a perfectly organized workshop, which makes working easier by optimizing workflow and saving time.</div>
+StoreToGo now works in partnership with Toyota to provide mobile van racking solutions for Toyota vans,
+ creating an organized workspace for service providers. 
+      
+      </div>
     </div>
     </div>
 </div></div>
@@ -112,13 +115,24 @@
 ">
  <div class="component-headline ">
         
-        Efficient in everyday working!
+ Efficient In Daily Tasks
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a <strong>Partner of Toyota</strong>, we very specifically simplify the procurement channels by offering <strong>joint solutions delivered directly from the Toyota factory</strong> – at attractive prices. Simply ask your Toyota salesperson.</p> <p style="text-align: center;">We also meet your very individual requirements. The online configurator <strong>StoreToGo configuration</strong> lets you create <strong>100% customised load area concepts for every Toyota van make online</strong>, quickly and easily order it online and have it installed in StoreToGo nationwide installation network.</p></div>
+      <p style="text-align: center;">
+      As the partner of Toyota, we offer customized van storage/load-area solutions directly through Toyota’s sales channel.
+       This way customers get all the racking solutions from one source without needing to deal with multiple suppliers. 
+
+          </p>
+          <p style="text-align: center;"> StoreToGo solutions come as joint Toyota-partner solutions, delivered directly from the Toyota factory, that too at competitive prices.  </p>
+        <p style="text-align: center;"> Customise your van’s loading based on your needs using StoreToGo online configurator.
+           Now you can design a custom load-area setup for any Toyota van model. Not just that, you can order
+            your custom set up and have it installed by StoreToGo’s installation network across the country. 
+
+        </p>
+        </div>
   </div></div>
 
 </div>
@@ -187,7 +201,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-       Your individual route to the perfect racking solution for Toyota vehicles
+      Custom Racking Solution For Toyota Vehicles
       </h2>
     
   
@@ -202,7 +216,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-       Simply configure van racking online
+      Simply configure van racking online
       </h2>
     
   
@@ -231,8 +245,17 @@
 
 
 <div class="text">
-        <p>With <strong>StoreToGo configuration</strong>, the StoreToGo online configurator, you can configure your own individual<strong> SR5 van racking</strong> in only <strong>a</strong> <strong>few step</strong>s, tailor-made for every Renault make online and also configure it for your specific industry.</p>
-        </div>
+        <p> Create your own customized SR5 van racking system with StoreToGo online configurator.
+           You can tailor this system to suit the different Toyota van models and set up the best racking system that
+            aligns with the specific needs of your industry.  
+
+        </p>
+        <p> You can order StoreToGo van racking systems directly through Toyota, along with the vehicle.
+           This way we ensure that the customers get a complete vehicle solution from a single supplier,
+            at one point contact at the Toyota dealership, saving your time and simplifying the purchase process.  
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
