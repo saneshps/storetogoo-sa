@@ -87,8 +87,9 @@
     
   
 <div class="text">
-        <p>The Jumbo-Unit is a compact <strong>XL drawer</strong>, which is ideal for <strong>rapid and secure stowage</strong> of heavy equipment and bulky materials as a subfloor solution.</p>
-        </div>
+        <p> The Jumbo-Unit is a compact XL drawer designed for the safe and convenient storage of heavy and bulky materials. </p>
+        <p> It is installed as a subfloor solution, making better use of the loading space inside the van ensuring easy access to large materials. </p>
+      </div>
     </div>
     </div>
 
@@ -110,14 +111,27 @@
       </div>
     <h2 class="component-headline subheadline">
         
-        The XL drawer as a double floor solution! 
+    The XL drawer as a double floor solution!
       </h2>
     
     
     
   
 <div class="text">
-      <p style="text-align: center;">With the practical double floor or subfloor solution, every last corner of the loading space can be used to its fullest extent. The XL drawers ensure a <strong>high load capacity</strong> and allow<strong> ergonomic loading and unloading</strong> of large or long and heavy goods via the rear or side door. The large subfloor drawers are covered with a StoreToGo floor so that they can <strong>be flexibly</strong> combined with van racking, WorkMos and load securing concepts – for <strong>maximum loading space utilisation</strong>. Using this compact option we can create concepts that enable <strong>downsizing of the vehicle</strong> and save money in vehicle procurement.</p></div>
+      <p style="text-align: center;">
+      With Jumbo-Unit you can use the available space inside your van more effectively.
+            
+            </p>
+            <p style="text-align: center;"> Install the drawers beneath the double floor or sub floor. This way you can store the </p>
+            <p style="text-align: center;"> Large drawers can be installed beneath a double floor or subfloor, helping you store heavy, bulky, or long items without taking up unnecessary space in the main loading area. 
+
+            </p>
+            <p style="text-align: center;"> You get easy access to the drawers through the side door of the van. This makes it easier to handle the loading and unloading of hefty items.  </p>
+            <p style="text-align: center;"> The Jumbo-Unit can be covered with a StoreToGo floor. You can use the space above the drawers for van racking systems, WorkMos, and load-securing solutions.  
+
+            </p>
+          
+          </div>
   </div></div>
 </div>
 <!-- END -->
@@ -141,12 +155,10 @@
 ">
   
       <h3 class="component-headline ">
-        
-        Maximum use of the cargo space 
+      Maximum use of the cargo space
       </h3>
     <h2 class="component-headline subheadline">
-        
-        Ergonomics. Order. Clarity. 
+    Ergonomics. Order. Clarity.
       </h2>
     
 </div></div>
@@ -163,20 +175,20 @@
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Maximum storage space</span>
+                  Maximum storage space </span>
                 </div>
               <div class="text">
-            for large &amp; heavy loads
+              Offers plenty of storage space for large, long, and heavy equipment.
 </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
           <div class="component-headline">
                   <span class="icon-span"><svg id="" xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35"><defs><style>.icon-produkthighlights-check-cls-1{fill:#546373;}.icon-produkthighlights-check-cls-2{fill:#fff;}</style></defs><title>icon-produkthighlights-check</title><circle class="icon-produkthighlights-check-cls-1" cx="17.5" cy="17.5" r="17.5"></circle><path class="icon-produkthighlights-check-cls-2" d="M-33.71-3.63a1.49,1.49,0,0,0-2.1,0h0l-8.83,9.52L-47.8,2.29a1.47,1.47,0,0,0-2.07-.17h0A1.54,1.54,0,0,0-50,4.27l4.23,4.91a1.48,1.48,0,0,0,1.09.52h0a1.52,1.52,0,0,0,1.08-.48l10-10.69A1.56,1.56,0,0,0-33.71-3.63Z" transform="translate(59.33 14.77)"></path></svg></span>
                   <span class="text-span">
-                    Ergonomics</span>
+                  Ergonomics</span>
                 </div>
               <div class="text">
-            ideal access to materials when pulled out
+              You can pull out the drawers easily and access the tools right away and also reduce the effort for loading and unloading. 
 </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -186,7 +198,8 @@
                     Cargo space utilisation</span>
                 </div>
               <div class="text">
-            Stowage and access to every last corner can lead to vehicle downsizing.
+              The subfloor drawers will help you use the spaces of vehicles which otherwise would have remained unused. <br>
+              This way, even if you choose a smaller van you can utilize the interior space efficiently. This helps to reduce costs.
 </div>
         </div>
       </div>
@@ -201,7 +214,7 @@
                     Maximum storage space</span>
                 </div>
               <div class="text">
-            for large &amp; heavy loads
+              Offers plenty of storage space for large, long, and heavy equipment.
 </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -211,7 +224,7 @@
                     Ergonomics</span>
                 </div>
               <div class="text">
-            ideal access to materials when pulled out
+              You can pull out the drawers easily and access the tools right away and also reduce the effort for loading and unloading. 
 </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -221,7 +234,8 @@
                     Cargo space utilisation</span>
                 </div>
               <div class="text">
-            Stowage and access to every last corner can lead to vehicle downsizing.
+              The subfloor drawers will help you use the spaces of vehicles which otherwise would have remained unused. <br>
+              This way, even if you choose a smaller van you can utilize the interior space efficiently. This helps to reduce costs.
 </div>
         </div>
       </div>
@@ -249,7 +263,7 @@
     
   
 <div class="text">
-            up to 100 kg
+The Jumbo-Unit  can carry loads of up to 100 kg. 
 </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -275,7 +289,7 @@
     
   
 <div class="text">
-            thanks to extremely strong telescopic slides and large drawer front
+The strong telescopic sides and large drawer front makes the unit easier to use.
 </div>
         </div>
       <div class="sortimo-dark-hover highlight-item sortimo-blue-link">
@@ -301,7 +315,7 @@
     
   
 <div class="text">
-            Despite the large storage space, thanks to flexible organisation options in the form of accessories such as dividers.
+You can use dividers to create compartments and organize your tools in specific sections. A clear arrangement will make your work easier. 
 </div>
         </div>
       </div>
@@ -333,7 +347,35 @@
   
 ">
   <div class="text">
-      <p>Heavy and bulky equipment is often difficult to store. Sharp-edged items fixed in place using tensioning belts are not entirely secure. In extreme driving situations, such as in case of sudden braking or even accidents, the belts may tear, making the cargo cause considerable damage – and not just to the vehicle. The solution: the StoreToGo Jumbo-Unit. The Jumbo-Unit, able to be used as a double floor / subfloor solution, impresses first and foremost through its <strong>easy operation and large volume</strong>. The safety aspect is ensured, of course, through sturdy construction. Used as a subfloor drawer, it can be covered with a StoreToGo <a>mounting and load securing floor</a>. This ensures that, despite the use of the Jumbo-Unit, further <a href="https://storetogo.ae/van-racking.php">van racking</a> systems can easily be used in the storage space. These are mounted to the floor above the Jumbo-Unit for maximum stability.</p><p>The <strong>enormous capacity of the underfloor drawer</strong> enables you to transport very heavy and bulky goods safely. At the same time, you also have the option of using dividers to partition them. It is therefore possible to limit the load to a minimum – thus minimising the risk of damage to the vehicle or physical injury. The large handle and the highly resilient telescopic slides can be used to ensure ergonomic loading and unloading. The loading process can be carried out both via the side door and via the rear door.</p><p>The clear advantage of the subfloor drawers is that they can be loaded up to the last corner. The <strong>optimum utilisation of loading space</strong> is a key topic, even when downsizing vehicles. This means that through maximum utilisation of the available storage space, more can be transported. With this approach, even a small transporter, equipped with subfloor drawers and a van racking system from StoreToGo, can take on a bigger load than a larger transporter without these components. At the same time, the solutions from StoreToGo enable a maximum degree of clarity and transparency regarding the goods being transported.</p><p>The Jumbo-Unit XL Drawer not only protects the loading space of your vehicle. Heavy cargo can unleash enormous forces once it starts slipping. With the Jumbo-Unit, such tools and supplies can be stored quickly, easily and securely. The risk of slipping and <strong>thus associated risks for road safety are virtually eliminated</strong>. For one thing, this ensures that you do not need to worry about your load even in dangerous situations on the road, and, for another thing, that the vehicle interior is not damaged. This results in better value retention of your vehicle.</p></div>
+      <p>
+      The safe transport of heavy and bulky materials are crucial. Strapping such items with tensioning belts alone may not suffice. 
+     </p>
+       <p> When drivers hit the brake suddenly, unsecured items may slip or topple, damaging the van and causing other fatal risks.
+         The StoreToGo Jumbo-Unit offers a practical solution.
+
+       </p> 
+       <p> The strong and durable built secures stores bulky items beneath your van’s floor. You can also install the StoreToGo mounting
+         and load securing floor above the Jumbo unit and thereby create space on the top.
+
+       </p> 
+       <p> This way you can efficiently use the drawer system and eliminate storage issues.</p>     
+       <p> Heavy and bulky items can be stored safely on the underfloor drawer. Additionally, you can create separate sections
+         in the drawer using the dividers and allocate separate spaces for multiple tools. 
+
+       </p>  
+       <p> As discussed earlier, the telescopic slides make loading and unloading easier. Depending on the van set up you
+         access the drawer either from the rear door or side door. 
+
+       </p>   
+       <p> Subfloor drawers help you to use loading spaces right up to the corners.  </p> 
+       <p> This way a small van fitted with the StoreToGo van racking solutions combined with the Jumbo-unit drawers
+         will be able to carry more loads compared to large vehicles that don't have an organized storage system. 
+
+       </p>
+       <p> With the Jumbo-Unit you get a clear overview of the tools, their exact positions and transport them safely.  </p>
+       <p> Jumbo-units secures heavy and bulky materials and prevents them from sliding, preventing damage to your vehicle. </p>
+                    
+    </div>
   </div></div>
 </div>
 <!-- END -->

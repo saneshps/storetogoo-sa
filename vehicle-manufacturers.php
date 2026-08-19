@@ -160,7 +160,7 @@
 
         
 
-        Automotive industry partner
+      Automotive Industry Partner
 
       </div>
 
@@ -168,7 +168,18 @@
 
 <div class="text">
 
-      <p style="text-align: center;"><strong>Fast procurement channels, exceeding individual requests</strong> and getting the <strong>most of out of the working day for you</strong> – that’s the StoreToGo commitment, which we hope to fulfil jointly with our partners. <strong>Working closely with the automotive industry</strong>, StoreToGo designs van racking systems that are perfectly adapted to the <strong>connection interfaces on every single make of vehicle</strong>. This provides the major advantage that there is no damage to the body of the van and ensures<strong> maximum utilisation of the load area. As the only manufacturer of van racking systems, StoreToGo has designed a racking system that flexibly fits the contour of the vehicle at all times.</strong></p></div>
+      <p style="text-align: center;">
+      When you spend most of the day working from your van, it is important that you maintain it well organized.
+       Confused how to do it? StoreToGo is your answer. We offer an efficient van racking system designed to
+        upgrade your vehicle providing a practical storage solution that suits the van model and industrial requirements. 
+
+            </p>
+            <p style="text-align: center;"> Each of the storage systems are carefully installed inside your van, well utilizing the available space.
+               You can install the racking using the mounting points inside the van, without needing to drill any extra points.  
+
+            </p>
+          
+          </div>
 
   </div></div>
 
@@ -648,7 +659,17 @@
 
   <div class="text">
 
-      <p style="text-align: center;">StoreToGo therefore offers customers the option to – individually and precisely – configure a van racking system to their new van or even rely on preconfigured <strong>industry deals</strong> and factory solutions. And anyone who prefers personal contact can, of course, plan their van racking system with their StoreToGo consultant, or simply discuss it with their commercial vehicle salesperson when buying the vehicle. StoreToGo offers tailor-made, individual and industry-specific <strong>solutions for all makes of vehicle</strong>!</p></div>
+      <p style="text-align: center;">
+      StoreToGo van racking systems are available for a wide range of popular brands such as:
+Fiat Professional, Ford, Volkswagen, Mercedes-Benz, Nissan, Opel, Peugeot, Renault, Toyota, Citroen and Iveco. 
+
+        
+       <br> You can create a customized racking system for your van or select a ready-made system that suits your industrial
+         and work requirements or brainstorm and plan your racking system with the help of a StoreToGo consultant.  
+
+      <br> Wherever you drive and whatever you trade, we make sure that your load-area is efficient, organized and practical.  </p>
+      
+      </div>
 
   </div></div>
 
