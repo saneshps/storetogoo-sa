@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>
@@ -83,15 +83,20 @@
     
       <h1 class="component-headline ">
         
-        Your Volkswagen. Our&nbsp;solution!
+      Your Volkswagen. Our Solution
       </h1>
     
     
     
   
 <div class="text">
-        <p>StoreToGo is opening up new dimensions <strong>for tradespeople and service providers</strong> as a Volkswagen Commercial Vehicle <strong>Premium Partner</strong>. Equipped with StoreToGo van racking, the Volkswagen Commercial Vehicles Transporter is literally transformed into a <strong>perfectly organised workplace</strong>, which enables you to <strong>work professionally</strong> and <strong>save a lot of time</strong> in your day-to-day working.</p></div>
-    </div>
+       <p> StoreToGo van racking now partners with Volkswagen Commercial vehicles to provide professional van racking solutions.
+         Our van racking transforms the Volkswagen Commercial Vehicles Transporter into a well organized mobile workplace.
+          This way tools and other materials can be stored neatly in the racks and shelves, helping the tradespeople and
+           service providers can meet the day to day affairs efficiently.  
+
+       </p>
+      </div>
     </div>
 </div></div>
    
@@ -111,18 +116,30 @@
 ">
   
       <div class="component-headline ">
-        
-        Efficient in everyday working, quick to procure, attractively priced!
+      Efficient Van Racking At Great Value
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a Volkswagen Commercial Vehicles Premium Partner, we very specifically simplify the procurement channels by offering joint solutions <strong>delivered directly from the VW Commercial Vehicles factory</strong> – at attractive prices. Simply ask your Volkswagen Commercial Vehicles salesperson.</p>
-<p style="text-align: center;">&nbsp;We also meet your very individual requirements. The Online Configurator <u><a href="">StoreToGo configuration</a></u> lets you <strong>create 100% customised load area concepts for every VW Commercial Vehicle</strong> <strong>make online</strong>, quickly and easily <strong>order it online </strong>and have it <strong>installed</strong> in StoreToGo nationwide installation network.</p>
+      <p style="text-align: center;">
+      Yes, StoreToGo makes it easier for customers to avail the perfect van racking solution for Volkswagen
+       Commercial Vehicles. Being the premium partner, StoreToGo offers ready-made van racking solutions,
+        directly through Volkswagen, that too at attractive prices.  This does away with the need
+         to deal with multiple suppliers.
+     </p>
+ <p style="text-align: center;"> You can also customize your van racking systems. You can design the storage layout inside your van based on your work needs.
+   Using an online configurator, you can choose the drawers, racking, shelves and other accessories and layout
+    that suits the different VW Commercial Vehicle models. It is simple, order it online and have it installed 
+    through our nationwide installation network.  
 
-<p style="text-align: center;">Time and time again, individual trades benefit from <strong>industry deals</strong> that we offer at promotional prices jointly with our partner VW Commercial Vehicles. Individual accessories enable them to be adapted to the very specific requirements of every tradesperson or service technician. The best way is to ask your commercial vehicle salesperson for the joint StoreToGo offers.</p></div>
-  </div></div>
+ </p>
+ <p style="text-align: center;"> We along with Volkswagen offer special industry deals for different trades, service technicians and other professionals,
+   with accessories that suits specific working needs.  
+
+ </p>
+
+</div></div>
 
 </div>
 <!-- END -->
@@ -190,7 +207,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-     Your individual route to the perfect racking solution for Volkswagen commercial vehicles
+      Custom Van Racking Solutions For VolksWagen Commercial Vehicles. 
       </h2>
     
   
@@ -204,7 +221,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-     Simply configure van racking online
+      Configure The Van Racking Online
       </h2>
     
   
@@ -232,8 +249,11 @@
 
 
 <div class="text">
-        <p>With <a href="">StoreToGo configuration</a>, the StoreToGo Online Configurator, you can configure your own individual <strong>SR5 van racking</strong> in only <strong>a few steps</strong>, tailor-made for every Volkswagen Commercial Vehicles make <strong>online</strong> and also configure it for your specific industry.</p>
-        </div>
+        <p> You can design your own SR5 racking system online. With our service you can choose a layout and tailor
+           it according to your VW vehicle and your specific industry. 
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -254,7 +274,7 @@
 <div id="comp_00001AHT" class="sortimo-component text-component small-header
 ">
    <h3 class="component-headline ">
-        Order StoreToGo directly ex-works from Volkswagen Commercial Vehicles.
+   Order StoreToGo Directly From Volkswagen Commercial Vehicles 
       </h3>
     
 </div></div>
@@ -278,8 +298,19 @@
 
 
 <div class="text">
-        <p>One-stop supplier! StoreToGo van racking systems can be purchased and financed <strong>directly together with the transporter</strong>. The customer therefore receives his <strong>complete vehicle at a single point of contact</strong>, saving time, costs and unnecessary organisational processes. The factory solutions can be purchased from every <strong>Volkswagen Commercial Vehicles dealership</strong>.</p>
-        </div>
+        <p> Yes, now you can buy Volkswagen transporter van and StoreToGo van racking system together from Volkswagen.
+           This helps customers to avoid the hassle of buying a van and the racking system from two different places.
+            This way the customer gets:  
+
+        </p>
+        <ul> 
+          <li> Vehicle 
+          </li>
+          <li> Van racking </li>
+          <li> Hassle free financing </li>
+          <li> Saves time and reduces extra work.  </li>
+        </ul>
+      </div>
     </div>
     <div class="image-container vdssf" style="width: 695px; height: 340px;
         background-image: url('images/product/volkswagen-kachel-werksloesung-690x340.jpg');  float: right;">
