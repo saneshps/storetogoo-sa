@@ -192,7 +192,7 @@
 
  <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 
-<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs" id="">
+<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs workplace-hero-tiles" id="">
 
   <div class="low single-tile small OADFHAWSDFNC SDFFGVSDZXCV erftg" style="background-image: url('images/product/ladungssicherung-kacheln-verzurrgurte-340x340.jpg'); ">
 
