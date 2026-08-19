@@ -1525,6 +1525,19 @@ justify-content: center;
   width: calc(25% - 10px) !important;
 }
 
+#comp_00001ADQ .text.first-text ul li {
+  text-align: left;
+}
+#comp_00001ADQ .text.first-text  {
+  text-align: left;
+  padding: 10px 20px;
+
+}
+#comp_00001ADQ .text.second-text {
+  text-align: left;
+  padding: 10px 20px;
+} 
+
 @media (max-width: 1023px) {
   .boxxes-split .boxxes-split-row {
     flex-wrap: wrap;
@@ -6276,10 +6289,7 @@ justify-content: center;
   .sortimo-component.slots-component .item-wrapper .slot-item.small-slot.wid {
     max-width: 100%;
   }
-
-
-
-
+ 
 
   .tooltip-tab {
     padding-bottom: 20px

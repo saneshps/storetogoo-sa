@@ -85,16 +85,15 @@
       ">
                             <div class="arrow-container" style="background-color: #eeeff1;"></div>
                             <h1 class="component-headline ">
-
-                                Your Citroën. Our Solution!
+                            StoreToGo And Citroen
                             </h1>
 
 
                             <div class="text">
-                                <p>As a partner of the automotive industry, StoreToGo offers made-to-measure individual
-                                    solutions for Citroën commercial vehicles, transforming the van into a
-                                    per&shy;fectly organised workshop and significantly improving your working day on
-                                    the go.</p>
+                                <p> Turn your Citroen van into an efficient mobile workshop with StoreToGo.
+                                     You can create a custom van racking set up that suits your van model, helping you store necessary tools,
+                                      making your daily-tasks easier and manageable.
+                                 </p>
                             </div>
                         </div>
                     </div>
@@ -117,21 +116,17 @@
 
                         <div class="component-headline ">
 
-                            Efficient in everyday working, quick to procure, attractively priced!
+                        Work Smarter With A Perfectly Organized Citroen Van
                         </div>
 
 
                         <div class="text">
-                            <p style="text-align: center;">As a<strong> partner of the automotive industry</strong>,
-                                StoreToGo opens new horizons for <strong>cr</strong><strong>aftsmen and service
-                                    providers</strong>.With the StoreToGo fittings, Citroën's utility vehicle is
-                                transformed into a <strong>perfectly organized workshop</strong> that <strong>allows for
-                                    a professional day-to-day job and is a great time saver</strong>.</p>
-                            <p style="text-align: center;">We meet individual needs as a partner of Citroën. The online
-                                configurator<strong> StoreToGo configuration</strong> lets you <strong>create 100%
-                                    customised load area concepts for every Citroën transporter make online</strong>,
-                                quickly and easily order it online and have it installed in StoreToGo nationwide
-                                installation network.</p>
+                            <p style="text-align: center;"> StoreToGo helps service providers and technicians to create a practical and perfectly
+                                 organized mobile work space easily and quickly at a competitive price. Using StoreToGo online configurator you
+                                  can create a custom van racking solution ensuring that every tool and piece of equipment has a perfect place. 
+                                  Once the online configuration is complete, you place an order online and have it installed through the nationwide StoreToGo installation network.
+
+                            </p> 
                         </div>
                     </div>
                 </div>
@@ -211,7 +206,7 @@
 ">
                         <h2 class="component-headline ">
 
-                            Your individual route to the perfect racking solution for Citroën vehicles
+                        Create Your Custom Van Racking Solution
                         </h2>
 
 
@@ -237,17 +232,14 @@
 
                                 <div class="component-headline ">
 
-                                    Configure your van racking online now
+                                Configure Your Van Racking Online
                                 </div>
 
 
 
                                 <div class="text">
-                                    <p>With StoreToGo configuration, the StoreToGo Online Configurator, you can
-                                        configure your own individual <strong>SR5 van racking</strong> in only a few
-                                        steps, tailor-made for every <span id="z_vt_grc" class="z-label">Citroën
-                                        </span>transporter make <strong>online</strong> and also configure it for your
-                                        specific industry.</p>
+                                    <p> With StoreToGo online configurator you create customized SR5 van racking 
+                                        system that suits the vehicle model and the industrial requirement. </p>
                                 </div>
                             </div>
                         </div>

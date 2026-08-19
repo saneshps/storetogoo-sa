@@ -88,13 +88,14 @@
                             <div class="arrow-container" style="background-color: #eeeff1;"></div>
                             <h1 class="component-headline ">
 
-                                Stronger together!
+                            StoreToGo And Ford- Stronger Together!
                             </h1>
                             <div class="text">
-                                <p>StoreToGo is a Ford <strong>Qualified Vehicle Modifier</strong>, so customers to
-                                    benefit from joint solutions for <strong>tradespeople, service providers, business
-                                        customers</strong> and <strong>leisure-seekers</strong>. Simple to procure,
-                                    perfect for mobile use.</p>
+                                <p> As a Ford qualified vehicle modifier, you can now purchase a Ford commercial van with an efficient StoreToGo
+                                     van racking solution through a single convenient process. Whether you are service technician, tradesperson,
+                                      or a business owner, our partnership helps you procure a practical van racking solution that fits your daily affairs. 
+
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -116,31 +117,41 @@
 ">
                         <div class="component-headline ">
 
-                            Efficient in everyday working, quick to procure, attractively priced!
+                        Your Van and Racking System- One Solution, One Supplier
                         </div>
 
-                        <div class="text">
-                            <p style="text-align: center;">As a <strong>Ford Qualified Vehicle Modifier</strong>, we
-                                very specifically simplify the procurement channels by offering joint solutions
-                                <strong>delivered directly from the Ford factory</strong> – at attractive prices. Simply
-                                ask your Ford Commercial Vehicles salesperson.
-                            </p>
-                            <p style="text-align: center;">We also meet your very individual requirements. The Online
-                                Configurator <em>my</em>StoreToGo configuration lets you <strong>create 100% customised
-                                    load area concepts for every Ford Vehicle make online</strong>, quickly and
-                                easily<strong> order it online</strong> and have it<strong> installed</strong> in
-                                StoreToGo nationwide installation network.</p>
-                            <p>StoreToGo configuration is available online in Germany, Austria, France, Belgium, the
-                                Netherlands, Denmark, the UK and Ireland. If it is not yet online in your country,
-                                please contact us.</p>
-                            <p style="text-align: center;">Time and time again, individual trades benefit from
-                                <strong>industry deals</strong> that we offer at promotional prices jointly with our
-                                partner Ford. Individual accessories enable them to be adapted to the very specific
-                                requirements of every tradesperson or service technician. The best way is to ask your
-                                commercial vehicle salesperson for the joint StoreToGo offers – and take a look at the
-                                latest top deals here.
-                            </p>
+                        <div class="row">
+
+                        <div class="text first-text col-md-6">
+                            <p> Buying a work vehicle shouldn’t be a hassle. Now you can order the StoreToGo racking system directly through the Ford Commercial vehicles sales person along with your work van. 
+
+                            </p> 
+                            <p>  This way you get a one point complete solution, helping you save time and money.  StoreToGo solutions can be:  </p>
+                            <ul>
+                                <li>  Ordered easily online  </li>
+                                <li>  Designed according to the van and use  </li>
+                                <li>  Made available at competitive prices  </li>
+                            </ul>
+                            <p> You can also ask your Ford Commercial sales person to know more about the attractive packages they offer. </p>
                         </div>
+                        <div class="text second-text col-md-6">
+                            <p> With the online configurator myStoreToGo, you can design custom load area layout that suits your van model and work requirement,
+                                 order it online and have them installed through StoreToGo’s nationwide installation network. 
+                                 </p>  
+                                 <p> The Online Configurator is currently available in Germany, France, Australia, Belgium, Denmark, Netherlands, the UK and Ireland.
+                                     If the configurator is not yet available in your country, please contact StoreToGo directly. 
+
+                                 </p>
+                                 <p> Additionally StoreToGo and Ford offers promotional packages for specific trades and industries.
+                                     These solutions are designed to suit the daily task requirements of tradespersons, service technicians and other mobile working teams.  
+
+                                 </p>
+                        </div>
+
+                        </div>
+
+
+
                     </div>
                 </div>
             </div>
@@ -218,7 +229,7 @@
                     <div id="comp_00001AIH" class="sortimo-component text-component small-header
 ">
                         <h2 class="component-headline ">
-                            Your individual route to the perfect racking solution for Ford commercial vehicles
+                        Find The Right Van Racking Solution For Ford Commercial Vehicles
                         </h2>
 
 
@@ -301,7 +312,7 @@
                     <div id="comp_00001AKF" class="sortimo-component text-component small-header
 ">
                         <h3 class="component-headline ">
-                            Simply configure van racking online
+                        Simply Configure Van Racking Online
                         </h3>
 
                     </div>
@@ -326,10 +337,7 @@
                                 <div class="arrow-container" style="background-color: #eeeff1;"></div>
 
                                 <div class="text">
-                                    <p>With StoreToGo configuration, the StoreToGo Online Configurator, you can
-                                        configure your own individual <strong>SR5 van racking</strong> in only a
-                                        <strong>few steps</strong>, tailor-made for every Ford make
-                                        <strong>online</strong> and also configure it for your specific industry.
+                                    <p> With StoreToGo Online Configurator, you can design your own SR5 van racking that suits your Ford van model and the industrial requirements easily. 
                                     </p>
                                 </div>
                             </div>
@@ -347,7 +355,7 @@
 ">
                         <h3 class="component-headline ">
 
-                            Order StoreToGo directly ex-works from Ford
+                        Order StoreToGo Van Racking Directly From Ford
                         </h3>
                     </div>
                 </div>
@@ -365,12 +373,8 @@
 
 
                                 <div class="text">
-                                    <p>One-stop supplier! StoreToGo van racking systems can be purchased and financed
-                                        <strong>directly together</strong> with the Transporter. The customer therefore
-                                        receives his <strong>complete vehicle</strong> at a <strong>single point of
-                                            contact</strong>, saving time, costs and unnecessary organisational
-                                        processes. The factory solutions can be purchased from every
-                                        <strong>Ford</strong> <strong>dealership</strong>.
+                                    <p> You can order StoreToGo van racking system and Ford van together directly from Ford.
+                                         This way you get a conjoint solution at a single point of contact, thus saving your time and money. 
                                     </p>
                                 </div>
                             </div>
@@ -391,7 +395,7 @@
 ">
                         <h3 class="component-headline ">
 
-                            Ford Tourneo Custom Euroline
+                        Ford Tourneo Custom Euroline 
                         </h3>
 
                         <div class="component-headline subheadline">
@@ -416,13 +420,11 @@
                                 <div class="arrow-container" style="background-color: #eeeff1;"></div>
 
                                 <div class="text">
-                                    <p>Whether you’re out and about with friends, driving the kids to school, arranging
-                                        spontaneous overnight stays or a weekend trip – the Euroline adapts to all your
-                                        needs. Its spacious interior concept means there is plenty of space for all your
-                                        leisure equipment, including bikes, wakeboards or camping accessories. The
-                                        flexibility of the Euroline simply cannot fail to impress inprofessional life
-                                        too. It offers plenty of space for transporting people and even the option of
-                                        holding a meeting in the passenger compartment. </p>
+                                    <p> Ford Euroline is designed for people who want flexibility. You can use the vehicle for family trips, outings with friends,
+                                         school runs, spontaneous overnight stays and even weekend breaks. It has a spacious interior that helps you store bikes,
+                                          wakeboards and all other camping equipment. Additionally the Euroline is also suitable for business use. 
+                                          The generous passenger space can be used for meetings as well, even while you are on the move. 
+                                         </p>
                                 </div>
                             </div>
                             <div class="image-container vdssf" style="width: 695px; height: 510px;
@@ -443,7 +445,7 @@
 
                         <h3 class="component-headline ">
 
-                            Ford Tourneo Custom Business Edition
+                        Ford Tureno Custom Business Edition
                         </h3>
 
                         <div class="component-headline subheadline">
@@ -478,11 +480,11 @@
 
 
                                 <div class="text">
-                                    <p>The Ford Tourneo Custom with Business Edition equipment offers sufficient space
-                                        both for business and for private pleasure. The individually adjustable interior
-                                        concept can be adapted to individual requirements. Guide rails enable the seats
-                                        to be flexibly positioned or even fully removed, leaving plenty of space for
-                                        even pushchairs, dogs, sports equipment and luggage.</p>
+                                    <p> The Ford Tureno Custom Business Edition combines business requirements with everyday flexibility.
+                                         You can adjust the interior of the van to suit your needs. The seats can be removed entirely or you can move them along the guide rails,
+                                          thus creating space whenever needed. This vehicle is ideal for transporting passengers, sports equipment, luggages and more. 
+
+                                    </p>
                                     <p>&nbsp;</p>
                                 </div>
                             </div>

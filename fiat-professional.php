@@ -90,15 +90,13 @@
 
               <h1 class="component-headline ">
 
-                Fiat Professional <br> and StoreToGo.
+              StoreToGo And Fiat- The Professional Combo
               </h1>
 
               <div class="text">
-                <p>StoreToGo and Fiat Professional work in close partnership on joint solutions
-                  <strong>for tradespeople</strong> and <strong>service providers</strong>. After all,
-                  StoreToGo van racking systems transform vans into <strong>perfectly organised
-                    workshops</strong>, which we are both able to offer on the best terms and
-                  conditions.
+                <p> StoreToGo and Fiat Professional partners together providing joint van racking solutions for tradespersons and service technicians.
+                   They can upgrade and organize their Fiat commercial van with the efficient load-area storage solutions from StoreToGo. 
+
                 </p>
               </div>
             </div>
@@ -121,28 +119,26 @@
 ">
             <div class="component-headline ">
 
-              Efficient in everyday working, quick to procure, attractively priced!
+            Custom Van Racking Solution For Your Van- Simple, Reliable And Affordable
             </div>
 
 
 
             <div class="text">
-              <p style="text-align: center;">As a Partner to Fiat Professional, we very specifically
-                simplify the procurement channels by offering joint solutions <strong>delivered directly
-                  from the Ford factory</strong> – at attractive prices. Simply ask your Ford
-                Commercial Vehicles salesperson.</p>
-              <p style="text-align: center;">We also meet your very individual requirements. The Online
-                Configurator StoreToGo <strong>configuration lets you create 100% customised load area
-                  concepts for every Fiat Professional make online</strong>, quickly and
-                <strong>easily order </strong>it online and have it <strong>installed</strong> in
-                StoreToGo nationwide installation network.
+              <p style="text-align: center;"> Make your van more efficient with the van racking solutions designed
+                 according to your needs. With StoreToGo, you can design your own custom load-area set up that suits
+                  your Fiat professional vehicle. Whether you are a service professional or technician always on the go,
+                   you can choose the apt accessories and storage features to upgrade your van.
+
+              </p>
+              <p style="text-align: center;"> Using the StoreToGo online configurator, you can create your own van interior design,
+                 order it online and get them installed through the nationwide StoreToGo installation network. 
+
               </p>
 
-              <p style="text-align: center;">Time and time again, individual trades benefit from
-                <strong>industry deals</strong> that we offer at promotional prices jointly with our
-                partner Fiat Professional. Individual accessories enable them to be adapted to the very
-                specific requirements of every tradesperson or service technician. The best way is to
-                ask your commercial vehicle salesperson for the joint StoreToGo offers.
+              <p style="text-align: center;"> Additionally we also provide competitively priced accessories and promotional packages as well.
+                 You can contact your Fiat commercial vehicle sales person to know more about the latest offers. 
+
               </p>
             </div>
           </div>
@@ -222,7 +218,7 @@
           <div id="comp_00001AIH" class="sortimo-component text-component small-header
 ">
             <h2 class="component-headline ">
-              Your individual route to the perfect racking solution for Fiat Professional vehicles
+            The Perfect Van Racking Solution For Fiat Professional Vehicles
             </h2>
 
 
@@ -253,10 +249,7 @@
 
 
                 <div class="text">
-                  <p>With StoreToGo configuration, the StoreToGo Online Configurator, you can
-                    configure your own individual <strong>SR5 van racking</strong> in only <strong>a
-                      few steps</strong>, tailor-made for every Fiat Professional make
-                    <strong>online</strong> and also configure it for your specific industry.
+                  <p> Using the StoreToGo online configurator you can design custom SR5 van racking through simple steps that suit your vehicle model and industrial needs. 
                   </p>
                 </div>
               </div>
@@ -275,7 +268,7 @@
 ">
             <h3 class="component-headline ">
 
-              Order StoreToGo directly ex-works from Fiat Professional
+            Order StoreToGo Van Racking Solution Directly From Fiat
             </h3>
 
           </div>
@@ -296,12 +289,10 @@
 
 
                 <div class="text">
-                  <p>One-stop supplier! StoreToGo van racking systems can be purchased and financed
-                    <strong>directly together with the transporter</strong>. The customer therefore
-                    receives his <strong>complete vehicle </strong>at<strong> a single point of
-                      contact</strong>, saving time, costs and unnecessary organisational
-                    processes. The factory solutions can be purchased from every <strong>Fiat
-                      Professional Vehicles dealership</strong>.
+                  <p> Get your new Ford commercial van and StoreToGo van racking system together from Ford Professional Factory.
+                     This way you receive a complete, ready-to-use work van doing away with the hassle of contacting multiple suppliers.
+                      Fiat professional dealerships help you manage the entire process, thus saving time and cost. 
+
                   </p>
                 </div>
               </div>
