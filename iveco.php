@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>

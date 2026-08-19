@@ -51,7 +51,7 @@
 
 </head>
 
-<body class="ford-page">
+<body class="manufacturer-page ford-page">
 
 
     <?php $page = 'product';

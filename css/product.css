@@ -7085,11 +7085,11 @@ justify-content: center;
   }
 }
 
-/* ===== Ford page responsive ===== */
-.ford-page #serico .yCmsComponent.sortimo-component-slot,
-.ford-page #serico-hg .row.sty-wid > .yCmsComponent,
-.ford-page #serico-hg .row.sty-wid1 > .yCmsComponent,
-.ford-page #serico-hg .row.sty-wid.ford-tiles-row > .yCmsComponent {
+/* ===== Manufacturer product pages (Ford, Iveco, etc.) ===== */
+.manufacturer-page #serico .yCmsComponent.sortimo-component-slot,
+.manufacturer-page #serico-hg .row.sty-wid > .yCmsComponent,
+.manufacturer-page #serico-hg .row.sty-wid1 > .yCmsComponent,
+.manufacturer-page #serico-hg .row.sty-wid.ford-tiles-row > .yCmsComponent {
   width: 100% !important;
   max-width: 100% !important;
   margin-left: 0 !important;
@@ -7098,29 +7098,43 @@ justify-content: center;
   box-sizing: border-box;
 }
 
-.ford-page #serico-hg .row.sty-wid,
-.ford-page #serico-hg .row.sty-wid1 {
+.manufacturer-page #serico-hg .row.sty-wid,
+.manufacturer-page #serico-hg .row.sty-wid1 {
   width: 100% !important;
   max-width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
-.ford-page .sortimo-component.text-picture-component {
+.manufacturer-page #serico .container-fluid,
+.manufacturer-page #serico-hg .container-fluid {
+  width: 100% !important;
+  max-width: 100% !important;
+  padding-left: 15px;
+  padding-right: 15px;
+  box-sizing: border-box;
+}
+
+.manufacturer-page .centet-all {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.manufacturer-page .sortimo-component.text-picture-component {
   width: 100% !important;
   max-width: 100% !important;
   float: none !important;
 }
 
-.ford-page .sortimo-component.text-picture-component > .row {
+.manufacturer-page .sortimo-component.text-picture-component > .row {
   display: flex !important;
   flex-wrap: wrap !important;
   width: 100% !important;
   margin: 0 !important;
 }
 
-.ford-page .sortimo-component.text-picture-component .image-container,
-.ford-page .sortimo-component.text-picture-component .text-container {
+.manufacturer-page .sortimo-component.text-picture-component .image-container,
+.manufacturer-page .sortimo-component.text-picture-component .text-container {
   float: none !important;
   width: 50% !important;
   max-width: 50% !important;
@@ -7128,35 +7142,35 @@ justify-content: center;
   height: auto !important;
 }
 
-.ford-page .sortimo-component.text-picture-component .image-container {
+.manufacturer-page .sortimo-component.text-picture-component .image-container {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
 }
 
-.ford-page .sortimo-component.text-picture-component.wide-low .image-container {
+.manufacturer-page .sortimo-component.text-picture-component.wide-low .image-container {
   aspect-ratio: 695 / 340;
   min-height: 220px;
 }
 
-.ford-page .sortimo-component.text-picture-component.wide-high .image-container {
+.manufacturer-page .sortimo-component.text-picture-component.wide-high .image-container {
   aspect-ratio: 695 / 510;
   min-height: 260px;
 }
 
-.ford-page .sortimo-component.text-picture-component.wide-image .image-container {
+.manufacturer-page .sortimo-component.text-picture-component.wide-image .image-container {
   aspect-ratio: 1050 / 510;
   min-height: 260px;
 }
 
-.ford-page .sortimo-component.text-picture-component .image-container img {
+.manufacturer-page .sortimo-component.text-picture-component .image-container img {
   display: block;
   width: 100% !important;
   height: auto !important;
   max-width: 100%;
 }
 
-.ford-page .sortimo-component.text-picture-component .text-container {
+.manufacturer-page .sortimo-component.text-picture-component .text-container {
   min-height: auto !important;
   display: flex;
   flex-direction: column;
@@ -7164,38 +7178,38 @@ justify-content: center;
   padding: 28px 32px !important;
 }
 
-.ford-page .sortimo-component.text-picture-component .text-container .text p {
+.manufacturer-page .sortimo-component.text-picture-component .text-container .text p {
   margin-bottom: 0;
 }
 
-.ford-page .sortimo-component.download-component {
+.manufacturer-page .sortimo-component.download-component {
   width: 100% !important;
   max-width: 100% !important;
   margin-left: 0 !important;
   margin-right: 0 !important;
 }
 
-.ford-page .sortimo-component.download-component .download-item {
+.manufacturer-page .sortimo-component.download-component .download-item {
   width: 340px !important;
   max-width: calc(100% - 10px) !important;
   height: auto !important;
   min-height: 340px;
 }
 
-.ford-page #serico-hg .text-component .component-headline.subheadline {
+.manufacturer-page #serico-hg .text-component .component-headline.subheadline {
   position: static !important;
   display: block;
   margin-top: 12px;
   text-align: center;
 }
 
-.ford-page #serico-hg .text-component.big-header .row {
+.manufacturer-page #serico-hg .text-component.big-header .row {
   margin-left: 0;
   margin-right: 0;
 }
 
-.ford-page #serico-hg .text-component.big-header .text.first-text,
-.ford-page #serico-hg .text-component.big-header .text.second-text {
+.manufacturer-page #serico-hg .text-component.big-header .text.first-text,
+.manufacturer-page #serico-hg .text-component.big-header .text.second-text {
   float: none;
 }
 
@@ -7211,12 +7225,12 @@ justify-content: center;
     aspect-ratio: auto;
   }
 
-  .ford-page #serico .sortimo-component.wide-image .image-container {
+  .manufacturer-page #serico .sortimo-component.wide-image .image-container {
     width: 62% !important;
     max-width: 62% !important;
   }
 
-  .ford-page #serico .sortimo-component.wide-image .text-container {
+  .manufacturer-page #serico .sortimo-component.wide-image .text-container {
     width: 38% !important;
     max-width: 38% !important;
     min-height: 400px !important;
@@ -7224,12 +7238,12 @@ justify-content: center;
 }
 
 @media (min-width: 1400px) {
-  .ford-page #serico .sortimo-component.wide-image .image-container {
+  .manufacturer-page #serico .sortimo-component.wide-image .image-container {
     width: 68% !important;
     max-width: 68% !important;
   }
 
-  .ford-page #serico .sortimo-component.wide-image .text-container {
+  .manufacturer-page #serico .sortimo-component.wide-image .text-container {
     width: 32% !important;
     max-width: 32% !important;
     min-height: 420px !important;
@@ -7237,56 +7251,56 @@ justify-content: center;
 }
 
 @media (max-width: 1023px) {
-  .ford-page #serico-hg .sty-wid,
-  .ford-page #serico-hg .sty-wid1 {
+  .manufacturer-page #serico-hg .sty-wid,
+  .manufacturer-page #serico-hg .sty-wid1 {
     width: 100% !important;
     padding-left: 15px;
     padding-right: 15px;
     box-sizing: border-box;
   }
 
-  .ford-page .sortimo-component.text-picture-component .image-container,
-  .ford-page .sortimo-component.text-picture-component .text-container {
+  .manufacturer-page .sortimo-component.text-picture-component .image-container,
+  .manufacturer-page .sortimo-component.text-picture-component .text-container {
     width: 100% !important;
     max-width: 100% !important;
     float: none !important;
   }
 
-  .ford-page .sortimo-component.text-picture-component .text-container {
+  .manufacturer-page .sortimo-component.text-picture-component .text-container {
     min-height: 0 !important;
     padding: 24px 20px !important;
   }
 
-  .ford-page .sortimo-component.text-picture-component .text-container .arrow-container {
+  .manufacturer-page .sortimo-component.text-picture-component .text-container .arrow-container {
     display: none !important;
   }
 
-  .ford-page #serico .sortimo-component.wide-image .image-container,
-  .ford-page #serico .sortimo-component.wide-image .text-container {
+  .manufacturer-page #serico .sortimo-component.wide-image .image-container,
+  .manufacturer-page #serico .sortimo-component.wide-image .text-container {
     width: 100% !important;
     max-width: 100% !important;
     min-height: 0 !important;
   }
 
-  .ford-page .sortimo-component.download-component .download-item {
+  .manufacturer-page .sortimo-component.download-component .download-item {
     width: 100% !important;
     max-width: 340px !important;
   }
 }
 
 @media (max-width: 639px) {
-  .ford-page .sortimo-component.text-picture-component.wide-low .image-container,
-  .ford-page .sortimo-component.text-picture-component.wide-high .image-container,
-  .ford-page .sortimo-component.text-picture-component.wide-image .image-container {
+  .manufacturer-page .sortimo-component.text-picture-component.wide-low .image-container,
+  .manufacturer-page .sortimo-component.text-picture-component.wide-high .image-container,
+  .manufacturer-page .sortimo-component.text-picture-component.wide-image .image-container {
     min-height: 200px;
   }
 
-  .ford-page #serico-hg .text-component.big-header .component-headline {
+  .manufacturer-page #serico-hg .text-component.big-header .component-headline {
     font-size: 24px !important;
     line-height: 1.3;
   }
 
-  .ford-page #serico-hg .text-component.small-header .component-headline {
+  .manufacturer-page #serico-hg .text-component.small-header .component-headline {
     font-size: 22px !important;
     line-height: 1.3;
   }
