@@ -51,7 +51,7 @@
 
 </head>
 
-<body>
+<body class="manufacturer-page fr5-page">
 
 
   <?php $page = 'product';

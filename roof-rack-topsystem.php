@@ -54,7 +54,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page topsystem-page">
 
 
 <?php $page ='product';  include'header.php';?>
