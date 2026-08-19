@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>
@@ -84,15 +84,18 @@
 
       <h1 class="component-headline ">
         
-        Your Peugeot. <br>Our solution.
+      Your Peugeot- Our Solution
       </h1>
     
     
     
   
 <div class="text">
-        <p>As a partner of the automotive industry, StoreToGo offers made-to-measure individual solutions for Peugeot commercial vehicles, transforming the van into a perfectly organised workshop and significantly improving your working day on the go.</p></div>
-    </div>
+         <p> StoreToGo supports Peugeot van owners in upgrading and customising their vans with organised storage solutions,
+           turning each van into a practical workshop and making daily work easier. 
+
+         </p>
+      </div>
     </div>
 </div></div>
 
@@ -123,14 +126,24 @@
     
       <div class="component-headline ">
         
-        Efficient in everyday working!
+      Smarter Working, Everyday
       </div>
     
     
   
 <div class="text">
-      <p style="text-align: center;">As a<strong> partner of the automotive industry</strong>, StoreToGo opens new horizons for <strong>cr</strong><strong>aftsmen and service providers</strong>.With  the StoreToGo fittings, Peugeot's utility vehicle is transformed into a  <strong>perfectly organized workshop</strong> that <strong>allows for a professional day-to-day  job and is a great time saver</strong>.</p> <p style="text-align: center;">We meet individual needs as a partner of Peugeot. With the Online Configurator StoreToGo configuration lets you <strong>create 100% customised load area concepts for every Peugeot</strong> make <strong>o</strong><strong>nline</strong>, <strong>quickly and easily </strong>order it <strong>online</strong> and have it installed in StoreToGo nationwide installation network.</p></div>
-  </div></div>
+      <p style="text-align: center;">StoreToGo provides customized van racking solutions for Peugeot commercial vehicles,
+         helping service providers to install efficient storage setup inside their van, transforming them into an organized workshop.
+
+            
+            </p>
+          <p style="text-align: center;"> Additionally with StoreToGo online configurator that lets you design your customized load area solutions suited for every Peugeot model.
+             You can also order it and have it installed inside the vehicle through our nationwide installation network. 
+
+          </p>
+          </div>
+  
+    </div></div>
 
 </div>
 <!-- END -->
@@ -198,7 +211,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-       Your individual route to the perfect racking solution for Peugeot commercial vehicles
+      Smart Van Racking Solutions For Peugeot Commercial Vehicles
       </h2>
     
   
@@ -241,8 +254,11 @@
     
   
 <div class="text">
-        <p>With StoreToGo configuration, the StoreToGo Online Configurator, you can configure your own individual SR5 van racking in only a few steps, tailor-made for every Peugeot make online and also configure it for your specific industry.</p>
-    </div>
+        <p> With StoreToGo online configurator, now customers can design their own SR5 van racking system online. 
+          You can choose a storage setup that fits your Peugeot van model and the industrial requirements.  
+
+        </p>
+      </div>
     </div>
 </div></div>
 </div>
