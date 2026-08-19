@@ -46,7 +46,7 @@
 
 
 </head>
-<body>
+<body class="manufacturer-page">
 
 
 <?php $page ='product';  include'header.php';?>
@@ -77,16 +77,19 @@
       ">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
         <h1 class="component-headline ">
-        
-        Renault and StoreToGo. <br> Common Solutions!
+        StoreToGo and Renault
       </h1>
     
     
     
   
 <div class="text">
-        <p><strong>Renault and StoreToGo</strong> work closely on joint solutions for trade and service providers. With individual solutions from StoreToGo or practical solutions <strong>directly from the factory of Renault</strong>, we offer fast procurement routes and an <strong>optimization of the mobile workday</strong> - along with a significant increase in productivity.</p></div>
-    </div>
+         <p> StoreToGo now partners with Renault to provide customized mobile work solutions for service providers and tradespeople.
+           Together we make it easier for customers to avail the best vehicle set up suited to their day-to-day requirements. 
+           Our goal is to make sure you get the right van racking solutions without any delay. 
+
+         </p>
+      </div>
     </div>
 </div></div>
    
@@ -105,8 +108,20 @@
 <div id="comp_00001AHI" class="sortimo-component text-component small-header
 ">
   <div class="text">
-      <p style="text-align: center;">As a <strong>Partner of Renault</strong>, we very specifically simplify the procurement channels by offering joint solutions <strong>delivered directly from the Renault factory</strong> – at attractive prices. Simply ask your Renault salesperson.</p> <p style="text-align: center;">We also meet your very individual requirements. The online configurator <strong>StoreToGo configuration</strong> lets you create <strong>100% customised load area concepts for every Renault transporter make online</strong>, quickly and easily order it online and have it installed in StoreToGo nationwide installation network.</p> </div>
-  </div></div>
+      <p style="text-align: center;">
+      Being the partner of Renault, we ensure that customers get to buy vans with required storage/load-area setup.
+       Moreover you can order it directly through Renault from their factory, that too at competitive prices.
+        For further details you can inquire with your Renault salesperson. 
+     </p> 
+     <p style="text-align: center;"> There is more to it!  Using StoreToGo’s online configurator, customers  can design their customized load-area
+       set up suited to the different models of Renault transporter or van. You can order and have it installed through
+        StoreToGo’s nationwide installation network.  
+
+     </p>
+
+    </div>
+  
+    </div></div>
 
 </div>
 <!-- END -->
@@ -174,7 +189,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-       Your individual route to the perfect racking solution for Renault
+      Discover The Perfect Racking Solution For Renault
       </h2>
     
   
@@ -189,7 +204,7 @@
 <div id="comp_00001AKL" class="sortimo-component text-component small-header
 ">
       <h2 class="component-headline ">
-       Simply configure van racking online
+      Simply Configure Van Racking Online
       </h2>
     
   
@@ -218,8 +233,11 @@
 
 
 <div class="text">
-        <p>With <strong>StoreToGo configuration</strong>, the StoreToGo online configurator, you can configure your own individual<strong> SR5 van racking</strong> in only <strong>a</strong> <strong>few step</strong>s, tailor-made for every Renault make online and also configure it for your specific industry.</p>
-        </div>
+        <p> With our online configurator Renault customers can now design their own SR5 van racking system.
+          You can choose a set up that fits your exact Renault model and the industrial needs.  
+
+        </p>
+      </div>
     </div>
     </div>
 </div></div>
@@ -234,7 +252,7 @@
 ">
    <h3 class="component-headline ">
         
-        Order StoreToGo directly ex-works from Renault
+   Get Your StoreToGo Van Racking Directly Through Renault 
       </h3>
     
 </div></div>
@@ -258,8 +276,11 @@
 
 
 <div class="text">
-        <p>One-stop supplier! StoreToGo van racking systems can be<strong> purchased and financed directly together with the transporter</strong>. The customer therefore receives his complete vehicle at a single point of contact, saving time, costs and unnecessary organisational processes. The factory solutions can be purchased from every Renault vehicles dealership.</p>
-        </div>
+         <p> Customers can buy a Renault van with StoreToGo racking already included through any Renault commercial vehicle dealership.
+           This way you get a fully equipped vehicle from a single contact point, saving time and money.  
+
+         </p>
+      </div>
     </div>
     <div class="image-container vdssf" style="width: 695px; height: 340px;
         background-image: url('images/product/renault-werksloesungen-695x340.jpg');  float: right;">
