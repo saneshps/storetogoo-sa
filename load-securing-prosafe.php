@@ -158,7 +158,11 @@
 
 <div class="text">
 
-      <p style="text-align: center;"><strong>Professional and legal securing of loads</strong> is child's play for <strong>StoreToGo van racking including the integrated ProSafe load securing concept.</strong> More <strong>accessories</strong> can be used to lash additional transport goods so that you are on the safe side, even on tight bends or with sharp braking.</p></div>
+      <p style="text-align: center;">
+      StoreToGo van racking ensures that your cargo is properly secured. With the integrated ProSafe system and optional accessories,
+       you can strap down additional items, preventing slipping during sudden turns or braking.
+
+          </p></div>
 
   </div></div>
 
@@ -496,7 +500,7 @@
 
         
 
-        Our service to you 
+      Our Services For You 
 
       </div>
 
@@ -506,7 +510,7 @@
 
         
 
-        The most important rules as an overview!
+      The most important rules are as follows: 
 
       </div>
 
@@ -546,13 +550,13 @@
 
                   <span class="text-span">
 
-                    Intact securing equipment and load-securing surface</span>
+                  Keep the loading area and equipment clean </span>
 
                 </h2>
 
               <div class="text">
 
-            All securing equipment must be in perfect condition. In order to guarantee maximum safety, the load area must be swept clean and be free from oil at all times.
+              Ensure that all the anchor points, straps and other equipment that secure goods are in good condition. Keep the loading area clean and free from oil and dust. 
 
 </div>
 
@@ -566,13 +570,13 @@
 
                   <span class="text-span">
 
-                    Adequate ventilation</span>
+                  Ensure proper ventilation when carrying gases </span>
 
                 </h4>
 
               <div class="text">
 
-            When transporting gases, the vehicle must have adequate ventilation (floor, roof or side vents).</div>
+              While transporting gas cylinders, ensure that the vehicles have enough ventilation through the roof, side vents and floor.  </div>
 
         </div>
 
@@ -584,13 +588,14 @@
 
                   <span class="text-span">
 
-                    Roadworthiness</span>
+                  Always Use The Correct Securing Equipment </span>
 
                 </h2>
 
               <div class="text">
 
-            The vehicle and load must be checked for roadworthiness before setting off. You need to check the load securing after sharp braking or other unusual load levels.</div>
+              Make sure to use straps, anchor points and other securing equipment that are strong enough to hold the load in place.
+               Do not overload the vehicle beyond the permitted total vehicle weight and axle weight limits. </div>
 
         </div>
 
@@ -612,13 +617,13 @@
 
                   <span class="text-span">
 
-                    Intact securing equipment and load-securing surface</span>
+                  Keep the loading area and equipment clean </span>
 
                 </h2>
 
               <div class="text">
 
-            All securing equipment must be in perfect condition. In order to guarantee maximum safety, the load area must be swept clean and be free from oil at all times.
+              Ensure that all the anchor points, straps and other equipment that secure goods are in good condition. Keep the loading area clean and free from oil and dust. 
 
 </div>
 
@@ -632,13 +637,13 @@
 
                   <span class="text-span">
 
-                    Adequate ventilation</span>
+                  Ensure proper ventilation when carrying gases </span>
 
                 </h2>
 
               <div class="text">
 
-            When transporting gases, the vehicle must have adequate ventilation (floor, roof or side vents).</div>
+              While transporting gas cylinders, ensure that the vehicles have enough ventilation through the roof, side vents and floor.  </div>
 
         </div>
 
@@ -650,13 +655,14 @@
 
                   <span class="text-span">
 
-                    Roadworthiness</span>
+                  Always Use The Correct Securing Equipment </span>
 
                 </h2>
 
               <div class="text">
 
-            The vehicle and load must be checked for roadworthiness before setting off. You need to check the load securing after sharp braking or other unusual load levels.</div>
+              Make sure to use straps, anchor points and other securing equipment that are strong enough to hold the load in place.
+               Do not overload the vehicle beyond the permitted total vehicle weight and axle weight limits.  </div>
 
         </div>
 
@@ -676,15 +682,14 @@
 
         
 
-        The right securing system
+          Safe Loading
 
       </h2>
 
     
 
 <div class="text">
-
-            The load-securing equipment and the ve&shy;hicle must be suitable for transporting the load. The lashing facilities must have an adequate load-bearing capability (mark&shy;ing by sticker) and must be suitable for secur&shy;ing the load. The permissible total weight and the permissible axle loading of the vehicle must also be taken into account.
+Always place the heavy items on the lower side. Properly secure everything so that it wouldn’t slide or fall down. 
 
 </div>
 
@@ -704,15 +709,14 @@
 
         
 
-        Stable loading
+          Check the vehicle
 
       </h2>
 
   
 
 <div class="text">
-
-            The load must not impair handling and stability. The change in the centre of gravity from the load does, however, lead to modified handling of the vehicle. Heavy loads should always be stowed as low as possible in the vehicle. The load must be secured from slipping and tipping over.
+Make sure the vehicle is in good condition, is safe to drive and the load is secure. 
 
 </div>
 
