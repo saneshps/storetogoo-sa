@@ -110,7 +110,7 @@ This practical mobile storage unit can be adapted for different types of work.
 
 
 <section id="serico">
-  <div class="container-fluid">
+  <div class="container">
   
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component tile-component vuidjb" id="">

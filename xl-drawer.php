@@ -75,7 +75,7 @@
       
 
 
-      <div class="row" style="background-color: #eeeff1;" >
+      <div class="row">
  <div class="yCmsComponent sortimo-component-slot clearfix">
 <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_000019MH">
   <div class="row" style="background-color: #eeeff1;">

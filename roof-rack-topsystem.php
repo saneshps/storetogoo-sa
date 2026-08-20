@@ -103,7 +103,7 @@
 
 
 <section id="serico">
-  <div class="container-fluid">
+  <div class="container">
    
    <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component tile-component dxfsdzvffffsdfhxd" id="">

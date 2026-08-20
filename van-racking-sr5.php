@@ -83,17 +83,17 @@
       </div>
 
 
-      <div class="row pr-top" style="background-color: #eeeff1;" >
+      <div class="row pr-top">
    <div class="yCmsComponent sortimo-component-slot clearfix">
 <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_00002FYR">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="image-container safSfda" style="width: 1050px; height: 510px;
         background-image: url('images/product/EN-SR5-award-text-bild-wide-1050x510.gif');  float: left;">
         <img src="images/product/EN-SR5-award-text-bild-wide-1050x510.gif" style="visibility: hidden;">
       </div>  
     <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 340px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
       ">
-      <div class="arrow-container" style="background-color: #eeeff1;"></div>
+      <div class="arrow-container"></div>
       
 
 
@@ -980,7 +980,7 @@
 <div class="row ne-top1">
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-low text-picture-component wide-low-left" id="comp_000019NZ">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="image-container sdfqwervqw" style="width: 695px; height: 340px;
         background-image: url('images/product/fahrzeugeinrichtung-sr5-boxxen-kompatibel-695x340.jpg');  float: left;">
         <img src="images/product/fahrzeugeinrichtung-sr5-boxxen-kompatibel-695x340.jpg" style="visibility: hidden;">
@@ -1009,7 +1009,7 @@
 <div class="row ne-top">
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-low text-picture-component wide-low-right" id="comp_000019O1">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 695px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
       ">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
@@ -1036,7 +1036,7 @@
 <div class="row ne-top">
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-low text-picture-component wide-low-left" id="comp_000019O0">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="image-container sdfqwervqw" style="width: 695px; height: 340px;
         background-image: url('images/product/fahrzeugeinrichtung-sr5-hersteller-kompatibel-695x340.jpg');  float: left;">
         <img src="images/product/fahrzeugeinrichtung-sr5-hersteller-kompatibel-695x340.jpg" style="visibility: hidden;">
@@ -1111,7 +1111,7 @@
 <div class="row ne-top">
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-high text-picture-component wide-high-right" id="comp_000019L2">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;
       ">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
@@ -1149,7 +1149,7 @@
 <div class="row ne-top">
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_000019OH">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="image-container sdfqwervqw" style="width: 695px; height: 510px;
         background-image: url('images/product/fahrzeugeinrichtungen-jumbounit-695x510.jpg');  float: left;">
         <img src="images/product/fahrzeugeinrichtungen-jumbounit-695x510.jpg" style="visibility: hidden;">

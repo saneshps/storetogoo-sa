@@ -167,7 +167,7 @@ Mobile Working Is Now Easier
 
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-high text-picture-component wide-high-right" id="comp_00002TVN">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="sortimo-blue-link text-container sortimo-dark-hover khsism" style="width: 695px; min-height: 510px; float: left;background-color: #eeeff1;color: #546373;
       ">
       <div class="arrow-container" style="background-color: #eeeff1;"></div>
@@ -201,7 +201,7 @@ Mobile Working Is Now Easier
 
 <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-high text-picture-component wide-high-left" id="comp_00002TVO">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="image-container" style="width: 695px; height: 510px;
         background-image: url('images/product/mobiles-arbeiten-boxxen-koffer-695x510.jpg');  float: left;">
         <img src="images/product/mobiles-arbeiten-boxxen-koffer-695x510.jpg" style="visibility: hidden;">
