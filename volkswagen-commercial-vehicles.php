@@ -339,7 +339,7 @@
 <!-- STRT -->
 <div class="row sty-wid1">
   <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
-<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs" id="">
+<div class="sortimo-component tile-component nex-t vuidjbsadgfsadffs workplace-hero-tiles" id="">
   <div class="low single-tile small OADFHAWSDFNC SDFFGVSDZXCV erftg" style="background-image: url('images/product/volkswagen-kachel-branchenloesung-crafter-elektro-340x340.jpg'); ">
       <div class="sortimo-animate sortimo-tile-from-right" style="display: block;">
           <div class="text">

@@ -7086,12 +7086,17 @@ justify-content: center;
   }
 }
 
-/* ===== Manufacturer product pages (Ford, Iveco, etc.) ===== */
+/* ===== Manufacturer product pages (Ford, Iveco, VW, etc.) ===== */
+.manufacturer-page #serico,
+.manufacturer-page #serico-hg {
+  overflow-x: hidden;
+}
+
 .manufacturer-page #serico .yCmsComponent.sortimo-component-slot,
 .manufacturer-page #serico-hg .row.sty-wid > .yCmsComponent,
 .manufacturer-page #serico-hg .row.sty-wid1 > .yCmsComponent,
 .manufacturer-page #serico-hg .row.sty-wid.ford-tiles-row > .yCmsComponent {
- 
+  width: 100% !important;
   max-width: 100% !important;
   margin-left: 0 !important;
   margin-right: 0 !important;
@@ -7100,10 +7105,15 @@ justify-content: center;
 }
 
 .manufacturer-page #serico-hg .row.sty-wid,
-.manufacturer-page #serico-hg .row.sty-wid1 { 
-  max-width: 100% !important;
+.manufacturer-page #serico-hg .row.sty-wid1,
+.manufacturer-page #serico .centet-all,
+.manufacturer-page #serico-hg .centet-all {
+  width: 92% !important;
+  max-width: 1390px !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  float: none !important;
+  box-sizing: border-box;
 }
 
 .manufacturer-page #serico .container-fluid,
@@ -7124,28 +7134,41 @@ justify-content: center;
   width: 100% !important;
   max-width: 100% !important;
   float: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
 
 .manufacturer-page .sortimo-component.text-picture-component > .row {
   display: flex !important;
-  flex-wrap: wrap !important;
+  flex-wrap: nowrap !important;
+  align-items: stretch !important;
   width: 100% !important;
   margin: 0 !important;
+}
+
+/* Bootstrap clearfix pseudo-elements break flex alignment */
+.manufacturer-page .sortimo-component.text-picture-component > .row:before,
+.manufacturer-page .sortimo-component.text-picture-component > .row:after {
+  display: none !important;
+  content: none !important;
 }
 
 .manufacturer-page .sortimo-component.text-picture-component .image-container,
 .manufacturer-page .sortimo-component.text-picture-component .text-container {
   float: none !important;
+  flex: 1 1 50%;
   width: 50% !important;
   max-width: 50% !important;
   box-sizing: border-box !important;
   height: auto !important;
+  align-self: stretch !important;
 }
 
 .manufacturer-page .sortimo-component.text-picture-component .image-container {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
+  position: relative;
 }
 
 .manufacturer-page .sortimo-component.text-picture-component.wide-low .image-container {
@@ -7168,18 +7191,82 @@ justify-content: center;
   width: 100% !important;
   height: auto !important;
   max-width: 100%;
+  visibility: hidden;
 }
 
 .manufacturer-page .sortimo-component.text-picture-component .text-container {
-  min-height: auto !important;
-  display: flex;
+  position: relative;
+  min-height: 0 !important;
+  display: flex !important;
   flex-direction: column;
   justify-content: center;
   padding: 28px 32px !important;
 }
 
+.manufacturer-page .sortimo-component.text-picture-component .text-container .text {
+  width: 100%;
+}
+
 .manufacturer-page .sortimo-component.text-picture-component .text-container .text p {
   margin-bottom: 0;
+}
+
+.manufacturer-page .sortimo-component.text-picture-component .text-container .text ul {
+  margin: 12px 0 0;
+  padding-left: 1.25em;
+}
+
+/* Industry / deals tile rows — equal height, centered */
+.manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles,
+.manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs {
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  width: 100% !important;
+  max-width: 100% !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  overflow: visible !important;
+}
+
+.manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles .single-tile,
+.manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs .single-tile {
+  float: none !important;
+  box-sizing: border-box !important;
+  margin: 0 5px 10px !important;
+  height: auto !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small,
+.manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs .single-tile.small {
+  flex: 0 0 calc(25% - 10px);
+  width: calc(25% - 10px) !important;
+  max-width: calc(25% - 10px) !important;
+  padding-top: calc(25% - 10px) !important;
+}
+
+.manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide,
+.manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs .single-tile.wide {
+  flex: 0 0 calc(50% - 10px);
+  width: calc(50% - 10px) !important;
+  max-width: calc(50% - 10px) !important;
+  padding-top: calc(25% - 10px) !important;
+}
+
+.manufacturer-page #serico-hg .workplace-hero-tiles .align-container,
+.manufacturer-page #serico-hg .vuidjbsadgfsadffs .align-container,
+.manufacturer-page #serico-hg .nex-t.vuidjbsadgfsadffs .align-container.vfkas {
+  padding-top: 0 !important;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  text-align: center;
 }
 
 .manufacturer-page .sortimo-component.download-component {
@@ -7228,12 +7315,14 @@ justify-content: center;
   .manufacturer-page #serico .sortimo-component.wide-image .image-container {
     width: 62% !important;
     max-width: 62% !important;
+    flex: 1 1 62%;
   }
 
   .manufacturer-page #serico .sortimo-component.wide-image .text-container {
     width: 38% !important;
     max-width: 38% !important;
-    min-height: 400px !important;
+    flex: 1 1 38%;
+    min-height: 0 !important;
   }
 }
 
@@ -7241,26 +7330,47 @@ justify-content: center;
   .manufacturer-page #serico .sortimo-component.wide-image .image-container {
     width: 68% !important;
     max-width: 68% !important;
+    flex: 1 1 68%;
   }
 
   .manufacturer-page #serico .sortimo-component.wide-image .text-container {
     width: 32% !important;
     max-width: 32% !important;
-    min-height: 420px !important;
+    flex: 1 1 32%;
+    min-height: 0 !important;
+  }
+}
+
+/* Keep manufacturer rows at the same centered width on huge screens */
+@media only screen and (min-width: 1920px) {
+  .manufacturer-page #serico-hg .row.sty-wid,
+  .manufacturer-page #serico-hg .row.sty-wid1,
+  .manufacturer-page #serico .centet-all,
+  .manufacturer-page #serico-hg .centet-all {
+    width: 85% !important;
+    max-width: 1600px !important;
   }
 }
 
 @media (max-width: 1023px) {
-  .manufacturer-page #serico-hg .sty-wid,
-  .manufacturer-page #serico-hg .sty-wid1 {
+  .manufacturer-page #serico-hg .row.sty-wid,
+  .manufacturer-page #serico-hg .row.sty-wid1,
+  .manufacturer-page #serico .centet-all,
+  .manufacturer-page #serico-hg .centet-all {
     width: 100% !important;
-    padding-left: 15px;
-    padding-right: 15px;
-    box-sizing: border-box;
+    max-width: 100% !important;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .manufacturer-page .sortimo-component.text-picture-component > .row {
+    flex-direction: column !important;
+    flex-wrap: nowrap !important;
   }
 
   .manufacturer-page .sortimo-component.text-picture-component .image-container,
   .manufacturer-page .sortimo-component.text-picture-component .text-container {
+    flex: 1 1 100% !important;
     width: 100% !important;
     max-width: 100% !important;
     float: none !important;
@@ -7286,6 +7396,22 @@ justify-content: center;
     width: 100% !important;
     max-width: 340px !important;
   }
+
+  .manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide,
+  .manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs .single-tile.wide {
+    flex: 0 0 calc(100% - 10px);
+    width: calc(100% - 10px) !important;
+    max-width: calc(100% - 10px) !important;
+    padding-top: 40% !important;
+  }
+
+  .manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small,
+  .manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs .single-tile.small {
+    flex: 0 0 calc(50% - 10px);
+    width: calc(50% - 10px) !important;
+    max-width: calc(50% - 10px) !important;
+    padding-top: calc(50% - 10px) !important;
+  }
 }
 
 @media (max-width: 639px) {
@@ -7303,6 +7429,16 @@ justify-content: center;
   .manufacturer-page #serico-hg .text-component.small-header .component-headline {
     font-size: 22px !important;
     line-height: 1.3;
+  }
+
+  .manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles .single-tile.small,
+  .manufacturer-page .sortimo-component.tile-component.workplace-hero-tiles .single-tile.wide,
+  .manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs .single-tile.small,
+  .manufacturer-page .sortimo-component.tile-component.vuidjbsadgfsadffs .single-tile.wide {
+    flex: 0 0 100%;
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-top: 56% !important;
   }
 }
 
