@@ -90,14 +90,14 @@
 
 
 <section id="serico">
-  <div class="container">
+  <div class="container-fluid">
    
    <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_00002FYR">
   <div class="row" style="background-color: #eeeff1;">
     <div class="image-container safSfda" style="width: 1050px; height: 510px;
         background-image: url('images/product/EN-SR5-award-text-bild-wide-1050x510.gif');  float: left;">
-        <img src="images/product/EN-SR5-award-text-bild-wide-1050x510.gif" style="visibility: hidden;">
+        <img src="images/product/EN-SR5-award-text-bild-wide-1050x510.gif" style="visibility: hidden;" alt="SR5 Plus X Award">
       </div>  
     <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 340px; min-height: 510px; float: right;background-color: #eeeff1;color: #546373;
       ">
@@ -158,8 +158,8 @@
 
 
 <!-- STRT -->
-<div class="row sty-wid centet-all asdffASCVBN">
-<div class="yCmsComponent sortimo-component-slot snclxAVNlmdvbjk" style="margin-right: 10px">
+<div class="row sty-wid centet-all asdffASCVBN sr5-square-row">
+<div class="yCmsComponent sortimo-component-slot snclxAVNlmdvbjk">
 <div class="sortimo-component square-small text-picture-component square-small-right" id="comp_00002ZGJ">
   <div class="row" style="background-color: #eeeff1;">
     <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 340px; min-height: 340px; float: left;background-color: #eeeff1;color: #546373;
@@ -175,7 +175,7 @@
     </div>
     <div class="image-container" style="width: 340px; height: 340px;
         background-image: url('images/product/fahrzeugeinrichtung-sr5-labels-340x340.gif');  float: right;">
-        <img src="images/product/fahrzeugeinrichtung-sr5-labels-340x340.gif" style="visibility: hidden;">
+        <img src="images/product/fahrzeugeinrichtung-sr5-labels-340x340.gif" style="visibility: hidden;" alt="SR5 labels">
       </div>  
     </div>
 </div></div>
@@ -185,7 +185,7 @@
   <div class="row" style="background-color: #eeeff1;">
     <div class="image-container" style="width: 340px; height: 340px;
         background-image: url('images/product/fahrzeugeinrichtung-sr5-inlay-340x340.gif');  float: left;">
-        <img src="images/product/fahrzeugeinrichtung-sr5-inlay-340x340.gif" style="visibility: hidden;">
+        <img src="images/product/fahrzeugeinrichtung-sr5-inlay-340x340.gif" style="visibility: hidden;" alt="SR5 foam inserts">
       </div>  
     <div class="sortimo-blue-link text-container sortimo-dark-hover" style="width: 340px; min-height: 340px; float: right;background-color: #eeeff1;color: #546373;
       ">
@@ -208,7 +208,7 @@
 <!-- STRT -->
 <div class="row sty-wid">
 <div class="yCmsComponent sortimo-component-slot clearfix">
-<div class="sortimo-component anchor-component" id="comp_000019KP">
+<div class="sortimo-component anchor-component sr5-anchors" id="comp_000019KP">
   <div class="anchor-item" onclick="window.open('#comp_000019NY','_self');">
       <div class="icon">
         <svg id="icon_anchor-vorteile" data-name="icon anchor-vorteile" xmlns="http://www.w3.org/2000/svg" width="27" height="28" viewBox="0 0 27 28"><defs><style>.icon_anchor-vorteile-cls-1{fill:#fff;}</style></defs><title>icon_anchor-vorteile</title><path class="icon_anchor-vorteile-cls-1" d="M.6,28.9H-2.8V13.27H.6ZM3.34,14.21V25.27H7c1.44,0,4,1.89,6.42,1.89s6.15.19,7.46-.84a2.45,2.45,0,0,0,1.19-2c0-.68-.3-1-.08-1.75s.82-.73,1.22-2.17c.16-.58-.32-1.39-.19-2.07s.91-1.2,1-2.33c.07-1.4-.93-1-.88-2.18s1.15-1.09,1.15-2.4S22.84,9.06,17.49,9.7c-1.81.22-2.31,0-1.81-2.11S17.5.9,13.29.9c-1,0-.53,2.16-.74,3.47s-4.66,6.21-6.9,7.73S3.34,14.21,3.34,14.21Z" transform="translate(2.8 -0.9)"></path></svg></div>
@@ -271,40 +271,40 @@
 <!-- STRT -->
 <div class="row sty-wid">
   <div class="yCmsComponent sortimo-component-slot clearfix">
-<div class="sortimo-component slots-component" id="cmsitem_00006114">
+<div class="sortimo-component slots-component sr5-slots" id="cmsitem_00006114">
   <div class="item-wrapper">
     <div class="slot-item sortimo-blue-hover sortimo-white-link small-slot small-margin">
         <div class="image-container ">
-          <img src="images/product/sr5-kampagne-landingpage-laderaumnutzung-340x340.jpg" class="">
+          <img src="images/product/sr5-kampagne-landingpage-laderaumnutzung-340x340.jpg" alt="Maximum load space utilisation">
         </div>
-        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255); height: 177.2px;">
+        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255);">
           <div class="text">
             Maximum load space utilisation</div>
         </div>
       </div>
       <div class="slot-item sortimo-blue-hover sortimo-white-link small-slot small-margin">
         <div class="image-container">
-          <img src="images/product/sr5-kampagne-landingpage-konfigurieren-340x340.jpg" class="">
+          <img src="images/product/sr5-kampagne-landingpage-konfigurieren-340x340.jpg" alt="Can be configured online">
         </div>
-        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255); height: 177.2px;">
+        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255);">
           <div class="text">
             Can be configured online</div>
         </div>
       </div>
       <div class="slot-item sortimo-blue-hover sortimo-white-link small-slot small-margin">
         <div class="image-container">
-          <img src="images/product/sr5-kampagne-landingpage-produktivitaet-340x340.jpg" class="">
+          <img src="images/product/sr5-kampagne-landingpage-produktivitaet-340x340.jpg" alt="Highest productivity">
         </div>
-        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255); height: 177.2px;">
+        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255);">
           <div class="text">
-            Highest productivity<br>&nbsp;</div>
+            Highest productivity</div>
         </div>
       </div>
       <div class="slot-item sortimo-blue-hover sortimo-white-link small-slot small-margin">
         <div class="image-container">
-          <img src="images/product/sr5-kampagne-landingpage-systemkompatibel-340x340.jpg" class="">
+          <img src="images/product/sr5-kampagne-landingpage-systemkompatibel-340x340.jpg" alt="Tried and tested quality and individuality">
         </div>
-        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255); height: 177.2px;">
+        <div class="text-container" style="background-color: rgb(0, 104, 180); color: rgb(255, 255, 255);">
           <div class="text">
             Tried and tested quality &amp; individuality</div>
         </div>
