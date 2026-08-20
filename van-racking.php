@@ -81,7 +81,7 @@ include 'express.php'; ?>
    
    <div class="yCmsComponent sortimo-component-slot clearfix centet-all">
 <div class="sortimo-component wide-image text-picture-component wide-image-left" id="comp_000019NC">
-  <div class="row" style="background-color: #eeeff1;">
+  <div class="row">
     <div class="image-container safSfda" style="width: 1050px; height: 510px;
         background-image: url('images/product/fahrzeugeinrichtungen-header-1050x510.jpg');  float: left;">
         <img src="images/product/fahrzeugeinrichtungen-header-1050x510.jpg" style="visibility: hidden;" alt="van racking in uae">

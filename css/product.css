@@ -733,6 +733,7 @@ justify-content: center;
   margin-right: 15px;
 
   position: relative;
+  width: 100%;
 
 }
 
@@ -7090,7 +7091,7 @@ justify-content: center;
 .manufacturer-page #serico-hg .row.sty-wid > .yCmsComponent,
 .manufacturer-page #serico-hg .row.sty-wid1 > .yCmsComponent,
 .manufacturer-page #serico-hg .row.sty-wid.ford-tiles-row > .yCmsComponent {
-  width: 100% !important;
+ 
   max-width: 100% !important;
   margin-left: 0 !important;
   margin-right: 0 !important;
@@ -7099,8 +7100,7 @@ justify-content: center;
 }
 
 .manufacturer-page #serico-hg .row.sty-wid,
-.manufacturer-page #serico-hg .row.sty-wid1 {
-  width: 100% !important;
+.manufacturer-page #serico-hg .row.sty-wid1 { 
   max-width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
